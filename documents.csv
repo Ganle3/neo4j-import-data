@@ -1,3 +1,3 @@
-doc_id,name
-Zurich_en,Zurich_en
-Zurich_historic_en,Zurich_historic_en
+doc_id,source,page_title
+doc_translated_mmd_zurich_en,translated_mmd,Zurich_en
+doc_translated_mmd_zurich_historic_en,translated_mmd,Zurich_historic_en
