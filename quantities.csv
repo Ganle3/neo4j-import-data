@@ -19,112 +19,112 @@ q17,55,55,,,students,count
 q18,35,35,,,students,count
 q19,7×10–11 meters,,70,77,square meters,area
 q20,7×9 meters,63,,,square meters,area
-q21,42,000 Fr.,42000,,,Fr.,money
+q21,"42,000 Fr.",42000,,,Fr.,money
 q22,770 Fr.,770,,,Fr.,money
 q23,25.73 Fr.,25.73,,,Fr.,money
 q24,9,9,,,,count
 q25,two storeys,2,,,storeys,other
 q26,more than half,,,,,percentage
 q27,one floor,1,,,floor,other
-q28,150,703,150703,,,,count
-q29,30,891,30891,,,,count
+q28,"150,703",150703,,,,count
+q29,"30,891",30891,,,,count
 q30,about 2/10,0.2,,,fraction,percentage
-q31,30,864,30864,,,,count
-q32,45,187,45187,,,,count
+q31,"30,864",30864,,,,count
+q32,"45,187",45187,,,,count
 q33,3/10,0.3,,,fraction,percentage
-q34,106,942,106942,,,,count
+q34,"106,942",106942,,,,count
 q35,7/10,0.7,,,fraction,percentage
-q36,43,761,43761,,,,count
+q36,"43,761",43761,,,,count
 q37,3/10,0.3,,,fraction,percentage
-q38,102,794,102794,,,,count
-q39,43,655,43655,,,,count
-q40,2,713,2713,,,,count
-q41,1,541,1541,,,,count
-q42,140,803,140803,,,,count
-q43,2,586,2586,,,,count
-q44,5,100,5100,,,,count
+q38,"102,794",102794,,,,count
+q39,"43,655",43655,,,,count
+q40,"2,713",2713,,,,count
+q41,"1,541",1541,,,,count
+q42,"140,803",140803,,,,count
+q43,"2,586",2586,,,,count
+q44,"5,100",5100,,,,count
 q45,415,415,,,,count
-q46,1,799,1799,,,,count
+q46,"1,799",1799,,,,count
 q47,47.5%,47.5,,,%,percentage
 q48,52.5%,52.5,,,%,percentage
-q49,172,855,172855,,,,count
-q50,177,437,177437,,,,count
-q51,180,224,180224,,,,count
-q52,1,000 to 2,000,,1000,2000,,count
-q53,4,582 persons,4582,,,persons,count
+q49,"172,855",172855,,,,count
+q50,"177,437",177437,,,,count
+q51,"180,224",180224,,,,count
+q52,"1,000 to 2,000",,1000,2000,,count
+q53,"4,582 persons",4582,,,persons,count
 q54,2.65%,2.65,,,%,percentage
-q55,about 200,000,200000,,,,count
-q56,4,921,4921,,,,count
-q57,2,357,2357,,,,count
-q58,2,564,2564,,,,count
+q55,"about 200,000",200000,,,,count
+q56,"4,921",4921,,,,count
+q57,"2,357",2357,,,,count
+q58,"2,564",2564,,,,count
 q59,99,99,,,,count
 q60,96,96,,,,count
-q61,2,710,2710,,,,count
-q62,1,323,1323,,,,count
-q63,1,387,1387,,,,count
-q64,1,674,1674,,,,count
+q61,"2,710",2710,,,,count
+q62,"1,323",1323,,,,count
+q63,"1,387",1387,,,,count
+q64,"1,674",1674,,,,count
 q65,212,212,,,,count
-q66,1,397,1397,,,,count
+q66,"1,397",1397,,,,count
 q67,931,931,,,,count
 q68,466,466,,,,count
 q69,829,829,,,,count
 q70,129,129,,,,count
 q71,439,439,,,,count
-q72,1,816,1816,,,rate,count
-q73,1,417,1417,,,rate,count
+q72,"1,816",1816,,,rate,count
+q73,"1,417",1417,,,rate,count
 q74,22%,22,,,%,percentage
-q75,2,702,2702,,,count,count
-q76,1,919,1919,,,count,count
+q75,"2,702",2702,,,count,count
+q76,"1,919",1919,,,count,count
 q77,32.84‰,32.84,,,per mille,percentage
 q78,25.23‰,25.23,,,per mille,percentage
 q79,23.25‰,23.25,,,per mille,percentage
-q80,81,531,81531,,,taxpayers,count
-q81,1,678,1678,,,taxpayers,count
-q82,5,100 Fr.,5100,,,Fr.,money
-q83,1,026,1026,,,taxpayers,count
-q84,6,100 Fr.,6100,,,Fr.,money
+q80,"81,531",81531,,,taxpayers,count
+q81,"1,678",1678,,,taxpayers,count
+q82,"5,100 Fr.",5100,,,Fr.,money
+q83,"1,026",1026,,,taxpayers,count
+q84,"6,100 Fr.",6100,,,Fr.,money
 q85,298,298,,,taxpayers,count
-q86,10,100 Fr.,10100,,,Fr.,money
-q87,1,532,1532,,,taxpayers,count
-q88,100,000 Fr.,100000,,,Fr.,money
-q89,170,400,170400,,,,count
-q90,78,000,78000,,,,count
-q91,11,500,11500,,,families,count
-q92,44,000,44000,,,,count
-q93,40,700,40700,,,,count
-q94,3,300,3300,,,,count
-q95,1,750,1750,,,,count
-q96,4,300,4300,,,,count
-q97,2,550,2550,,,,count
-q98,1,750,1750,,,,count
-q99,5,050,5050,,,,count
-q100,300,000,300000,,,,count
+q86,"10,100 Fr.",10100,,,Fr.,money
+q87,"1,532",1532,,,taxpayers,count
+q88,"100,000 Fr.",100000,,,Fr.,money
+q89,"170,400",170400,,,,count
+q90,"78,000",78000,,,,count
+q91,"11,500",11500,,,families,count
+q92,"44,000",44000,,,,count
+q93,"40,700",40700,,,,count
+q94,"3,300",3300,,,,count
+q95,"1,750",1750,,,,count
+q96,"4,300",4300,,,,count
+q97,"2,550",2550,,,,count
+q98,"1,750",1750,,,,count
+q99,"5,050",5050,,,,count
+q100,"300,000",300000,,,,count
 q101,40%,40,,,%,percentage
 q102,Half,50,,,%,percentage
-q103,29,500,29500,,,count,count
-q104,25,900,25900,,,count,count
-q105,20,000,20000,,,count,count
-q106,27,100,27100,,,count,count
-q107,40,300,40300,,,count,count
+q103,"29,500",29500,,,count,count
+q104,"25,900",25900,,,count,count
+q105,"20,000",20000,,,count,count
+q106,"27,100",27100,,,count,count
+q107,"40,300",40300,,,count,count
 q108,913,913,,,persons,count
-q109,45,403,45403,,,persons,count
-q110,44,490,44490,,,persons,count
-q111,2,735,2735,,,persons,count
-q112,8,200,8200,,,persons,count
-q113,7,100,7100,,,persons,count
-q114,1,877,1877,,,count,count
-q115,4,246,4246,,,count,count
-q116,23.64,23.64,,,per 1,000 inhabitants,percentage
-q117,2,372,2372,,,count,count
-q118,13.21,13.21,,,per 1,000 inhabitants,percentage
-q119,1,874,1874,,,count,count
-q120,2,787,2787,,,count,count
+q109,"45,403",45403,,,persons,count
+q110,"44,490",44490,,,persons,count
+q111,"2,735",2735,,,persons,count
+q112,"8,200",8200,,,persons,count
+q113,"7,100",7100,,,persons,count
+q114,"1,877",1877,,,count,count
+q115,"4,246",4246,,,count,count
+q116,23.64,23.64,,,"per 1,000 inhabitants",percentage
+q117,"2,372",2372,,,count,count
+q118,13.21,13.21,,,"per 1,000 inhabitants",percentage
+q119,"1,874",1874,,,count,count
+q120,"2,787",2787,,,count,count
 q121,1.57%,1.57,,,%,percentage
 q122,536,536,,,count,count
-q123,1,080,1080,,,count,count
+q123,"1,080",1080,,,count,count
 q124,53.4%,53.4,,,%,percentage
-q125,40,289,40289,,,,count
-q126,21,711,21711,,,,count
+q125,"40,289",40289,,,,count
+q126,"21,711",21711,,,,count
 q127,half,50,,,%,percentage
 q128,a quarter,25,,,%,percentage
 q129,a quarter,25,,,%,percentage
@@ -145,7 +145,7 @@ q143,279 Fr.,279,,,Fr.,money
 q144,213,213,,,,count
 q145,696,696,,,apartments,count
 q146,17.4 million Fr,17400000,,,Fr,money
-q147,14,641,14641,,,buildings,count
+q147,"14,641",14641,,,buildings,count
 q148,750,750,,,buildings,count
 q149,3.5 m,3.5,,,m,distance
 q150,2½ storeys,2.5,,,storeys,other
@@ -154,7 +154,7 @@ q152,2.5 m,2.5,,,m,distance
 q153,7.6%,7.6,,,%,percentage
 q154,19.8%,19.8,,,%,percentage
 q155,681.9 million Swiss francs,681900000,,,Swiss francs,money
-q156,35,900,35900,,,,count
+q156,"35,900",35900,,,,count
 q157,409.2 m,409.2,,,m,elevation
 q158,411.00 m,411.0,,,m,elevation
 q159,408.50 m,408.5,,,m,elevation
@@ -165,40 +165,40 @@ q163,87 m³/s,87,,,m³/s,other
 q164,350 m³/s,350,,,m³/s,other
 q165,15.5 m³/s,15.5,,,m³/s,other
 q166,87.78 km²,87.78,,,km²,area
-q167,4,000 million m³,4000000000,,,m³,other
-q168,1,819.7 km²,1819.7,,,km²,area
+q167,"4,000 million m³",4000000000,,,m³,other
+q168,"1,819.7 km²",1819.7,,,km²,area
 q169,10.9 °C,10.9,,,°C,other
 q170,22.0 °C,22.0,,,°C,other
 q171,5.9 or 11.6 °C,,5.9,11.6,°C,other
 q172,11,11,,,,count
-q173,300,000 to 400,000,,300000,400000,visitors,count
+q173,"300,000 to 400,000",,300000,400000,visitors,count
 q174,Three,3,,,,count
-q175,289,077,289077,,,visitors,count
-q176,343,816,343816,,,visitors,count
-q177,over 320,000 m²,320000,,,m²,area
-q178,4,000,4000,,,,count
+q175,"289,077",289077,,,visitors,count
+q176,"343,816",343816,,,visitors,count
+q177,"over 320,000 m²",320000,,,m²,area
+q178,"4,000",4000,,,,count
 q179,5 and 7.5 m,,5,7.5,m,distance
-q180,58,390 m³,58390,,,m³,area
-q181,21,293 t,21293,,,t,count
-q182,20,231 t,20231,,,t,count
-q183,7,848 m³,7848,,,m³,area
-q184,10,441 buckets,10441,,,buckets,count
-q185,218,502 exchanges,218502,,,exchanges,count
+q180,"58,390 m³",58390,,,m³,area
+q181,"21,293 t",21293,,,t,count
+q182,"20,231 t",20231,,,t,count
+q183,"7,848 m³",7848,,,m³,area
+q184,"10,441 buckets",10441,,,buckets,count
+q185,"218,502 exchanges",218502,,,exchanges,count
 q186,64,64,,,,count
 q187,6 million francs,6000000,,,francs,money
-q188,3,338,3338,,,count,count
-q189,6,820,6820,,,count,count
-q190,1,675,1675,,,count,count
-q191,2,611,2611,,,count,count
-q192,23,519,23519,,,count,count
-q193,29,640,29640,,,count,count
-q194,5,547,5547,,,count,count
+q188,"3,338",3338,,,count,count
+q189,"6,820",6820,,,count,count
+q190,"1,675",1675,,,count,count
+q191,"2,611",2611,,,count,count
+q192,"23,519",23519,,,count,count
+q193,"29,640",29640,,,count,count
+q194,"5,547",5547,,,count,count
 q195,228,228,,,count,count
 q196,307,307,,,count,count
 q197,98,98,,,count,count
-q198,7,687,787 kg,7687787,,,kg,other
-q199,3,954,903 kg,3954903,,,kg,other
-q200,11,642,690 kg,11642690,,,kg,other
+q198,"7,687,787 kg",7687787,,,kg,other
+q199,"3,954,903 kg",3954903,,,kg,other
+q200,"11,642,690 kg",11642690,,,kg,other
 q201,173 g,173,,,g,other
 q202,169 g,169,,,g,other
 q203,85–90 cts.,,85,90,cts,money
@@ -210,14 +210,14 @@ q208,80–100,,80,100,cts,money
 q209,40,40,,,cts,money
 q210,more than three quarters,,,,,percentage
 q211,barely one quarter,,,,,percentage
-q212,119,700 liters,119700,,,liters,count
+q212,"119,700 liters",119700,,,liters,count
 q213,23 cents,0.23,,,cents,money
 q214,5.4,5.4,,,,count
 q215,two,2,,,,count
 q216,727,727,,,,count
-q217,over 1,200,1200,1201,,,count
+q217,"over 1,200",1200,1201,,,count
 q218,75%,75,,,%,percentage
-q219,3,000 q,3000,,,q,count
+q219,"3,000 q",3000,,,q,count
 q220,16 to 48 Fr.,,16,48,Fr.,money
 q221,few,,,,,count
 q222,30–40 Fr. per q,,30,40,Fr. per q,money
@@ -225,10 +225,10 @@ q223,120 q,120,,,q,count
 q224,11–13 Fr.,,11,13,Fr.,money
 q225,316 q,316,,,q,count
 q226,7–8 Fr.,,7,8,Fr.,money
-q227,about 1,700,1700,,,,count
-q228,1,061,1061,,,,count
+q227,"about 1,700",1700,,,,count
+q228,"1,061",1061,,,,count
 q229,85,85,,,,count
-q230,about 1,000,1000,,,,count
+q230,"about 1,000",1000,,,,count
 q231,174,174,,,,count
 q232,one inn per 131 inhabitants,,,,inhabitants,other
 q233,29 pubs,29,,,,count
@@ -241,20 +241,20 @@ q239,28 pubs,28,,,,count
 q240,91 houses,91,,,houses,count
 q241,28,28,,,,count
 q242,9,9,,,,count
-q243,7,000 to 8,000,,7000,8000,guests,count
+q243,"7,000 to 8,000",,7000,8000,guests,count
 q244,260,260,,,,count
 q245,exceeding one million francs,1000000,1000000,,francs,money
 q246,about half a million,500000,,,,money
 q247,110,110,,,count,count
 q248,7,7,,,count,count
-q249,36,000 Maß,36000,,,Maß,other
+q249,"36,000 Maß",36000,,,Maß,other
 q250,about 1.5 liters each,1.5,,,liters,other
-q251,90,000 feet,90000,,,feet,distance
+q251,"90,000 feet",90000,,,feet,distance
 q252,30-hp,30,,,hp,other
 q253,135-190 liters per inhabitant,,135,190,liters per inhabitant,other
-q254,15,000 m³ daily,15000,,,m³ per day,other
+q254,"15,000 m³ daily",15000,,,m³ per day,other
 q255,900 hp,900,,,hp,other
-q256,51,000 m³ per day,51000,,,m³ per day,other
+q256,"51,000 m³ per day",51000,,,m³ per day,other
 q257,145 m,145,,,m,elevation
 q258,200 meters,200,,,meters,distance
 q259,12 m,12,,,m,elevation
@@ -263,14 +263,14 @@ q261,18.2–23.5,,18.2,23.5,mg per liter,other
 q262,0.035–0.05,,0.035,0.05,mg per liter,other
 q263,200,200,,,per cm³,count
 q264,20,20,,,per cm³,count
-q265,62.88,62.88,,,cases per 10,000 inhabitants,count
-q266,8.27,8.27,,,cases per 10,000 inhabitants,count
-q267,6.67,6.67,,,mortality per 10,000 inhabitants,count
-q268,0.8,0.8,,,mortality per 10,000 inhabitants,count
+q265,62.88,62.88,,,"cases per 10,000 inhabitants",count
+q266,8.27,8.27,,,"cases per 10,000 inhabitants",count
+q267,6.67,6.67,,,"mortality per 10,000 inhabitants",count
+q268,0.8,0.8,,,"mortality per 10,000 inhabitants",count
 q269,220 liters,220,,,liters,other
 q270,315 liters,315,,,liters,other
 q271,30-40 m,,30,40,m,elevation
-q272,1,600 mm,1600,,,mm,other
+q272,"1,600 mm",1600,,,mm,other
 q273,5:3,,5,3,,other
 q274,11.5 km,11.5,,,km,distance
 q275,40 cm,40,,,cm,distance
@@ -281,22 +281,22 @@ q279,55 cm,55,,,cm,distance
 q280,2.5‰,0.0025,,,‰,other
 q281,500 m above sea level,500,,,m,elevation
 q282,91 m above lake level,91,,,m,elevation
-q283,about 20,400 liters per minute,20400,,,liters per minute,other
-q284,3,174,104 francs,3174104,,,francs,money
+q283,"about 20,400 liters per minute",20400,,,liters per minute,other
+q284,"3,174,104 francs",3174104,,,francs,money
 q285,over half,,,,,percentage
 q286,8.6,8.6,,,°C,other
 q287,10.9°C,10.9,,,°C,other
 q288,0–37,,0,37,,count
 q289,24–25 French degrees,,24,25,French degrees,other
 q290,13,13,,,French degrees,other
-q291,14,700,098 m³,14700098,,,m³,other
+q291,"14,700,098 m³",14700098,,,m³,other
 q292,67.6%,67.6,,,%,percentage
 q293,27.3%,27.3,,,%,percentage
 q294,4.1%,4.1,,,%,percentage
 q295,1%,1.0,,,%,percentage
 q296,237 liters per head per day,237,,,liters per head per day,other
 q297,maximum 330 liters per head per day,330,,,liters per head per day,other
-q298,CHF 1,751,000,1751000,,,CHF,money
+q298,"CHF 1,751,000",1751000,,,CHF,money
 q299,over half a million,500000,,,CHF,money
 q300,3% depreciation,3,,,%,percentage
 q301,128 km,128,,,km,distance
@@ -305,20 +305,20 @@ q303,900 mm diameter,900,,,mm,distance
 q304,0.51 km,0.51,,,km,distance
 q305,462,462,,,,count
 q306,417,417,,,,count
-q307,1,265,1265,,,,count
+q307,"1,265",1265,,,,count
 q308,505,505,,,,count
-q309,1,050,1050,,,,count
+q309,"1,050",1050,,,,count
 q310,961,961,,,,count
-q311,1,174,1174,,,,count
+q311,"1,174",1174,,,,count
 q312,467,467,,,,count
 q313,427,427,,,,count
 q314,344,344,,,,count
 q315,238,238,,,,count
 q316,16,16,,,cases,count
 q317,215,215,,,cases,count
-q318,1,217,1217,,,cases,count
+q318,"1,217",1217,,,cases,count
 q319,60,60,,,cases,count
-q320,1,234,1234,,,cases,count
+q320,"1,234",1234,,,cases,count
 q321,21,21,,,cases,count
 q322,46,46,,,cases,count
 q323,47,47,,,cases,count
@@ -327,20 +327,20 @@ q325,83,83,,,cases,count
 q326,41,41,,,cases,count
 q327,23,23,,,cases,count
 q328,120,120,,,cases,count
-q329,1,511,1511,,,cases,count
+q329,"1,511",1511,,,cases,count
 q330,503 children,503,,,children,count
 q331,499 girls,499,,,girls,count
 q332,1.99%,1.99,,,%,percentage
-q333,25,275,25275,,,students,count
+q333,"25,275",25275,,,students,count
 q334,2.9%,2.9,,,%,percentage
 q335,11.7%,11.7,,,%,percentage
-q336,1,614,1614,,,,count
+q336,"1,614",1614,,,,count
 q337,16,16,,,daily maximum,count
 q338,18,18,,,,count
 q339,232,232,,,,count
 q340,131,131,,,,count
-q341,1:12,500,,,,,other
-q342,1:30,000,,,,,other
+q341,"1:12,500",,,,,other
+q342,"1:30,000",,,,,other
 q343,half-hour,0.5,,,hour,duration
 q344,19,19,,,,count
 q345,17,17,,,,count
@@ -349,18 +349,18 @@ q347,59.4 km,59.4,,,km,distance
 q348,133,133,,,,count
 q349,32,32,,,,count
 q350,six,6,,,,count
-q351,62,136 persons,62136,,,persons,count
+q351,"62,136 persons",62136,,,persons,count
 q352,941,941,,,,count
-q353,105,000 to 106,000 m³,,105000,106000,m³,other
+q353,"105,000 to 106,000 m³",,105000,106000,m³,other
 q354,35 wagons,35,,,wagons,count
-q355,26,640,200 m³,26640200,,,m³,other
-q356,22,162,889 m³,22162889,,,m³,other
+q355,"26,640,200 m³",26640200,,,m³,other
+q356,"22,162,889 m³",22162889,,,m³,other
 q357,over 12%,12,12,,%,percentage
 q358,114.02 m³,114.02,,,m³,other
-q359,7,649,7649,,,count,count
-q360,321,993,321993,,,count,count
+q359,"7,649",7649,,,count,count
+q360,"321,993",321993,,,count,count
 q361,488,488,,,count,count
-q362,330,130,330130,,,count,count
+q362,"330,130",330130,,,count,count
 q363,40 or more folio pages,,40,,folio pages,count
 q364,160,160,,,,count
 q365,9,9,,,,count
@@ -369,10 +369,10 @@ q367,3,3,,,,count
 q368,53,53,,,,count
 q369,41,41,,,,count
 q370,33,33,,,,count
-q371,3,500,3500,,,circulation,count
-q372,15,000,15000,,,circulation,count
-q373,27,000,27000,,,copies,count
-q374,62,000,62000,,,copies,count
+q371,"3,500",3500,,,circulation,count
+q372,"15,000",15000,,,circulation,count
+q373,"27,000",27000,,,copies,count
+q374,"62,000",62000,,,copies,count
 q375,163,163,,,,count
 q376,2,2,,,,count
 q377,16,16,,,,count
@@ -393,30 +393,30 @@ q391,3,3,,,,count
 q392,30,30,,,,count
 q393,32,32,,,,count
 q394,21,21,,,,count
-q395,95,000 volumes,95000,,,volumes,count
-q396,150,000 dissertations and brochures,150000,,,dissertations and brochures,count
-q397,1,000 manuscripts,1000,,,manuscripts,count
-q398,over 175,000 catalog titles,175000,,,catalog titles,count
-q399,4,300 volumes of manuscripts,4300,,,volumes,count
-q400,80,000 view sheets,80000,,,view sheets,count
-q401,11,000 maps,11000,,,maps,count
-q402,17,000 coins,17000,,,coins,count
-q403,45,000 titles,45000,,,titles,count
-q404,about 25,000 volumes,25000,,,volumes,count
+q395,"95,000 volumes",95000,,,volumes,count
+q396,"150,000 dissertations and brochures",150000,,,dissertations and brochures,count
+q397,"1,000 manuscripts",1000,,,manuscripts,count
+q398,"over 175,000 catalog titles",175000,,,catalog titles,count
+q399,"4,300 volumes of manuscripts",4300,,,volumes,count
+q400,"80,000 view sheets",80000,,,view sheets,count
+q401,"11,000 maps",11000,,,maps,count
+q402,"17,000 coins",17000,,,coins,count
+q403,"45,000 titles",45000,,,titles,count
+q404,"about 25,000 volumes",25000,,,volumes,count
 q405,120 newspapers,120,,,newspapers,count
 q406,650 magazines,650,,,magazines,count
-q407,210,000,210000,,,,count
+q407,"210,000",210000,,,,count
 q408,10,10,,,branches,count
-q409,nearly 45,000 francs,45000,,,francs,money
-q410,21,000 francs,21000,,,francs,money
-q411,3,000,3000,,,persons,count
+q409,"nearly 45,000 francs",45000,,,francs,money
+q410,"21,000 francs",21000,,,francs,money
+q411,"3,000",3000,,,persons,count
 q412,13,13,,,,count
-q413,more than 20,000 Fr.,20000,20000,,Fr.,money
-q414,more than 200,000 Fr.,200000,200000,,Fr.,money
+q413,"more than 20,000 Fr.",20000,20000,,Fr.,money
+q414,"more than 200,000 Fr.",200000,200000,,Fr.,money
 q415,20 days,20,,,days,duration
-q416,2,000 voters,2000,,,voters,count
+q416,"2,000 voters",2000,,,voters,count
 q417,30 members of the large city council,30,,,members,count
-q418,2,000 voters,2000,,,voters,count
+q418,"2,000 voters",2000,,,voters,count
 q419,125,125,,,,count
 q420,nine,9,,,,count
 q421,nine,9,,,,count
@@ -473,21 +473,21 @@ q471,0.25 million Fr.,250000,,,Fr.,money
 q472,14.3 million Fr.,14300000,,,Fr.,money
 q473,9,9,,,,count
 q474,2.5 million Fr.,2500000,,,Fr.,money
-q475,24,000 Fr.,24000,,,Fr.,money
+q475,"24,000 Fr.",24000,,,Fr.,money
 q476,164 persons,164,,,persons,count
 q477,8,8,,,,count
 q478,three,3,,,,count
 q479,298,298,,,,count
-q480,28,388 Fr.,28388,,,Fr.,money
+q480,"28,388 Fr.",28388,,,Fr.,money
 q481,2.4 million Fr.,2400000,,,Fr.,money
 q482,nine-hour,9,,,hours,duration
 q483,5 Fr. 50 Rp.,5.5,,,Swiss Francs,money
 q484,5 Fr.,5,,,Swiss Francs,money
 q485,at least four days,4,4,,days,duration
-q486,about 47,000 Fr.,47000,,,Swiss Francs,money
-q487,5,407 Fr.,5407,,,Swiss Francs,money
+q486,"about 47,000 Fr.",47000,,,Swiss Francs,money
+q487,"5,407 Fr.",5407,,,Swiss Francs,money
 q488,about 50,50,,,,count
-q489,over 1,800,1800,1800,,children,count
+q489,"over 1,800",1800,1800,,children,count
 q490,26,26,,,,count
 q491,about 800,800,,,children,count
 q492,25,25,,,,count
@@ -499,15 +499,15 @@ q497,approximately 5 km,5,,,km,distance
 q498,481 m,481,,,m,elevation
 q499,617 m,617,,,m,elevation
 q500,410 m,410,,,m,elevation
-q501,1:32,000,32000,,,scale,other
-q502,1:100,000,100000,,,scale,other
-q503,1:25,000,25000,,,scale,other
-q504,1,210 points,1210,,,points,count
+q501,"1:32,000",32000,,,scale,other
+q502,"1:100,000",100000,,,scale,other
+q503,"1:25,000",25000,,,scale,other
+q504,"1,210 points",1210,,,points,count
 q505,460 points,460,,,points,count
 q506,19.2 points per km²,19.2,,,points per km²,other
-q507,1:1,000,1000,,,scale,other
+q507,"1:1,000",1000,,,scale,other
 q508,59 sheets,59,,,sheets,count
-q509,1:50,000,50000,,,scale,other
+q509,"1:50,000",50000,,,scale,other
 q510,7059,7059,,,,count
 q511,6798,6798,,,,count
 q512,7941,7941,,,,count
@@ -523,34 +523,34 @@ q521,1182,1182,,,,count
 q522,1177,1177,,,,count
 q523,1979,1979,,,,count
 q524,2038,2038,,,,count
-q525,12,375,12375,,,,count
-q526,11,680,11680,,,,count
-q527,10,570,10570,,,,count
-q528,4,713,4713,,,,count
-q529,8,222,8222,,,,count
-q530,9,122,9122,,,,count
-q531,10,579,10579,,,,count
-q532,14,243,14243,,,,count
-q533,27,376,27376,,,,count
-q534,19,758,19758,,,,count
-q535,20,780,20780,,,,count
-q536,21,453,21453,,,,count
-q537,28,225,28225,,,,count
-q538,91,227,91227,,,,count
-q539,121,057,121057,,,,count
+q525,"12,375",12375,,,,count
+q526,"11,680",11680,,,,count
+q527,"10,570",10570,,,,count
+q528,"4,713",4713,,,,count
+q529,"8,222",8222,,,,count
+q530,"9,122",9122,,,,count
+q531,"10,579",10579,,,,count
+q532,"14,243",14243,,,,count
+q533,"27,376",27376,,,,count
+q534,"19,758",19758,,,,count
+q535,"20,780",20780,,,,count
+q536,"21,453",21453,,,,count
+q537,"28,225",28225,,,,count
+q538,"91,227",91227,,,,count
+q539,"121,057",121057,,,,count
 q540,3514,3514,,,,count
 q541,140 million Fr.,140,,,million Fr.,money
 q542,7338,7338,,,,count
 q543,359 million Fr.,359,,,million Fr.,money
 q544,9867,9867,,,,count
 q545,552 million Fr.,552,,,million Fr.,money
-q546,10,122,10122,,,,count
+q546,"10,122",10122,,,,count
 q547,597,597,,,million Fr.,money
 q548,9300,9300,,,,count
-q549,11,600,11600,,,,count
+q549,"11,600",11600,,,,count
 q550,387,387,,,,count
 q551,3.12,3.12,,,,other
-q552,12,200,12200,,,,count
+q552,"12,200",12200,,,,count
 q553,1526,1526,,,,count
 q554,4.64,4.64,,,,other
 q555,2800,2800,,,,count
@@ -558,19 +558,19 @@ q556,465,465,,,,count
 q557,4.30,4.3,,,,other
 q558,10.6,10.6,,,houses,count
 q559,3514,3514,,,,count
-q560,46,200,46200,,,,count
+q560,"46,200",46200,,,,count
 q561,13.2,13.2,,,,count
 q562,15.9,15.9,,,,other
 q563,7338,7338,,,,count
-q564,106,000,106000,,,,count
+q564,"106,000",106000,,,,count
 q565,14.4,14.4,,,,count
 q566,15.2,15.2,,,,other
 q567,9867,9867,,,,count
-q568,150,700,150700,,,,count
+q568,"150,700",150700,,,,count
 q569,15.3,15.3,,,,count
 q570,13.9,13.9,,,,other
-q571,10,427,10427,,,,count
-q572,171,000,171000,,,,count
+q571,"10,427",10427,,,,count
+q572,"171,000",171000,,,,count
 q573,16.4,16.4,,,,count
 q574,13.2,13.2,,,,other
 q575,18.37,18.37,,,,count
@@ -611,7 +611,7 @@ q609,6 km,6,,,km,distance
 q610,1.5‰,0.0015,,,per mille,other
 q611,874 m,874,,,m,elevation
 q612,680-700,,680,700,,other
-q613,over 17,000,17000,17000,,,count
+q613,"over 17,000",17000,17000,,,count
 q614,six times,6,,,times,count
 q615,twelve,12,,,,count
 q616,four months,4,,,months,duration
@@ -652,27 +652,27 @@ q650,55.9%,55.9,,,%,percentage
 q651,More than 50,50,50,,,count
 q652,34,34,,,,count
 q653,23,23,,,,count
-q654,6,000,6000,,,,count
-q655,approx. 5,700,5700,,,,count
-q656,approx. 4,750,4750,,,,count
-q657,approx. 5,100,5100,,,,count
-q658,8,621,8621,,,,count
-q659,9,590,9590,,,,count
-q660,11,110,11110,,,,count
-q661,11,452,11452,,,,count
-q662,10,734,10734,,,,count
-q663,9,715,9715,,,,count
-q664,14,243,14243,,,,count
-q665,41,585,41585,,,inhabitants,count
-q666,65,668,65668,,,inhabitants,count
-q667,103,862,103862,,,inhabitants,count
-q668,168,021,168021,,,inhabitants,count
-q669,215,488,215488,,,inhabitants,count
-q670,290,937,290937,,,inhabitants,count
-q671,390,020,390020,,,inhabitants,count
-q672,422,640,422640,,,inhabitants,count
-q673,365,043,365043,,,inhabitants,count
-q674,363,273,363273,,,inhabitants,count
+q654,"6,000",6000,,,,count
+q655,"approx. 5,700",5700,,,,count
+q656,"approx. 4,750",4750,,,,count
+q657,"approx. 5,100",5100,,,,count
+q658,"8,621",8621,,,,count
+q659,"9,590",9590,,,,count
+q660,"11,110",11110,,,,count
+q661,"11,452",11452,,,,count
+q662,"10,734",10734,,,,count
+q663,"9,715",9715,,,,count
+q664,"14,243",14243,,,,count
+q665,"41,585",41585,,,inhabitants,count
+q666,"65,668",65668,,,inhabitants,count
+q667,"103,862",103862,,,inhabitants,count
+q668,"168,021",168021,,,inhabitants,count
+q669,"215,488",215488,,,inhabitants,count
+q670,"290,937",290937,,,inhabitants,count
+q671,"390,020",390020,,,inhabitants,count
+q672,"422,640",422640,,,inhabitants,count
+q673,"365,043",365043,,,inhabitants,count
+q674,"363,273",363273,,,inhabitants,count
 q675,16.6%,16.6,,,%,percentage
 q676,23.1%,23.1,,,%,percentage
 q677,30.8%,30.8,,,%,percentage
@@ -683,85 +683,85 @@ q681,50.2%,50.2,,,%,percentage
 q682,38.2%,38.2,,,%,percentage
 q683,31.0%,31.0,,,%,percentage
 q684,29.1%,29.1,,,%,percentage
-q685,100,220,100220,,,,count
-q686,157,554,157554,,,,count
-q687,195,371,195371,,,,count
-q688,268,737,268737,,,,count
-q689,355,471,355471,,,,count
-q690,349,375,349375,,,,count
-q691,281,317,281317,,,,count
-q692,282,277,282277,,,,count
-q693,1,164,1164,,,,count
-q694,5,443,5443,,,,count
-q695,11,861,11861,,,,count
-q696,10,639,10639,,,,count
-q697,15,121,15121,,,,count
-q698,37,776,37776,,,,count
-q699,24,948,24948,,,,count
-q700,17,063,17063,,,,count
-q701,1,386,1386,,,,count
-q702,2,745,2745,,,,count
-q703,3,752,3752,,,,count
-q704,7,163,7163,,,,count
-q705,12,063,12063,,,,count
-q706,10,091,10091,,,,count
-q707,7,953,7953,,,,count
-q708,7,746,7746,,,,count
-q709,1,188,1188,,,,count
-q710,2,279,2279,,,,count
-q711,4,504,4504,,,,count
-q712,4,398,4398,,,,count
-q713,7,365,7365,,,,count
-q714,25,398,25398,,,,count
-q715,50,825,50825,,,,count
-q716,56,187,56187,,,,count
-q717,38,890,38890,,,,count
-q718,55,827,55827,,,,count
-q719,79,603,79603,,,,count
-q720,116,502,116502,,,,count
-q721,139,649,139649,,,,count
-q722,189,773,189773,,,,count
-q723,253,224,253224,,,,count
-q724,232,080,232080,,,,count
-q725,148,820,148820,,,,count
-q726,116,630,116630,,,,count
-q727,2,744,2744,,,,count
-q728,8,807,8807,,,,count
-q729,21,680,21680,,,,count
-q730,47,200,47200,,,,count
-q731,65,938,65938,,,,count
-q732,86,411,86411,,,,count
-q733,117,376,117376,,,,count
-q734,167,374,167374,,,,count
-q735,141,190,141190,,,,count
-q736,120,853,120853,,,,count
+q685,"100,220",100220,,,,count
+q686,"157,554",157554,,,,count
+q687,"195,371",195371,,,,count
+q688,"268,737",268737,,,,count
+q689,"355,471",355471,,,,count
+q690,"349,375",349375,,,,count
+q691,"281,317",281317,,,,count
+q692,"282,277",282277,,,,count
+q693,"1,164",1164,,,,count
+q694,"5,443",5443,,,,count
+q695,"11,861",11861,,,,count
+q696,"10,639",10639,,,,count
+q697,"15,121",15121,,,,count
+q698,"37,776",37776,,,,count
+q699,"24,948",24948,,,,count
+q700,"17,063",17063,,,,count
+q701,"1,386",1386,,,,count
+q702,"2,745",2745,,,,count
+q703,"3,752",3752,,,,count
+q704,"7,163",7163,,,,count
+q705,"12,063",12063,,,,count
+q706,"10,091",10091,,,,count
+q707,"7,953",7953,,,,count
+q708,"7,746",7746,,,,count
+q709,"1,188",1188,,,,count
+q710,"2,279",2279,,,,count
+q711,"4,504",4504,,,,count
+q712,"4,398",4398,,,,count
+q713,"7,365",7365,,,,count
+q714,"25,398",25398,,,,count
+q715,"50,825",50825,,,,count
+q716,"56,187",56187,,,,count
+q717,"38,890",38890,,,,count
+q718,"55,827",55827,,,,count
+q719,"79,603",79603,,,,count
+q720,"116,502",116502,,,,count
+q721,"139,649",139649,,,,count
+q722,"189,773",189773,,,,count
+q723,"253,224",253224,,,,count
+q724,"232,080",232080,,,,count
+q725,"148,820",148820,,,,count
+q726,"116,630",116630,,,,count
+q727,"2,744",2744,,,,count
+q728,"8,807",8807,,,,count
+q729,"21,680",21680,,,,count
+q730,"47,200",47200,,,,count
+q731,"65,938",65938,,,,count
+q732,"86,411",86411,,,,count
+q733,"117,376",117376,,,,count
+q734,"167,374",167374,,,,count
+q735,"141,190",141190,,,,count
+q736,"120,853",120853,,,,count
 q737,56,56,,,,count
-q738,1,654,1654,,,,count
-q739,2,675,2675,,,,count
-q740,4,319,4319,,,,count
-q741,9,901,9901,,,,count
-q742,14,753,14753,,,,count
-q743,19,420,19420,,,,count
-q744,23,186,23186,,,,count
-q745,75,033,75033,,,,count
-q746,125,790,125790,,,,count
-q747,38,459,38459,,,,count
-q748,56,509,56509,,,,count
-q749,82,130,82130,,,,count
-q750,121,612,121612,,,,count
-q751,145,159,145159,,,,count
-q752,247,128,247128,,,,count
-q753,357,843,357843,,,,count
-q754,348,643,348643,,,,count
-q755,276,496,276496,,,,count
-q756,256,887,256887,,,,count
-q757,3,231,3231,,,,count
-q758,9,779,9779,,,,count
-q759,21,828,21828,,,,count
-q760,46,409,46409,,,,count
-q761,70,329,70329,,,,count
-q762,43,809,43809,,,,count
-q763,32,177,32177,,,,count
-q764,73,997,73997,,,,count
-q765,88,547,88547,,,,count
-q766,106,386,106386,,,,count
+q738,"1,654",1654,,,,count
+q739,"2,675",2675,,,,count
+q740,"4,319",4319,,,,count
+q741,"9,901",9901,,,,count
+q742,"14,753",14753,,,,count
+q743,"19,420",19420,,,,count
+q744,"23,186",23186,,,,count
+q745,"75,033",75033,,,,count
+q746,"125,790",125790,,,,count
+q747,"38,459",38459,,,,count
+q748,"56,509",56509,,,,count
+q749,"82,130",82130,,,,count
+q750,"121,612",121612,,,,count
+q751,"145,159",145159,,,,count
+q752,"247,128",247128,,,,count
+q753,"357,843",357843,,,,count
+q754,"348,643",348643,,,,count
+q755,"276,496",276496,,,,count
+q756,"256,887",256887,,,,count
+q757,"3,231",3231,,,,count
+q758,"9,779",9779,,,,count
+q759,"21,828",21828,,,,count
+q760,"46,409",46409,,,,count
+q761,"70,329",70329,,,,count
+q762,"43,809",43809,,,,count
+q763,"32,177",32177,,,,count
+q764,"73,997",73997,,,,count
+q765,"88,547",88547,,,,count
+q766,"106,386",106386,,,,count
