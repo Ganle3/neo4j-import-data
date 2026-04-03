@@ -1,0 +1,9 @@
+type
+duration
+money
+distance
+elevation
+area
+other
+percentage
+count
