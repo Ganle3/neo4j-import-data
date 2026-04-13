@@ -16,7 +16,7 @@ key,granularity
 1694,year
 1601-1700,century
 1846,year
-1540-1560,century
+1541s,decade
 853,year
 801-900,century
 1838,year
@@ -44,7 +44,6 @@ key,granularity
 1900–1902,timespan
 1821,year
 1889-1902,timespan
-1891-09,month
 1890-01-01,day
 1900,year
 1836,year
@@ -53,13 +52,13 @@ key,granularity
 1844,year
 1907,year
 1905,year
-1902/03,timespan
 1897,year
 1898,year
+1902/03,timespan
 1902,year
 1906,year
 around 1912 or 1913,timespan
-1898 and 1903,timespan
+1903,year
 1899,year
 1860,year
 1906/07,timespan
@@ -95,11 +94,9 @@ Ascension morning,unknown
 Tuesdays and Fridays,unknown
 autumn,unknown
 mid-September to mid-November,timespan
-2012,year
-2001-2100,century
+12 years ago,timespan
 1430,year
 middle of the 19th century,timespan
-1860 onwards,unknown
 1867,year
 1868,year
 1872,year
@@ -107,13 +104,10 @@ middle of the 19th century,timespan
 1875,year
 1879,year
 1884,year
-1905-01,month
-1905-09,month
 1902-12-04,day
 1902-11-25,day
 "October 1, 1906, to September 30, 1907",timespan
 1904,year
-1903,year
 1871,year
 1909-02,month
 1847-08-09,day
@@ -133,13 +127,12 @@ middle of the 19th century,timespan
 1843,year
 1801,year
 1837,year
-1909-02-11,day
 1747,year
 1834,year
 1908/09,timespan
 1909-05,month
 since 1893,timespan
-a term of three years,unknown
+three years,unknown
 1907-04,month
 since the year 1893,timespan
 1906/1907,timespan
@@ -147,10 +140,10 @@ since the year 1893,timespan
 Neolithic period,timespan
 younger Stone Age,timespan
 end of the Bronze Age,timespan
-Bronze Age,timespan
 Iron Age,timespan
 2nd Iron Age (La Tène period),timespan
 -700--601,century
+Roman times,timespan
 8th and 9th centuries,timespan
 early Christian times,timespan
 901-1000,century
@@ -170,6 +163,8 @@ Alemannic times,timespan
 1850–52,timespan
 1896,year
 1979,year
+2038,year
+2001-2100,century
 1357,year
 1374,year
 1410,year
@@ -180,7 +175,6 @@ Alemannic times,timespan
 1880,year
 1888,year
 1894,year
-1894-07-01,day
 1862,year
 before 1863,unknown
 1863–1892,timespan
@@ -191,24 +185,24 @@ around 1540,timespan
 1934,year
 1850-2000,timespan
 1888-1930,timespan
-1950,year
+from 1950,timespan
 about 4300 to 800 BC,timespan
-Hallstatt and early La Tène periods,timespan
+Bronze Age,timespan
+Hallstatt period,timespan
+early La Tène period,timespan
 early and middle La Tène period,timespan
 80 BC onwards,timespan
 around 100 BC,timespan
 501-600,century
 16-15 BC,timespan
 40 or 30 BC,timespan
-200,year
-101-200,century
+around 200,timespan
 1st to 4th centuries,timespan
 122,year
-70,year
-1-100,century
-early 4th century,timespan
-500-599,century
-600-699,century
+101-200,century
+around 70,timespan
+301s,decade
+601-700,century
 7th and 8th centuries,timespan
 700-899,century
 760,year
@@ -218,7 +212,7 @@ mid-12th century,timespan
 1098,year
 976,year
 1173 to 1218,timespan
-790s,decade
+791s,decade
 between 1100 and 1230,timespan
 1000,year
 857,year
@@ -232,7 +226,7 @@ early 13th century,timespan
 1271,year
 until 1512,unknown
 1234,year
-1275-1299,century
+late 13th century,timespan
 1433,year
 late Middle Ages,timespan
 1524,year
@@ -245,7 +239,7 @@ mid-13th century,timespan
 1292,year
 1336,year
 1350,year
-until 1798,unknown
+None,year
 1373,year
 1393,year
 1401,year
@@ -256,16 +250,15 @@ until 1798,unknown
 1712-1713,timespan
 1599,year
 1790,year
-late 15th century,timespan
-mid-16th century,timespan
-late 18th century,timespan
+1481s,decade
+1781s,decade
 first half of the 13th century,timespan
-1642 to the 18th century,timespan
-14th and 15th centuries,timespan
-late 13th century,timespan
+from 1642 to the 18th century,timespan
+1301-1500,century
+1281-1300,century
 1397,year
 1694-1698,timespan
-around 1468,timespan
+1468,year
 1253,year
 1412,year
 1436,year
@@ -277,17 +270,17 @@ first half of the 16th century,timespan
 1620,year
 1662,year
 1755,year
-1841s,decade
+1851-1875,century
 Between the 9th and 12th centuries,timespan
 first half of the 12th century,timespan
 1409,year
+early modern times,timespan
 1818,year
 Thirty Years' War,timespan
 1809,year
-1301-1500,century
 1525,year
 1685,year
-1645,year
+from 1645,timespan
 first half of the 17th century,timespan
 1679,year
 1746,year
@@ -296,6 +289,8 @@ first half of the 17th century,timespan
 1782,year
 1613,year
 1624,year
+1575-1645,timespan
+1701-1776,timespan
 1798,year
 1803,year
 1816,year
@@ -308,20 +303,19 @@ first half of the 17th century,timespan
 1970,year
 1883,year
 1799 to mid-19th century,timespan
-1830,year
-after 1845,timespan
+from 1830,unknown
+after 1845,unknown
 1860s,decade
-mid-19th century,timespan
 1928,year
 1931,year
-None,year
 1917,year
-From 1928-1938,timespan
+1928-1938,timespan
 1938,year
-1970s,decade
+1977s,decade
 2002,year
 1892-1901,timespan
 1949,year
+1950,year
 1990,year
 1994,year
 1802,year
@@ -344,34 +338,33 @@ from 1864,unknown
 from 1867,unknown
 1861-1864,timespan
 1865-1871,timespan
-from 1875,unknown
-from 1876-1878,timespan
-from 1877-1880,timespan
-From 1880-1890,timespan
+1876-1878,timespan
+1877-1880,timespan
+1880-1890,timespan
 1915-1918,timespan
 since 1930,timespan
-From 1930,timespan
+1930,year
 1962,year
 1955,year
 1973,year
 1972,year
+1970s,decade
 1990s,decade
 beginning of the 19th century,timespan
 1805,year
 1857,year
 1863,year
 end of the 19th century,timespan
-1930,year
 1929,year
 1980s and 1990s,timespan
 second half of the 20th century,timespan
-early 19th century,timespan
+1801s,decade
 before 1798,unknown
-late 19th century,timespan
+1871s,decade
 1836-2010,timespan
-around 1800,timespan
-about 1830,timespan
-around 1900,timespan
+1795s,decade
+1830,year
+1895s,decade
 1880s,decade
 1844-1869,timespan
 1906-1907,timespan
@@ -379,8 +372,8 @@ around 1900,timespan
 World War I,timespan
 1918,year
 From 1914,timespan
-1946,year
 after World War II,timespan
+from 1933,timespan
 Until 1798,unknown
 2013,year
 1807,year
@@ -398,15 +391,16 @@ Until 1798,unknown
 1878,year
 1998,year
 2007,year
-1701-1900,century
+18th and 19th centuries,timespan
 1812,year
 1830s,decade
 1837-1843,timespan
 1806-1874,timespan
+from 1907,unknown
 1876,year
 1964,year
 1937,year
-2000,year
+since 2000,unknown
 1787,year
 World War II,timespan
 1952,year
@@ -429,4 +423,4 @@ World War II,timespan
 1762,year
 1792,year
 1850,year
-c. 1850,timespan
+2000,year

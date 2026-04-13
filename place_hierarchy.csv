@@ -13,6 +13,7 @@ child,parent
 "Arlberg, Austria",Austria
 "Baden, Switzerland",Switzerland
 "Basel, Switzerland",Switzerland
+"Affoltern am Albis, Switzerland",Switzerland
 "Schaffhausen, Switzerland",Switzerland
 "Romanshorn, Switzerland",Switzerland
 "St. Gallen, Switzerland",Switzerland
@@ -25,6 +26,7 @@ child,parent
 "Zurich, Switzerland",Switzerland
 "Zurichberg, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
+"Limmat River, Switzerland",Switzerland
 "Hoengg, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Uetliberg, Zurich, Switzerland","Zurich, Switzerland"
@@ -38,16 +40,12 @@ child,parent
 "Zurich, Switzerland",Switzerland
 "Wollishofen, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Lake Zurich, Switzerland",Switzerland
-"Burghölzli Psychiatric Hospital, Zurich, Switzerland","Zurich, Switzerland"
+"Mönchhof, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
+"Lake Zurich, Switzerland",Switzerland
 "Realp, Uri, Switzerland","Uri, Switzerland"
 "Uri, Switzerland",Switzerland
 "Loorenkopf, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Glatt Valley, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Zurichberg, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Käferberg, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
@@ -57,10 +55,10 @@ child,parent
 "Zurich, Switzerland",Switzerland
 "Uetliberg, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Zurich, Switzerland",Switzerland
 "Zurichberg, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Käferberg, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Wollishofen, Zurich, Switzerland","Zurich, Switzerland"
@@ -88,7 +86,8 @@ child,parent
 "Zurich, Switzerland",Switzerland
 "Zurichhorn, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Belvoirpark, Zurich, Switzerland","Zurich, Switzerland"
+"Lake Zurich, Switzerland",Switzerland
+"Belvoir Park, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Enge, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
@@ -96,8 +95,8 @@ child,parent
 "Zurich, Switzerland",Switzerland
 "Rigiquartier, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Sihl, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
+"Sihl, Switzerland",Switzerland
 "Uetliberg, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Zurichberg, Zurich, Switzerland","Zurich, Switzerland"
@@ -114,10 +113,13 @@ child,parent
 "Zurich, Switzerland",Switzerland
 "St. Peter's Church, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Urania Sternwarte, Zurich, Switzerland","Zurich, Switzerland"
+"Uetliberg, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Urania Observatory, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Tonhalle, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
+"Lake Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Baden, Switzerland",Switzerland
@@ -131,10 +133,17 @@ child,parent
 "Zurich, Switzerland",Switzerland
 "Uetliberg, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Lake Zurich, Switzerland",Switzerland
-"Limmat River, Zurich, Switzerland","Zurich, Switzerland"
+"Old Town, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Lake Zurich and Limmat River, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Schanzengraben, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Left bank of Limmat River, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Seilergraben and Hirschengraben, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Right bank of Limmat River, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Bürkliplatz, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
@@ -144,6 +153,7 @@ child,parent
 "Zurich, Switzerland",Switzerland
 "Quaibrücke, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
+"Lake Zurich, Switzerland",Switzerland
 "Zollikon, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Glärnisch, Glarus, Switzerland","Glarus, Switzerland"
@@ -152,8 +162,8 @@ child,parent
 "Glarus, Switzerland",Switzerland
 "Bächistock, Glarus, Switzerland","Glarus, Switzerland"
 "Glarus, Switzerland",Switzerland
-"Drusberg, Canton of Zurich, Switzerland","Canton of Zurich, Switzerland"
-"Canton of Zurich, Switzerland",Switzerland
+"Drusberg, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
 "Sihl Valley, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Bifertenstock, Glarus, Switzerland","Glarus, Switzerland"
@@ -198,7 +208,11 @@ child,parent
 "Zurich, Switzerland",Switzerland
 "Grossmünster, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
+"Limmatquai, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
+"Zurich, Switzerland",Switzerland
+"Zurich, Switzerland",Switzerland
+"Gemüsebrücke, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Lindenhof, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
@@ -210,30 +224,44 @@ child,parent
 "Zurich, Switzerland",Switzerland
 "Fraumünster, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
+"Predigerkirche, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Liebfrauenkirche, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Limmat River, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Urania Sternwarte, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
 "Walenstadt, Switzerland",Switzerland
 "Gotthard Pass, Switzerland",Switzerland
 "Mellingen, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
+"Gemüsebrücke, Zürich, Switzerland","Zürich, Switzerland"
+"Zürich, Switzerland",Switzerland
+"Marktgasse, Zürich, Switzerland","Zürich, Switzerland"
+"Zürich, Switzerland",Switzerland
+"Rindermarkt, Zürich, Switzerland","Zürich, Switzerland"
+"Zürich, Switzerland",Switzerland
+"Stüssihofstatt, Zürich, Switzerland","Zürich, Switzerland"
+"Zürich, Switzerland",Switzerland
+"Niederdorf, Zürich, Switzerland","Zürich, Switzerland"
+"Zürich, Switzerland",Switzerland
+"Leonhardplatz, Zürich, Switzerland","Zürich, Switzerland"
+"Zürich, Switzerland",Switzerland
+"Bahnhofbrücke, Zürich, Switzerland","Zürich, Switzerland"
+"Zürich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
-"Gemüsebrücke, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Marktgasse, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Rindermarkt, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Niederdorf, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Leonhardplatz, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Bahnhofbrücke, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
+"Swiss National Museum, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
+"Helmhaus, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Fraumünster, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Swiss National Museum, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
+"Confluence of Limmat and Sihl rivers, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Bahnhofstrasse, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
@@ -249,15 +277,19 @@ child,parent
 "Zurich, Switzerland",Switzerland
 "St. Anna, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Botanischer Garten der Universität Zürich, Zurich, Switzerland","Zurich, Switzerland"
+"Botanical Garden, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Paradeplatz, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Zurich Hauptbahnhof, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
+"Alpenquai, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Linth Glacier, Switzerland",Switzerland
 "Walensee, Switzerland",Switzerland
-"Speer, Switzerland",Switzerland
 "Glärnisch, Switzerland",Switzerland
+"Zurich, Switzerland",Switzerland
+"Belvoirpark, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Belvoirpark, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
@@ -267,24 +299,47 @@ child,parent
 "Zurich, Switzerland",Switzerland
 "Sihl River, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Zimmerberg, Switzerland",Switzerland
-"Albis chain, Switzerland",Switzerland
+"Zimmerberg, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Albis chain, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Waffenplatz, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
 "Limmat River, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Uetliberg, Zurich, Switzerland","Zurich, Switzerland"
+"Utoquai Bridge, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Uetliberg, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Albisgütli, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Uetliberg, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Munich, Germany",Germany
+"Theresienwiese, Munich, Germany","Munich, Germany"
+"Munich, Germany",Germany
+"Sihl, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Sihl Canal, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Sihlhölzli, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Wiedikon, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Aussersihl, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Aussersihl, Zurich",Zurich
-"Badenerstrasse, Zurich",Zurich
-"St. Jakob's Church, Zurich",Zurich
-"Langstrasse, Zurich",Zurich
-"Zurichberg, Zurich",Zurich
-"Uetliberg, Zurich",Zurich
+"Aussersihl, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Badenerstrasse, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"St. Jakob's Church, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Langstrasse, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Zurichberg, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Uetliberg, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Limmatplatz, Zurich, Switzerland","Zurich, Switzerland"
@@ -293,7 +348,7 @@ child,parent
 "Zurich, Switzerland",Switzerland
 "Sihlquai, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Zurich Hauptbahnhof, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich main station, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Sihlquai, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
@@ -301,7 +356,7 @@ child,parent
 "Zurich, Switzerland",Switzerland
 "Letten station, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Wipkingerbrücke, Zurich, Switzerland","Zurich, Switzerland"
+"Wipkinger Bridge, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Limmat Valley, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
@@ -321,15 +376,11 @@ child,parent
 "Zurich, Switzerland",Switzerland
 "Rotbuchstrasse, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Oerlikon-Seebach tramway, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
 "Weinbergstrasse, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Unterstrass, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Leonhardsplatz, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Bahnhofbrücke, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Wiedikon, Zurich, Switzerland","Zurich, Switzerland"
@@ -338,16 +389,19 @@ child,parent
 "Schlieren, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
+"Limmat River, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Sihl River, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
 "Uetliberg, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Zurichberg, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
+"ETH Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Badenerstrasse, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Hirschengraben, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Dolder, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Dolderpark, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
@@ -355,44 +409,45 @@ child,parent
 "Zurich, Switzerland",Switzerland
 "Römerhof, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
+"St. Antonius Church, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
 "Hottingen, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Stadelhofen, Zurich, Switzerland","Zurich, Switzerland"
+"Bahnhof Stadelhofen, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Hochufer, Zurich, Switzerland","Zurich, Switzerland"
+"Hochpromenade, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Nägeli Monument, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Stadttheater Zurich, Switzerland",Switzerland
+"Corso Theater, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Tonhalleplatz, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Quaibrücke, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Bollwerk zur Katze, Schanzengraben, Zurich, Switzerland","Schanzengraben, Zurich, Switzerland"
+"Heimplatz, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
 "Schanzengraben, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Canton of Zurich, Switzerland",Switzerland
 "Selnau, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
+"Uetliberg, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Sihl Valley Railway Station, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
+"Gemüsebrücke, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Zurich, Switzerland",Switzerland
-"Zurich, Switzerland",Switzerland
-"Zurich, Switzerland",Switzerland
-"Old Town, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Old Town, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Zwingli Monument, Wasserkirche, Zurich, Switzerland","Wasserkirche, Zurich, Switzerland"
-"Wasserkirche, Zurich, Switzerland","Zurich, Switzerland"
+"Right bank of Limmat river, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Kirchgasse, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Rüdenplatz, Zurich, Switzerland","Zurich, Switzerland"
+"Schipfe, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Rindermarkt, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Sihlstrasse, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
+"Augustinergasse, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Zurichberg, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
@@ -400,21 +455,14 @@ child,parent
 "Zurich, Switzerland",Switzerland
 "Enge Park, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"ETH Zurich, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
+"ETH Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
-"ETH Zurich, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"St. Verena Monastery, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Botanical Garden, University of Zurich, Zurich, Switzerland","University of Zurich, Zurich, Switzerland"
-"University of Zurich, Zurich, Switzerland","Zurich, Switzerland"
+"University of Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
-"Zurich, Switzerland",Switzerland
-"Zurich, Switzerland",Switzerland
-"Zurich, Switzerland",Switzerland
+"Canton of Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Cologne, Germany",Germany
 "Wrocław, Poland",Poland
@@ -431,10 +479,9 @@ child,parent
 "Old Town, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
-"Limmat, Zurich, Switzerland","Zurich, Switzerland"
+"Limmat River, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Sihl, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
+"Sihl River, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Hardturm Bridge, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
@@ -444,7 +491,7 @@ child,parent
 "Zurich, Switzerland",Switzerland
 "Weinplatz, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Limmat, Switzerland",Switzerland
+"Limmat River, Switzerland",Switzerland
 "Schanzengraben, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
@@ -476,11 +523,9 @@ child,parent
 "Zurich, Switzerland",Switzerland
 "Uetliberg, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Zurichberg, Zurich, Switzerland","Zurich, Switzerland"
+"Baur au Lac, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Käferberg, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Uetliberg, Zurich, Switzerland","Zurich, Switzerland"
+"Dolder, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Uetliberg, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
@@ -540,15 +585,11 @@ child,parent
 "Zurich, Switzerland",Switzerland
 "Hirschengraben, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Zurich, Switzerland",Switzerland
-"Bülach, Switzerland",Switzerland
-"Dielsdorf, Switzerland",Switzerland
-"Horgen, Switzerland",Switzerland
-"Uster, Switzerland",Switzerland
 "Alsace, France",France
 "Rafzerfeld, Switzerland",Switzerland
 "Schaffhausen, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
+"Canton of Zurich, Switzerland",Switzerland
 "Niederdorf, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Langstrasse, Zurich, Switzerland","Zurich, Switzerland"
@@ -562,7 +603,7 @@ child,parent
 "Zurich, Switzerland",Switzerland
 "Schanzengraben, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Mühlesteg, Zurich, Switzerland","Zurich, Switzerland"
+"Limmat River, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Platzspitz, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
@@ -572,8 +613,12 @@ child,parent
 "Zurich, Switzerland",Switzerland
 "Zurichberg, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
+"Lake Zurich, Switzerland",Switzerland
+"ETH Zurich, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Limmat River, Switzerland",Switzerland
+"Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
@@ -590,9 +635,12 @@ child,parent
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
+"Zurich, Switzerland",Switzerland
 "Letten, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Limmat River, Switzerland",Switzerland
+"Limmat River, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Canton of Zurich, Switzerland",Switzerland
@@ -613,41 +661,40 @@ child,parent
 "Zurich, Switzerland",Switzerland
 "Realp, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
+"Zurich main station, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Zurich Hauptbahnhof, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
+"Wiedikon, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Zurich-Wiedikon, Zurich, Switzerland","Zurich, Switzerland"
+"Enge, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Zurich-Enge, Zurich, Switzerland","Zurich, Switzerland"
+"Wollishofen, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Zurich-Wollishofen, Zurich, Switzerland","Zurich, Switzerland"
+"Letten, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Zurich-Letten, Zurich, Switzerland","Zurich, Switzerland"
+"Stadelhofen, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Zurich-Stadelhofen, Zurich, Switzerland","Zurich, Switzerland"
+"Tiefenbrunnen, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Zurich-Tiefenbrunnen, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Zurich-Selnau, Zurich, Switzerland","Zurich, Switzerland"
+"Selnau station, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Uetliberg, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Zurich-Binz, Zurich, Switzerland","Zurich, Switzerland"
+"Sihl Valley, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Zurich-Waldegg, Zurich, Switzerland","Zurich, Switzerland"
+"Binz, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Zurich-Giesshübel, Zurich, Switzerland","Zurich, Switzerland"
+"Waldegg, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Zurich-Brunau, Zurich, Switzerland","Zurich, Switzerland"
+"Giesshübel, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Zurich-Manegg, Zurich, Switzerland","Zurich, Switzerland"
+"Brunau, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Zurich-Sood, Zurich, Switzerland","Zurich, Switzerland"
+"Manegg, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Sood, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Adliswil, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Sihl Valley, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Sihlbrugg, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
@@ -662,6 +709,7 @@ child,parent
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
+"Zurichberg, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Burgwies, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
@@ -671,29 +719,28 @@ child,parent
 "Zurich, Switzerland",Switzerland
 "Albisgütli, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Limmat Valley, Switzerland",Switzerland
-"Altstetten, Zurich, Switzerland","Zurich, Switzerland"
+"Limmat Valley, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Schlieren, Switzerland",Switzerland
-"Dietikon, Switzerland",Switzerland
+"Marienstrasse, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
 "Mutschellen, Switzerland",Switzerland
-"Bremgarten, Switzerland",Switzerland
-"Unterengstringen, Switzerland",Switzerland
+"Bremgarten, Aargau, Switzerland","Aargau, Switzerland"
+"Aargau, Switzerland",Switzerland
+"Unterengstringen, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
 "Kloster Fahr, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Weiningen, Switzerland",Switzerland
+"Weiningen, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Zurich main station, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
 "Wipkingen, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Höngg, Zurich, Switzerland","Zurich, Switzerland"
+"Hoengg, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Oerlikon, Zurich, Switzerland","Zurich, Switzerland"
+"Leonhardsplatz, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Seebach, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Glattbrugg, Switzerland",Switzerland
 "Schwamendingen, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Zurichberg, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Rigiplatz, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
@@ -705,7 +752,7 @@ child,parent
 "Zurich, Switzerland",Switzerland
 "Waldhaus Dolder, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Grand Hotel Dolder, Zurich, Switzerland","Zurich, Switzerland"
+"Dolder Grand Hotel, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
@@ -734,18 +781,36 @@ child,parent
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
-"Museum of Applied Arts, Zurich",Zurich
-"Swiss National Museum, Zurich",Zurich
-"Pestalozzianum, Zurich",Zurich
-"Seilergraben, Zurich",Zurich
+"Predigerkirche, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Wasserkirche, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Helmhaus, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Swiss National Museum, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Seilergraben, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
-"Niederweningen, Switzerland",Switzerland
+"Swiss National Museum, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Museum of Applied Arts, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"ETH Zurich, Switzerland",Switzerland
+"Seilergraben, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Schipfe, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
 "Zurichhorn, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Mythenquai, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Heimplatz, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"ETH Zurich, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Zurich, Switzerland",Switzerland
+"Zurich Stock Exchange, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
@@ -756,6 +821,25 @@ child,parent
 "Zurich, Switzerland",Switzerland
 "Messina, Italy",Italy
 "Zurich Tonhalle, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Zurich, Switzerland",Switzerland
+"Aussersihl, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Enge, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Fluntern, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Oberstrass, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Unterstrass, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Wiedikon, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Wipkingen, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Wollishofen, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
@@ -780,13 +864,15 @@ child,parent
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
-"Zurich, Switzerland",Switzerland
 "Wollishofen, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Uetliberg, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Lindenhof, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
+"Wiedikon, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Bäckerstrasse, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Uetliberg, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
@@ -845,19 +931,13 @@ child,parent
 "Zurich, Switzerland",Switzerland
 "Fluntern, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Zurich Lindenhof, Zurich, Switzerland","Zurich, Switzerland"
+"Burghölzli, Zurich",Zurich
+"Wiedikon, Zurich",Zurich
+"Bäckerstrasse, Zurich",Zurich
+"Swiss National Museum, Zurich",Zurich
+"Zurichberg, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Grossmünster and Fraumünster, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Burghölzli, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Rebhügel, Wiedikon, Zurich, Switzerland","Wiedikon, Zurich, Switzerland"
-"Wiedikon, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Bäckerstrasse, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Lake Zurich, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
+"Lake Zurich, Switzerland",Switzerland
 "Glatt Valley, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
@@ -868,16 +948,18 @@ child,parent
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Lake Zurich, Switzerland",Switzerland
-"Lake Zurich, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Lake Constance, Switzerland/Germany/Austria",Switzerland/Germany/Austria
 "Lake Zurich, Switzerland",Switzerland
-"Lake Zurich, Zurich, Switzerland","Zurich, Switzerland"
+"Lake Zurich, Switzerland",Switzerland
+"Lake Zurich, Switzerland",Switzerland
+"Lake Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
-"Lake Zurich, Zurich, Switzerland","Zurich, Switzerland"
+"Lake Zurich, Switzerland",Switzerland
+"Upper Lake Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
-"Bern, Switzerland",Switzerland
+"Zurich, Switzerland",Switzerland
+"Zurich, Switzerland",Switzerland
+"Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Enge, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
@@ -902,7 +984,18 @@ child,parent
 "Wipkingen, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
-"Uetliberg, Zurich",Zurich
+"Old Town, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Zurich, Switzerland",Switzerland
+"Federal Observatory Zurichberg, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Limmat River, Switzerland",Switzerland
+"Hoengg, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Uetliberg, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Zurich, Switzerland",Switzerland
+"Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Wiedikon, Zurich, Switzerland","Zurich, Switzerland"
@@ -918,8 +1011,10 @@ child,parent
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Lake Zurich, Switzerland",Switzerland
-"Lake Zurich, Zurich, Switzerland","Zurich, Switzerland"
+"Uetliberg, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
+"Lake Zurich, Switzerland",Switzerland
+"Lake Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Canton of Zurich, Switzerland",Switzerland
@@ -929,14 +1024,16 @@ child,parent
 "Zurich, Switzerland",Switzerland
 "Zurichberg, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Zurich, Switzerland",Switzerland
 "Lindenhof, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Fraumünster, Zurich, Switzerland","Zurich, Switzerland"
+"Fraumünster-Münsterhof, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Niederdorf, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Grossmünster, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Limmat River, Switzerland",Switzerland
+"Stadelhof, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Aussersihl, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
@@ -998,6 +1095,7 @@ child,parent
 "Zurich, Switzerland",Switzerland
 "Burghölzli, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
+"Zurich, Switzerland",Switzerland
 "Limmat, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Bahnhofstrasse, Zurich, Switzerland","Zurich, Switzerland"
@@ -1010,26 +1108,21 @@ child,parent
 "Zurich, Switzerland",Switzerland
 "Rathausbrücke, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Grosse Hafner island, Zurich, Switzerland","Zurich, Switzerland"
+"Grosse Hafner, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Seefeld, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Storchengasse, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Oetenbach area, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
 "Lindenhof, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Bäckerstrasse, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"St. Petershügel, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Niederdorf, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
-"Albis, Switzerland",Switzerland
 "Uri, Switzerland",Switzerland
-"Fraumünster, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
 "Lindenhof, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Fraumünster, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Fraumünster, Zurich, Switzerland","Zurich, Switzerland"
@@ -1044,17 +1137,13 @@ child,parent
 "Zurich, Switzerland",Switzerland
 "Zurichberg, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Zurich, Fraumünster, Switzerland","Fraumünster, Switzerland"
-"Fraumünster, Switzerland",Switzerland
-"Limmat River eastern bank, Zurich, Switzerland","Zurich, Switzerland"
+"Fraumünster, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Limmat River, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Lindenhof, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Limmat River shore, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Eastern district, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Guild House of the Carpenters, Zurich, Switzerland","Zurich, Switzerland"
+"Limmat River, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Lindenhof, Zurich, Switzerland","Zurich, Switzerland"
@@ -1064,6 +1153,8 @@ child,parent
 "Zurich, Switzerland",Switzerland
 "Fraumünster Monastery, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
+"Fraumünster estate, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Winterthur, Switzerland",Switzerland
@@ -1072,8 +1163,7 @@ child,parent
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
-"Zurich, Switzerland",Switzerland
-"Limmat River, Zurich, Switzerland","Zurich, Switzerland"
+"Limmat River right bank, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "More City, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
@@ -1095,14 +1185,12 @@ child,parent
 "Zurich, Switzerland",Switzerland
 "Talacker, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Historic walled city of Zurich, Switzerland",Switzerland
+"Zurich old town, Switzerland",Switzerland
 "Lindenhof, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Limmat River, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Oetenbach Monastery, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Rennweg, Zurich, Switzerland","Zurich, Switzerland"
+"Limmat River, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Rathausbrücke, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
@@ -1110,13 +1198,13 @@ child,parent
 "Zurich, Switzerland",Switzerland
 "Sihl River, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Zurich, Switzerland",Switzerland
 "Fraumünster, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Grossmünster, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "St. Peter, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
+"Kornhaus, Weinplatz, Zurich, Switzerland","Weinplatz, Zurich, Switzerland"
 "Weinplatz, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Limmat River, Zurich, Switzerland","Zurich, Switzerland"
@@ -1141,24 +1229,35 @@ child,parent
 "Brunnenhof, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
-"Basel, Switzerland",Switzerland
-"Geneva, Switzerland",Switzerland
-"St. Gallen, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Zurichberg, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Winterthur, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
+"Zurich, Switzerland",Switzerland
+"Oetenbach, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"St. Verena, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Selnau, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"St. Jakob, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Spanweid, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
 "Grossmünster, Zurich",Zurich
-"Zurich, Switzerland",Switzerland
-"Zurich, Switzerland",Switzerland
+"Zurich, Fraumünster, Switzerland","Fraumünster, Switzerland"
+"Fraumünster, Switzerland",Switzerland
+"Zurich, Grossmünster, Switzerland","Grossmünster, Switzerland"
+"Grossmünster, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Münsterhof, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
+"Aussersihl, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Altstadt, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
@@ -1167,8 +1266,6 @@ child,parent
 "Leimbach, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Wollishofen, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Aussersihl, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Wiedikon, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
@@ -1221,6 +1318,8 @@ child,parent
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
+"Zurich, Switzerland",Switzerland
+"Zurich, Switzerland",Switzerland
 "Platzspitz, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Industriequartier, Zurich, Switzerland","Zurich, Switzerland"
@@ -1228,11 +1327,17 @@ child,parent
 "Schlieren, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
+"Schanzengraben, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Limmat River, Switzerland",Switzerland
 "Albula, Switzerland",Switzerland
-"Bergell, Switzerland",Switzerland
+"Heidsee, Switzerland",Switzerland
+"Wettingen, Switzerland",Switzerland
+"Tiefencastel, Switzerland",Switzerland
+"Marmorera, Switzerland",Switzerland
+"Bergell (Val Bregaglia), Switzerland",Switzerland
 "Maggia, Switzerland",Switzerland
 "Blenio, Switzerland",Switzerland
 "Hinterrhein, Switzerland",Switzerland
@@ -1240,62 +1345,28 @@ child,parent
 "Leibstadt, Switzerland",Switzerland
 "Bugey, France",France
 "Cattenom, France",France
-"Zurich, Switzerland",Switzerland
-"Zurich, Switzerland",Switzerland
-"Münsterbrücke, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Limmatquai, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Zurich main railway station area, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Bahnhofbrücke, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Zeughaus, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Aussersihl, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Bahnhofstrasse, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Bahnhof district, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"ETH Zurich, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Zurich main railway station, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Paradeplatz, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Selnau, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Neumühlequai, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Fraumünster district, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Prediger district, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Industriequartier, Aussersihl, Zurich, Switzerland","Aussersihl, Zurich, Switzerland"
-"Aussersihl, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Zurich Stock Exchange, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Upper Bahnhofstrasse, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Lake Zurich promenade, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Quaibrücke, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Lake Zurich lakeside, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Stadthausquai, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Oetenbach site, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Schipfe, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Zähringerplatz, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Rämistrasse, Zurich, Switzerland","Zurich, Switzerland"
-"Zurich, Switzerland",Switzerland
-"Zurich, Switzerland",Switzerland
+"Münsterbrücke, Zurich",Zurich
+"Limmatquai, Zurich",Zurich
+"Limmatquai, Zurich",Zurich
+"Bahnhofbrücke, Zurich",Zurich
+"Zeughaus, Zurich",Zurich
+"Aussersihl, Zurich",Zurich
+"Bahnhofstrasse, Zurich",Zurich
+"Bahnhof district, Zurich",Zurich
+"Paradeplatz, Zurich",Zurich
+"Selnau, Zurich",Zurich
+"Neumühlequai, Zurich",Zurich
+"Fraumünster district, Zurich",Zurich
+"Prediger district, Zurich",Zurich
+"Industriequartier, Aussersihl, Zurich","Aussersihl, Zurich"
+"Aussersihl, Zurich",Zurich
+"Upper Bahnhofstrasse, Zurich",Zurich
+"Quaibrücke, Zurich",Zurich
+"Stadthausquai, Zurich",Zurich
+"Oetenbach, Zurich",Zurich
+"Schipfe, Zurich",Zurich
+"Zähringerplatz, Zurich",Zurich
+"Rämistrasse, Zurich",Zurich
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
@@ -1348,10 +1419,19 @@ child,parent
 "Alsace, France",France
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
+"Tonhalle, Bellevue, Zurich, Switzerland","Bellevue, Zurich, Switzerland"
+"Bellevue, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Bellevue, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Pfauen, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Zurich-West, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Museum Rietberg, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
-"Museum of Contemporary Art, Zurich, Switzerland","Zurich, Switzerland"
+"Löwenbräu, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Haus Konstruktiv, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
@@ -1361,7 +1441,7 @@ child,parent
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
-"Zurich, Switzerland",Switzerland
+"Swiss National Museum, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
@@ -1376,6 +1456,9 @@ child,parent
 "Museum of Design Zurich, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Zurich University of the Arts, Zurich, Switzerland","Zurich, Switzerland"
+"Zurich, Switzerland",Switzerland
+"Zurich, Switzerland",Switzerland
+"Schanzengraben, Zurich, Switzerland","Zurich, Switzerland"
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland
 "Zurich, Switzerland",Switzerland

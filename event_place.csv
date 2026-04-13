@@ -14,7 +14,7 @@ e6,"Baden, Switzerland"
 e6,Western Switzerland
 e6,"Basel, Switzerland"
 e7,"Zurich, Switzerland"
-e7,Affoltern-Zug
+e7,"Affoltern am Albis, Switzerland"
 e8,"Zurich, Switzerland"
 e8,"Schaffhausen, Switzerland"
 e8,"Romanshorn, Switzerland"
@@ -28,93 +28,103 @@ e9,Zurich-Hoengg
 e9,Zurich-Oerlikon-Seebach
 e9,"Uetliberg, Zurich, Switzerland"
 e10,"Zurich, Switzerland"
-e11,"Zurichberg, Zurich, Switzerland"
-e12,"Zurichberg, Zurich, Switzerland"
-e13,"Zurichberg, Zurich, Switzerland"
-e15,"Zurich, Switzerland"
-e15,"Hoengg, Zurich, Switzerland"
-e16,"Zurich, Switzerland"
-e16,"Uetliberg, Zurich, Switzerland"
-e17,"Baldern, Zurich, Switzerland"
-e17,"Leimbach, Zurich, Switzerland"
-e17,"Sihl River, Switzerland"
-e17,"Etlisberg, Zurich, Switzerland"
-e17,"Wollishofen, Zurich, Switzerland"
-e17,Mönchhof
-e17,"Lake Zurich, Switzerland"
-e18,"Burghölzli Psychiatric Hospital, Zurich, Switzerland"
-e18,"Realp, Uri, Switzerland"
-e18,Wehrenbach
-e18,Elefantenbach
-e18,"Loorenkopf, Zurich, Switzerland"
-e18,"Glatt Valley, Zurich, Switzerland"
-e18,"Zurichberg, Zurich, Switzerland"
-e18,"Käferberg, Zurich, Switzerland"
-e18,"Milchbuck, Zurich, Switzerland"
-e19,Hardturm
-e19,"Limmat, Zurich, Switzerland"
-e19,Hoengger bridge
-e20,"Limmat, Zurich, Switzerland"
-e21,Triemli
-e22,Döltschi
-e22,Uto
-e22,Hotel Uetliberg
-e22,"Uetliberg, Zurich, Switzerland"
-e23,"Zurich, Switzerland"
-e23,outer municipalities
-e23,lower lake basin
-e23,"Uetliberg, Zurich, Switzerland"
-e23,"Zurichberg, Zurich, Switzerland"
-e23,"Käferberg, Zurich, Switzerland"
-e24,"Zurich, Switzerland"
-e25,"Zurich, Switzerland"
-e25,"Wollishofen, Zurich, Switzerland"
-e25,"Enge, Zurich, Switzerland"
-e25,"Wiedikon, Zurich, Switzerland"
-e25,"Aussersihl, Zurich, Switzerland"
-e25,"Wipkingen, Zurich, Switzerland"
-e25,"Unterstrass, Zurich, Switzerland"
-e25,"Oberstrass, Zurich, Switzerland"
-e25,"Fluntern, Zurich, Switzerland"
-e25,"Hottingen, Zurich, Switzerland"
-e25,"Hirslanden, Zurich, Switzerland"
-e25,"Riesbach, Zurich, Switzerland"
+e11,"Limmat River, Switzerland"
+e11,"Hoengg, Zurich, Switzerland"
+e11,"Zurich, Switzerland"
+e12,"Zurich, Switzerland"
+e12,"Uetliberg, Zurich, Switzerland"
+e13,"Baldern, Zurich, Switzerland"
+e13,"Leimbach, Zurich, Switzerland"
+e13,"Sihl River, Switzerland"
+e13,"Etlisberg, Zurich, Switzerland"
+e13,"Wollishofen, Zurich, Switzerland"
+e13,"Mönchhof, Zurich, Switzerland"
+e13,"Lake Zurich, Switzerland"
+e14,Burghölzli psychiatric hospital
+e14,"Realp, Uri, Switzerland"
+e14,Wehrenbach
+e14,Elefantenbach
+e14,"Loorenkopf, Zurich, Switzerland"
+e14,Glatt valley side of the Zurichberg
+e14,"Käferberg, Zurich, Switzerland"
+e14,"Milchbuck, Zurich, Switzerland"
+e15,Hardturm
+e15,"Limmat, Zurich, Switzerland"
+e15,Hoengger bridge
+e16,"Limmat, Zurich, Switzerland"
+e17,Triemli
+e18,Döltschi
+e18,Uto
+e18,Hotel Uetliberg
+e19,"Zurich, Switzerland"
+e19,"Uetliberg, Zurich, Switzerland"
+e19,"Zurichberg, Zurich, Switzerland"
+e19,"Käferberg, Zurich, Switzerland"
+e20,"Zurich, Switzerland"
+e20,"Wollishofen, Zurich, Switzerland"
+e20,"Enge, Zurich, Switzerland"
+e20,"Wiedikon, Zurich, Switzerland"
+e20,"Aussersihl, Zurich, Switzerland"
+e20,"Wipkingen, Zurich, Switzerland"
+e20,"Unterstrass, Zurich, Switzerland"
+e20,"Oberstrass, Zurich, Switzerland"
+e20,"Fluntern, Zurich, Switzerland"
+e20,"Hottingen, Zurich, Switzerland"
+e20,"Hirslanden, Zurich, Switzerland"
+e20,"Riesbach, Zurich, Switzerland"
+e21,"Zurich, Switzerland"
+e22,"Zurich, Switzerland"
+e23,left bank
+e23,right bank
+e24,left bank
+e24,right bank
+e25,left bank
+e25,right bank
 e26,"Zurichhorn, Zurich, Switzerland"
 e26,Hornbach
-e27,"Zurich, Switzerland"
-e28,"Belvoirpark, Zurich, Switzerland"
-e28,"Enge, Zurich, Switzerland"
-e29,"Zurichberg, Zurich, Switzerland"
-e29,Hirslanderberg
-e29,"Rigiquartier, Zurich, Switzerland"
-e30,"Sihl, Zurich, Switzerland"
-e30,"Uetliberg, Zurich, Switzerland"
+e26,"Lake Zurich, Switzerland"
+e27,"Lake Zurich, Switzerland"
+e28,left bank
+e28,right bank
+e28,"Lake Zurich, Switzerland"
+e29,"Belvoir Park, Zurich, Switzerland"
+e29,"Enge, Zurich, Switzerland"
+e30,"Zurichberg, Zurich, Switzerland"
+e30,Hirslanderberg
+e30,"Rigiquartier, Zurich, Switzerland"
+e31,"Sihl, Switzerland"
 e31,"Uetliberg, Zurich, Switzerland"
-e32,"Zurichberg, Zurich, Switzerland"
-e33,"Grossmünster, Zurich, Switzerland"
-e33,"Fraumünster, Zurich, Switzerland"
-e33,"Tonhalle, Zurich, Switzerland"
-e34,Red and White Castles
-e34,Rentenanstalt
-e34,Unfall Zürich
+e32,the summit
+e33,"Zurichberg, Zurich, Switzerland"
+e34,"Grossmünster, Zurich, Switzerland"
+e34,"Fraumünster, Zurich, Switzerland"
+e34,"Tonhalle, Zurich, Switzerland"
+e35,Red and White Castles
+e35,Rentenanstalt
+e35,Unfall Zürich
 e35,city theatre
 e35,Uto castle
 e36,"Limmat, Zurich, Switzerland"
 e36,"Quaibrücke, Zurich, Switzerland"
 e37,"St. Peter's Church, Zurich, Switzerland"
-e38,Uto
-e38,"Urania Sternwarte, Zurich, Switzerland"
+e38,"Uetliberg, Zurich, Switzerland"
+e38,"Urania Observatory, Zurich, Switzerland"
 e38,"Tonhalle, Zurich, Switzerland"
-e39,banks and bridges
-e40,lake
-e40,river
+e38,"Lake Zurich, Switzerland"
+e39,lake
+e39,river
+e40,the lake
+e41,the lake
+e41,the outlet
+e42,the moraine ridge
+e43,the higher mountains east and west
+e44,"Zurich, Switzerland"
+e44,Swiss Alps
+e44,Rhine River
 e45,"Zurich, Switzerland"
-e45,Swiss Alps
-e45,Rhine River
-e45,Italy
-e45,Germany
 e46,"Zurich, Switzerland"
 e47,"Zurich, Switzerland"
+e48,"Zurich, Switzerland"
 e48,"Baden, Switzerland"
 e49,"Zurich, Switzerland"
 e49,"Schaffhausen, Switzerland"
@@ -134,307 +144,238 @@ e49,Basel-Brugg
 e49,western Switzerland-Aarau-Brugg
 e50,"Zurich, Switzerland"
 e51,"Zurich, Switzerland"
-e51,"Uetliberg, Zurich, Switzerland"
-e51,old town
-e51,outer zone
-e51,"Lake Zurich, Switzerland"
-e51,"Limmat River, Zurich, Switzerland"
-e52,"Zurich, Switzerland"
-e52,outer zone
-e52,"Lake Zurich, Switzerland"
-e52,"Limmat River, Zurich, Switzerland"
-e53,"Schanzengraben, Zurich, Switzerland"
-e53,left Limmat bank
-e54,Seilergraben-Hirschengraben
-e54,right bank
-e55,"Bürkliplatz, Zurich, Switzerland"
-e56,"Enge, Zurich, Switzerland"
-e56,"Bahnhofstrasse, Zurich, Switzerland"
-e57,"Limmat River, Zurich, Switzerland"
-e57,"Quaibrücke, Zurich, Switzerland"
-e57,"Lake Zurich, Switzerland"
-e58,"Quaibrücke, Zurich, Switzerland"
-e59,lake
-e59,mountains
-e60,"Zollikon, Zurich, Switzerland"
-e60,"Glärnisch, Glarus, Switzerland"
-e60,"Vrenelisgärtli, Glarus, Switzerland"
-e60,"Bächistock, Glarus, Switzerland"
-e61,Faulen
-e61,"Drusberg, Canton of Zurich, Switzerland"
-e61,"Sihl Valley, Zurich, Switzerland"
-e61,"Bifertenstock, Glarus, Switzerland"
-e61,"Tödi, Glarus, Switzerland"
-e61,"Klariden, Glarus, Switzerland"
-e61,"Scheerhorn, Glarus, Switzerland"
-e61,"Düssistock, Glarus, Switzerland"
-e62,"Mythen, Schwyz, Switzerland"
-e62,"Windgällen, Uri, Switzerland"
-e62,"Kleinen Windgälle, Uri, Switzerland"
-e62,"Kaiserstock, Uri, Switzerland"
-e62,"Rossberg, Uri, Switzerland"
-e62,"Bristenstock, Uri, Switzerland"
-e63,"western Urnäsch (Urirotstock, Schlossstock, and Wissig)"
-e64,Hohen Ronen
-e64,Gottschalkenberg
-e64,"Sihlwald, Albis, Zurich, Switzerland"
-e64,"Zimmerberg, Hütten, Schindellegi, Zurich, Switzerland"
-e65,"Lake Zurich, Switzerland"
-e66,"Lake Zurich, Switzerland"
-e67,"Lake Zurich, Switzerland"
-e68,"Lake Zurich, Switzerland"
-e69,Zwingli monument
-e69,"Wasserkirche, Zurich, Switzerland"
-e70,"Wasserkirche, Zurich, Switzerland"
-e71,"Helmhaus, Zurich, Switzerland"
-e72,"Münsterbrücke, Zurich, Switzerland"
-e72,"Grossmünster, Zurich, Switzerland"
-e73,"Grossmünster, Zurich, Switzerland"
-e74,"Grossmünster, Zurich, Switzerland"
-e75,cloister (upper daughters' school)
-e76,town hall
-e77,town hall
-e78,town hall
-e79,town hall
-e80,town hall
-e81,town hall
+e52,"Schanzengraben, Zurich, Switzerland"
+e52,"Left bank of Limmat River, Zurich, Switzerland"
+e53,"Seilergraben and Hirschengraben, Zurich, Switzerland"
+e53,"Right bank of Limmat River, Zurich, Switzerland"
+e54,"Bürkliplatz, Zurich, Switzerland"
+e55,"Quaibrücke, Zurich, Switzerland"
+e55,"Lake Zurich, Switzerland"
+e56,lake
+e57,"Zollikon, Zurich, Switzerland"
+e57,"Glärnisch, Glarus, Switzerland"
+e57,"Vrenelisgärtli, Glarus, Switzerland"
+e57,"Bächistock, Glarus, Switzerland"
+e58,Faulen
+e58,"Drusberg, Zurich, Switzerland"
+e58,"Sihl Valley, Zurich, Switzerland"
+e58,"Bifertenstock, Glarus, Switzerland"
+e58,"Tödi, Glarus, Switzerland"
+e58,"Klariden, Glarus, Switzerland"
+e58,"Scheerhorn, Glarus, Switzerland"
+e58,"Düssistock, Glarus, Switzerland"
+e59,"Mythen, Schwyz, Switzerland"
+e60,"Mythen, Schwyz, Switzerland"
+e60,"Windgällen, Uri, Switzerland"
+e60,"Kleinen Windgälle, Uri, Switzerland"
+e61,"Kaiserstock, Uri, Switzerland"
+e61,"Rossberg, Uri, Switzerland"
+e61,"Bristenstock, Uri, Switzerland"
+e62,"Lake Zurich, Switzerland"
+e63,"Lake Zurich, Switzerland"
+e64,"Lake Zurich, Switzerland"
+e65,former ferry landing square
+e65,Zwingli monument
+e65,"Wasserkirche, Zurich, Switzerland"
+e66,"Grossmünster, Zurich, Switzerland"
+e67,town hall
+e68,town hall
+e69,town hall
+e70,town hall
+e71,"Zurich, Switzerland"
+e72,"St. Peter's Church, Zurich, Switzerland"
+e72,"Zurich, Switzerland"
+e73,"Fraumünster, Zurich, Switzerland"
+e73,"Zurich, Switzerland"
+e74,Münsterbrücke
+e75,Münsterbrücke
+e75,river
+e76,Münsterbrücke
+e76,"Zurich, Switzerland"
+e77,"Marktgasse, Zürich, Switzerland"
+e78,"Stüssihofstatt, Zürich, Switzerland"
+e79,"Bahnhofbrücke, Zürich, Switzerland"
+e80,"Zurich, Switzerland"
 e81,"Zurich, Switzerland"
-e82,town hall
-e84,"St. Peter's Church, Zurich, Switzerland"
-e84,"Zurich, Switzerland"
-e85,"Fraumünster, Zurich, Switzerland"
-e85,"Zurich, Switzerland"
-e86,town hall
-e86,"Zurich, Switzerland"
-e87,"Zurich, Switzerland"
-e87,Bäch and Bollingen quarries
-e88,Prediger tower
-e88,Roman Catholic Liebfrauenkirche
-e88,"Zurich, Switzerland"
-e89,"Zurich, Switzerland"
-e90,Urania tower
-e90,"Zurich, Switzerland"
-e91,Münsterbrücke
-e92,Münsterbrücke
-e92,river
-e93,Münsterbrücke
-e93,"Walenstadt, Switzerland"
-e94,Münsterbrücke
-e94,"Gotthard Pass, Switzerland"
-e94,"Mellingen, Switzerland"
-e95,Münsterbrücke
-e95,"Zurich, Switzerland"
-e96,"Marktgasse, Zurich, Switzerland"
-e96,"Zurich, Switzerland"
-e97,Stüssihofstatt
-e98,"Leonhardplatz, Zurich, Switzerland"
-e98,"Bahnhofbrücke, Zurich, Switzerland"
-e99,"Zurich, Switzerland"
-e100,"Zurich, Switzerland"
-e101,"Zurich, Switzerland"
-e102,"Zurich, Switzerland"
-e103,"Zurich, Switzerland"
-e106,"Fraumünster, Zurich, Switzerland"
-e107,"Swiss National Museum, Zurich, Switzerland"
-e108,"Swiss National Museum, Zurich, Switzerland"
-e109,"Zurich, Switzerland"
-e110,"Zurich Hauptbahnhof, Zurich, Switzerland"
-e111,"Zurich Hauptbahnhof, Zurich, Switzerland"
-e111,"Bahnhofstrasse, Zurich, Switzerland"
-e112,"Bahnhofstrasse, Zurich, Switzerland"
-e113,"Paradeplatz, Zurich, Switzerland"
-e113,"Bahnhofstrasse, Zurich, Switzerland"
-e114,"Bahnhofstrasse, Zurich, Switzerland"
-e114,"Oetenbach, Zurich, Switzerland"
-e114,"Uraniastrasse, Zurich, Switzerland"
-e114,"Rennweg, Zurich, Switzerland"
-e114,"Lindenhof, Zurich, Switzerland"
-e114,"Strohhof, Zurich, Switzerland"
-e114,"St. Anna, Zurich, Switzerland"
-e114,"Botanischer Garten der Universität Zürich, Zurich, Switzerland"
-e115,"Oetenbach, Zurich, Switzerland"
-e115,"Uraniastrasse, Zurich, Switzerland"
-e116,Alpenquai
-e117,Alpenquai
-e118,Alpenquai
-e119,Linth glacier
-e119,"Walensee, Switzerland"
-e119,"Speer, Switzerland"
-e119,"Glärnisch, Switzerland"
+e81,"Swiss National Museum, Zurich, Switzerland"
+e82,"Helmhaus, Zurich, Switzerland"
+e83,"Swiss National Museum, Zurich, Switzerland"
+e84,"Swiss National Museum, Zurich, Switzerland"
+e85,"Swiss National Museum, Zurich, Switzerland"
+e86,"Zurich Hauptbahnhof, Zurich, Switzerland"
+e87,"Zurich Hauptbahnhof, Zurich, Switzerland"
+e87,"Bahnhofstrasse, Zurich, Switzerland"
+e88,"Bahnhofstrasse, Zurich, Switzerland"
+e89,"Paradeplatz, Zurich, Switzerland"
+e89,"Bahnhofstrasse, Zurich, Switzerland"
+e90,"Bahnhofstrasse, Zurich, Switzerland"
+e90,"Oetenbach, Zurich, Switzerland"
+e90,"Uraniastrasse, Zurich, Switzerland"
+e90,"Rennweg, Zurich, Switzerland"
+e90,"Lindenhof, Zurich, Switzerland"
+e90,"Strohhof, Zurich, Switzerland"
+e90,"St. Anna, Zurich, Switzerland"
+e90,"Botanical Garden, Zurich, Switzerland"
+e91,"Alpenquai, Zurich, Switzerland"
+e92,"Zurich, Switzerland"
+e93,"Zurich, Switzerland"
+e94,"Zurich, Switzerland"
+e95,"Belvoirpark, Zurich, Switzerland"
+e96,"Albisgütli, Zurich, Switzerland"
+e97,old Albisgütli
+e97,"Uetliberg, Zurich, Switzerland"
+e98,"Uetliberg, Zurich, Switzerland"
+e99,"Sihlhölzli, Zurich, Switzerland"
+e100,Bühl
+e100,"Wiedikon, Zurich, Switzerland"
+e101,"Wiedikon, Zurich, Switzerland"
+e101,"Aussersihl, Zurich, Switzerland"
+e102,left-bank lake railway
+e102,Zurich main station
+e102,"Aussersihl, Zurich, Switzerland"
+e103,"St. Jakob's Church, Zurich, Switzerland"
+e104,"Zurichberg, Zurich, Switzerland"
+e104,"Uetliberg, Zurich, Switzerland"
+e105,"Zurich, Switzerland"
+e106,"Zurich, Switzerland"
+e106,main station
+e107,"Limmatplatz, Zurich, Switzerland"
+e107,industrial district north of the railway
+e108,industrial district north of the railway
+e109,"Oerlikon, Zurich, Switzerland"
+e109,right lake shore
+e109,Lettentunnel at Stadelhofen
+e110,"Sihlquai, Zurich, Switzerland"
+e110,"Zurich main station, Zurich, Switzerland"
+e111,municipal filter plants for drinking water
+e111,"Sihlquai, Zurich, Switzerland"
+e112,"Limmat River, Zurich, Switzerland"
+e112,"Letten station, Zurich, Switzerland"
+e113,former gasworks
+e114,"Wipkinger Bridge, Zurich, Switzerland"
+e114,"Limmat Valley, Zurich, Switzerland"
+e114,"Höngg, Zurich, Switzerland"
+e114,"Käferberg, Zurich, Switzerland"
+e115,"Right bank of Limmat River, Zurich, Switzerland"
+e115,"District 4, Zurich, Switzerland"
+e115,"Wipkingen, Zurich, Switzerland"
+e115,"Röschibachstrasse, Zurich, Switzerland"
+e115,"Nordstrasse, Zurich, Switzerland"
+e115,"Rotbuchstrasse, Zurich, Switzerland"
+e115,Rötel
+e116,Rötel
+e117,Oerlikon-Seebacher tramway
+e117,"Weinbergstrasse, Zurich, Switzerland"
+e117,"Unterstrass, Zurich, Switzerland"
+e117,"Leonhardsplatz, Zurich, Switzerland"
+e118,"Wiedikon, Zurich, Switzerland"
+e119,Rigi quarter
 e120,"Zurich, Switzerland"
 e121,"Zurich, Switzerland"
-e122,"Zurich, Switzerland"
-e123,"Belvoirpark, Zurich, Switzerland"
+e122,"Schlieren, Zurich, Switzerland"
 e123,"Zurich, Switzerland"
-e124,Belvoirpark
-e124,Gabler
-e124,Bürgli
-e124,"Enge, Zurich, Switzerland"
-e124,"Enge, Zurich, Switzerland"
-e125,outer moraine parallel ridge beyond Waffenplatzstrasse
+e123,Lake Zurich
+e123,"Limmat River, Zurich, Switzerland"
+e123,"Sihl River, Zurich, Switzerland"
+e124,"Zurich, Switzerland"
+e124,"Uetliberg, Zurich, Switzerland"
+e124,"Zurichberg, Zurich, Switzerland"
+e125,"Zurich, Switzerland"
+e125,Lake Zurich
 e125,"Sihl River, Zurich, Switzerland"
-e126,"Sihl River, Zurich, Switzerland"
-e126,"Zimmerberg, Switzerland"
-e126,"Albis chain, Switzerland"
-e126,the commons (the federal weapons place) of the city
-e126,"Limmat River, Zurich, Switzerland"
-e127,Uto bridge
-e127,"Uetliberg, Zurich, Switzerland"
-e127,Albisgütli shooting house
-e128,old Albisgütli
-e128,"Uetliberg, Zurich, Switzerland"
-e128,Uetliberg railway
-e129,"Uetliberg, Zurich, Switzerland"
-e129,the outskirts of the industrial city district
-e130,Sihlhölzli
-e131,"Wiedikon, Zurich, Switzerland"
-e132,"Wiedikon, Zurich, Switzerland"
-e132,"Aussersihl, Zurich, Switzerland"
-e133,"St. Jakob's Church, Zurich"
-e134,"Zurichberg, Zurich"
-e134,"Uetliberg, Zurich"
-e135,"Zurich, Switzerland"
-e136,"Zurich, Switzerland"
-e136,main station
-e136,"Limmatplatz, Zurich, Switzerland"
-e136,industrial district north of the railway
-e137,St. John’s church
-e138,industrial district north of the railway
-e138,"Oerlikon, Zurich, Switzerland"
-e138,right lake shore
-e138,Lettentunnel at Stadelhofen
-e139,"Sihlquai, Zurich, Switzerland"
-e139,"Zurich Hauptbahnhof, Zurich, Switzerland"
-e140,Escher-Wyss & Co.
-e140,Steinfels soap factory
-e140,joint-stock brewery
-e140,city mill
-e141,municipal filter plants for drinking water
-e141,"Sihlquai, Zurich, Switzerland"
-e142,"Limmat River, Zurich, Switzerland"
-e142,"Letten station, Zurich, Switzerland"
-e143,former gasworks
-e144,"Wipkingerbrücke, Zurich, Switzerland"
-e144,"Limmat Valley, Zurich, Switzerland"
-e144,"Höngg, Zurich, Switzerland"
-e144,"Käferberg, Zurich, Switzerland"
-e145,"Right bank of Limmat River, Zurich, Switzerland"
-e145,"District 4, Zurich, Switzerland"
-e145,"Wipkingen, Zurich, Switzerland"
-e146,"Röschibachstrasse, Zurich, Switzerland"
-e146,"Nordstrasse, Zurich, Switzerland"
-e146,"Rotbuchstrasse, Zurich, Switzerland"
-e146,Rötel
-e147,"Oerlikon-Seebach tramway, Zurich, Switzerland"
-e147,"Weinbergstrasse, Zurich, Switzerland"
-e147,"Unterstrass, Zurich, Switzerland"
-e147,"Leonhardsplatz, Zurich, Switzerland"
-e147,"Bahnhofbrücke, Zurich, Switzerland"
-e148,"Wiedikon, Zurich, Switzerland"
-e149,Riedlistrasse
-e149,the church
-e149,Rigi quarter
-e150,Höhenstrasse
+e126,"Zurich, Switzerland"
+e127,"ETH Zurich, Switzerland"
+e128,the university complex
+e129,the university complex
+e130,federal machine laboratory
+e131,federal chemical laboratories
+e131,Swiss agricultural chemical institute and seed control station
+e132,agricultural and forestry school
+e133,federal physics building
+e133,Swiss meteorological central institute
+e134,cantonal chemical laboratories of the University
+e135,new cantonal school building
+e135,old cantonal school on Rämistrasse
+e136,music conservatory in Florhofgasse
+e137,"Zurich, Switzerland"
+e138,"Badenerstrasse, Zurich, Switzerland"
+e139,"Hirschengraben, Zurich, Switzerland"
+e140,"Zurich, Switzerland"
+e141,"Stadttheater Zurich, Switzerland"
+e142,old theater at Untern Zäune
+e143,"Corso Theater, Zurich, Switzerland"
+e144,"Heimplatz, Zurich, Switzerland"
+e145,upper court
+e145,Obmann office (former Barefoot monastery)
+e145,cantonal administration
+e146,botanical garden
+e146,Bollwerk zur Katze
+e146,"Schanzengraben, Zurich, Switzerland"
+e147,"Zurich, Switzerland"
+e147,Peter tower
+e147,"Gemüsebrücke, Zurich, Switzerland"
+e147,"Right bank of Limmat river, Zurich, Switzerland"
+e148,"Zurich, Switzerland"
+e149,"Kirchgasse, Zurich, Switzerland"
+e149,"Schipfe, Zurich, Switzerland"
+e149,lower Zäune
+e149,"Augustinergasse, Zurich, Switzerland"
 e150,"Zurich, Switzerland"
 e151,"Zurich, Switzerland"
-e151,"Schlieren, Zurich, Switzerland"
-e152,"Zurich, Switzerland"
-e152,Lake Zurich
-e152,the confluence of the Limmat and Sihl
-e153,"Zurich, Switzerland"
-e153,"Uetliberg, Zurich, Switzerland"
-e153,"Zurichberg, Zurich, Switzerland"
-e154,"Zurich, Switzerland"
-e154,Lake Zurich
-e154,the confluence of the Limmat and Sihl
-e155,ETH Zurich
-e156,ETH Zurich
-e157,the university complex
-e157,Zurich Old Town
-e158,the university complex
-e159,the university complex
-e160,University
-e162,Swiss agricultural chemical institute
-e162,seed control station
-e163,agricultural and forestry school
-e164,Swiss meteorological central institute
-e165,cantonal hospital
-e165,laboratory of the cantonal chemist
-e165,dental polyclinic
-e165,anatomy
-e165,isolation hospital
-e165,pathological institute
-e165,eye clinic
-e165,blind and deaf-mute institute
-e165,cantonal physics and physiology building
-e166,cantonal chemical laboratories of the University
-e166,new cantonal school building opposite the old cantonal school on Rämistrasse
-e167,Wolfbach schoolhouse
-e167,music conservatory in Florhofgasse
-e167,Hirschengraben schoolhouse
-e167,collegiate building at Rechberg
+e152,the city
+e153,the city
+e154,old town
+e155,Zwingli monument in front of the Wasserkirche
+e156,the city
+e157,the city
+e158,Kirchgasse
+e158,Rüdenplatz
+e158,Rindermarkt
+e158,Sihlstrasse
+e159,"Zurichberg, Zurich, Switzerland"
+e160,"Stadthausplatz, Zurich, Switzerland"
+e160,"Enge Park, Zurich, Switzerland"
+e161,"Zurichberg, Zurich, Switzerland"
+e162,"Zurich, Switzerland"
+e163,"ETH Zurich, Switzerland"
+e163,"Zurich, Switzerland"
+e164,"Zurich, Switzerland"
+e165,"Zurich, Switzerland"
+e166,"Zurich, Switzerland"
+e167,"University of Zurich, Switzerland"
 e168,"Zurich, Switzerland"
-e169,"Badenerstrasse, Zurich, Switzerland"
-e170,"Hirschengraben, Zurich, Switzerland"
-e171,"Zurich, Switzerland"
+e169,"Zurich, Switzerland"
+e170,other municipalities in the canton
+e171,other cantons
 e172,"Zurich, Switzerland"
 e173,"Zurich, Switzerland"
-e174,city theater
-e175,old theater at Untern Zäune
-e176,Corso Theater
-e177,Heimplatz near Pfauen Theater
-e178,upper court
-e178,Obmann office (former Barefoot monastery)
-e179,"Bollwerk zur Katze, Schanzengraben, Zurich, Switzerland"
-e180,"Bollwerk zur Katze, Schanzengraben, Zurich, Switzerland"
-e181,"Bollwerk zur Katze, Schanzengraben, Zurich, Switzerland"
-e181,"Canton of Zurich, Switzerland"
-e182,"Bollwerk zur Katze, Schanzengraben, Zurich, Switzerland"
-e183,"Selnau, Zurich, Switzerland"
-e183,near the Uetliberg and Sihl valley railway station
-e184,"Zurich, Switzerland"
-e184,Badenerstrasse
-e184,Saint Jakob's Church
-e185,innermost city districts
-e186,innermost city districts
-e187,"Zurich, Switzerland"
-e187,"Zurich, Switzerland"
-e187,lower Zäune
-e187,"Zurich, Switzerland"
-e188,innermost city districts
-e189,innermost city districts
+e174,"Zurich, Switzerland"
+e175,"Zurich, Switzerland"
+e176,"Zurich, Switzerland"
+e177,"Zurich, Switzerland"
+e178,"Zurich, Switzerland"
+e179,"Zurich, Switzerland"
+e180,"Zurich, Switzerland"
+e181,residential population
+e182,residential population
+e188,"Canton of Zurich, Switzerland"
+e189,"Zurich, Switzerland"
 e190,"Zurich, Switzerland"
-e191,"Old Town, Zurich, Switzerland"
-e192,"Zwingli Monument, Wasserkirche, Zurich, Switzerland"
-e193,"Old Town, Zurich, Switzerland"
-e194,"Old Town, Zurich, Switzerland"
-e195,"Kirchgasse, Zurich, Switzerland"
-e195,"Rüdenplatz, Zurich, Switzerland"
-e195,"Rindermarkt, Zurich, Switzerland"
-e195,"Sihlstrasse, Zurich, Switzerland"
-e196,"Zurichberg, Zurich, Switzerland"
-e197,"Stadthausplatz, Zurich, Switzerland"
-e197,"Enge Park, Zurich, Switzerland"
-e198,"Zurichberg, Zurich, Switzerland"
-e199,"Zurich, Switzerland"
-e200,"Zurich, Switzerland"
-e200,"ETH Zurich, Zurich, Switzerland"
-e200,the cantonal educational institutions
-e200,"Zurich, Switzerland"
-e200,"ETH Zurich, Zurich, Switzerland"
-e201,"St. Verena Monastery, Zurich, Switzerland"
-e201,"Zurich, Switzerland"
-e202,"Zurich, Switzerland"
-e203,"Zurich, Switzerland"
-e204,"Botanical Garden, University of Zurich, Zurich, Switzerland"
-e205,"Zurich, Switzerland"
-e206,"Zurich, Switzerland"
-e207,"Zurich, Switzerland"
-e208,"Zurich, Switzerland"
-e209,"Zurich, Switzerland"
-e210,"Zurich, Switzerland"
-e211,"Zurich, Switzerland"
-e212,"Zurich, Switzerland"
+e191,"Zurich, Switzerland"
+e192,"Zurich, Switzerland"
+e193,"Zurich, Switzerland"
+e194,Zurich
+e195,Zurich
+e196,Zurich
+e197,Zurich
+e198,Zurich
+e199,Zurich
+e200,Zurich
+e201,Zurich
+e202,Zurich
+e203,Zurich
+e205,District I
+e206,District I
 e213,"Zurich, Switzerland"
 e214,"Zurich, Switzerland"
 e215,"Zurich, Switzerland"
@@ -443,266 +384,347 @@ e217,"Zurich, Switzerland"
 e218,"Zurich, Switzerland"
 e219,"Zurich, Switzerland"
 e220,"Zurich, Switzerland"
+e221,"Zurich, Switzerland"
+e222,other Swiss locations
+e223,"Zurich, Switzerland"
+e224,"Zurich, Switzerland"
+e225,"Zurich, Switzerland"
+e226,"Zurich, Switzerland"
+e227,"Zurich, Switzerland"
 e228,"Zurich, Switzerland"
-e228,Switzerland
 e229,"Zurich, Switzerland"
-e230,"Zurich, Switzerland"
-e231,"Zurich, Switzerland"
+e230,inner city
+e231,outer districts
 e232,"Zurich, Switzerland"
 e233,"Zurich, Switzerland"
-e234,"Zurich, Switzerland"
-e235,"Zurich, Switzerland"
-e236,"Zurich, Switzerland"
-e237,"Zurich, Switzerland"
-e238,resident population
+e234,Zurich
+e235,Zurich
+e236,Zurich
+e237,Zurich
+e238,"Zurich, Switzerland"
 e239,"Zurich, Switzerland"
 e240,"Zurich, Switzerland"
 e241,"Zurich, Switzerland"
 e242,"Zurich, Switzerland"
 e243,"Zurich, Switzerland"
-e244,"Zurich, Switzerland"
-e245,"Zurich, Switzerland"
-e246,"Zurich, Switzerland"
-e247,"Zurich, Switzerland"
-e248,"Zurich, Switzerland"
-e249,District I
-e250,District I
-e251,District I
-e252,District I
-e253,District I
-e254,District I
-e255,"Zurich, Switzerland"
-e256,"Zurich, Switzerland"
-e257,"Zurich, Switzerland"
-e258,"Zurich, Switzerland"
-e259,"Zurich, Switzerland"
-e260,"Zurich, Switzerland"
-e261,"Zurich, Switzerland"
-e262,"Zurich, Switzerland"
-e263,"Zurich, Switzerland"
-e264,"Zurich, Switzerland"
-e265,"Zurich, Switzerland"
-e266,"Zurich, Switzerland"
-e267,"Zurich, Switzerland"
-e268,"Zurich, Switzerland"
-e269,"Zurich, Switzerland"
-e270,"Zurich, Switzerland"
+e250,"Zurich, Switzerland"
+e252,"Zurich, Switzerland"
+e253,the surrounding towns
+e254,"Zurich, Switzerland"
+e254,"Old Town, Zurich, Switzerland"
+e259,house “zum Schwert”
+e259,"Hardturm Bridge, Zurich, Switzerland"
+e260,"Fraumünster, Zurich, Switzerland"
+e261,"Limmat River, Zurich, Switzerland"
+e261,mill piers
+e262,"Platzspitz, Zurich, Switzerland"
+e263,"Weinplatz, Zurich, Switzerland"
+e263,town hall
+e264,lower (vegetable) bridge
+e266,lake
+e267,lake
+e268,"Limmat River, Switzerland"
+e268,"Schanzengraben, Zurich, Switzerland"
+e269,"Limmat River, Switzerland"
+e269,"Schanzengraben, Zurich, Switzerland"
+e270,the lake
 e271,"Zurich, Switzerland"
-e273,inner city
-e274,outer districts
-e276,"Zurich, Switzerland"
-e277,Zurich
-e278,Zurich
-e279,Zurich
-e280,Zurich
-e281,Zurich
-e282,"Zurich, Switzerland"
-e283,"Zurich, Switzerland"
-e284,"Zurich, Switzerland"
-e285,"Zurich, Switzerland"
-e286,"Zurich, Switzerland"
+e271,the lake
+e271,"Limmat River, Zurich, Switzerland"
+e271,"Schanzengraben, Zurich, Switzerland"
+e272,"Zurich, Switzerland"
+e273,"Zurich, Switzerland"
+e274,the lake
+e275,"Zurich, Switzerland"
+e275,"Bürkliplatz, Zurich, Switzerland"
+e277,"Lindenhof, Zurich, Switzerland"
+e277,Winkelwies on the Geissberg
+e277,"Platzspitz, Zurich, Switzerland"
+e278,botanical garden
+e278,"Sihlhölzli, Zurich, Switzerland"
+e278,High Promenade
+e278,"Heimplatz, Zurich, Switzerland"
+e278,"Stadelhoferplatz, Zurich, Switzerland"
+e278,town hall facilities
+e278,large quays with the wonderful quay facilities
+e278,"Belvoirpark, Zurich, Switzerland"
+e278,"Quaibrücke, Zurich, Switzerland"
+e278,"Zurichhorn, Zurich, Switzerland"
+e282,"Limmatplatz, Zurich, Switzerland"
+e282,Rotwand area
+e285,"Zurichberg, Zurich, Switzerland"
+e285,"Uetliberg, Zurich, Switzerland"
+e286,"Uetliberg, Zurich, Switzerland"
+e286,Waldhüsli
+e286,Elephant
+e286,Grandmother Beech
+e286,Battle Memorial [1799]
+e286,"Sagentobel, Zurich, Switzerland"
+e286,Stöckentobel
+e286,Wehrenbach
+e286,Weidberg
+e287,"Uetliberg, Zurich, Switzerland"
+e288,Alps
+e288,"Uetliberg, Zurich, Switzerland"
+e288,"Säntis, Switzerland"
+e288,"Bernese Oberland, Switzerland"
+e289,"Zurich, Switzerland"
+e289,"Lake Zurich, Switzerland"
+e290,lakeside villages
+e290,"Sihl Valley, Zurich, Switzerland"
+e290,"Sihlwald, Zurich, Switzerland"
+e290,municipal game park
+e291,"Zurich, Switzerland"
+e292,"Zurich, Switzerland"
+e293,"Zurich, Switzerland"
 e294,"Zurich, Switzerland"
-e295,the surrounding towns
+e295,"Zurich, Switzerland"
+e295,"Limmat River, Zurich, Switzerland"
 e296,"Zurich, Switzerland"
-e296,"Old Town, Zurich, Switzerland"
 e297,"Zurich, Switzerland"
-e302,house “zum Schwert”
-e302,"Hardturm Bridge, Zurich, Switzerland"
-e303,"Fraumünster, Zurich, Switzerland"
-e304,"Limmat, Zurich, Switzerland"
-e305,"Platzspitz, Zurich, Switzerland"
-e306,"Weinplatz, Zurich, Switzerland"
-e306,town hall
-e307,the lower (vegetable) bridge
-e309,lake
-e310,lake
-e311,lake
-e312,lake
-e313,lake
-e314,lake
-e314,"Limmat, Switzerland"
-e315,"Limmat, Switzerland"
-e315,"Schanzengraben, Zurich, Switzerland"
-e316,"Limmat, Switzerland"
-e316,"Schanzengraben, Zurich, Switzerland"
-e317,"Limmat, Switzerland"
-e317,"Schanzengraben, Zurich, Switzerland"
-e318,lake
-e319,lake
-e320,lake
-e321,the lake
-e322,"Zurich, Switzerland"
-e322,the lake
-e322,"Limmat River, Zurich, Switzerland"
-e322,"Schanzengraben, Zurich, Switzerland"
+e298,"Zurich, Switzerland"
+e298,Hardhüsligut
+e299,"Zurich, Switzerland"
+e300,"Zurich, Switzerland"
+e304,"Bahnhofstrasse, Zurich, Switzerland"
+e304,"Petersstrasse, Zurich, Switzerland"
+e304,"Münzplatz, Zurich, Switzerland"
+e304,"Uraniastrasse, Zurich, Switzerland"
+e304,"Sihlhofstrasse, Zurich, Switzerland"
+e304,"Usteristrasse, Zurich, Switzerland"
+e304,"Schweizergasse, Zurich, Switzerland"
+e304,"Lintheschergasse, Zurich, Switzerland"
+e304,"Schützengasse, Zurich, Switzerland"
+e304,"Rathausquai, Zurich, Switzerland"
+e304,"Rathausbrücke, Zurich, Switzerland"
+e304,"Hirschengraben, Zurich, Switzerland"
+e304,"Stauffacherstrasse, Zurich, Switzerland"
+e305,"Bahnhofstrasse, Zurich, Switzerland"
+e306,"Bahnhofstrasse, Zurich, Switzerland"
+e307,"Bahnhofstrasse, Zurich, Switzerland"
+e308,"Bahnhofstrasse, Zurich, Switzerland"
+e309,"Uraniastrasse, Zurich, Switzerland"
+e309,"Hirschengraben, Zurich, Switzerland"
+e310,"Hirschengraben, Zurich, Switzerland"
+e311,"Zurich, Switzerland"
+e312,"Zurich, Switzerland"
+e313,"Canton of Zurich, Switzerland"
+e314,"Zurich, Switzerland"
+e315,"Niederdorf, Zurich, Switzerland"
+e316,Zeughausstrasse 10
+e317,Seebahnstrasse 11
+e318,Konradstrasse 11
+e319,Zwinglistrasse 10
+e320,"Langstrasse, Zurich, Switzerland"
+e322,the 9 alcohol-free establishments of the Women’s Association for Temperance and Public Welfare
 e323,"Zurich, Switzerland"
 e324,"Zurich, Switzerland"
-e325,the lake
+e325,Nidelbad
+e325,Waid
 e326,"Zurich, Switzerland"
-e326,"Bürkliplatz, Zurich, Switzerland"
-e327,"Lindenhof, Zurich, Switzerland"
-e328,"Platzspitz, Zurich, Switzerland"
-e329,botanical garden
-e329,"Sihlhölzli, Zurich, Switzerland"
-e329,High Promenade
-e329,"Heimplatz, Zurich, Switzerland"
-e329,"Stadelhoferplatz, Zurich, Switzerland"
-e329,town hall facilities
-e329,large quays with the wonderful quay facilities
-e329,"Belvoirpark, Zurich, Switzerland"
-e329,"Quaibrücke, Zurich, Switzerland"
-e329,"Zurichhorn, Zurich, Switzerland"
-e333,"Limmatplatz, Zurich, Switzerland"
-e333,Rotwand area
-e337,the city alleys
-e338,"Zurichberg, Zurich, Switzerland"
-e338,"Käferberg, Zurich, Switzerland"
-e338,"Uetliberg, Zurich, Switzerland"
-e338,the Beautification Association of Zurich and Surroundings
-e339,"Uetliberg, Zurich, Switzerland"
-e339,Waldhüsli
-e339,Elephant
-e339,Grandmother Beech
-e339,Battle Memorial [1799]
-e339,"Sagentobel, Zurich, Switzerland"
-e339,Stöckentobel
-e339,Wehrenbach
-e339,Weidberg
-e340,"Uetliberg, Zurich, Switzerland"
-e341,Alps
-e341,"Uetliberg, Zurich, Switzerland"
-e341,"Säntis, Switzerland"
-e341,"Bernese Oberland, Switzerland"
-e342,"Zurich, Switzerland"
-e342,"Lake Zurich, Switzerland"
-e343,lakeside villages
-e343,"Sihl Valley, Zurich, Switzerland"
-e343,"Sihlwald, Zurich, Switzerland"
-e343,municipal game park
-e344,"Zurich, Switzerland"
+e327,Rennweg
+e328,"Zurich, Switzerland"
+e328,the city district
+e329,"Limmat River, Zurich, Switzerland"
+e329,"Schipfe, Zurich, Switzerland"
+e329,"Schanzengraben, Zurich, Switzerland"
+e331,"Limmat River, Zurich, Switzerland"
+e331,the upper Mühlesteg
+e332,Polytechnic
+e332,Schmelzberg above the observatory
+e332,"Limmat River, Zurich, Switzerland"
+e332,pumping station
+e334,"Platzspitz, Zurich, Switzerland"
+e335,"Letten, Zurich, Switzerland"
+e336,"Limmat River, Zurich, Switzerland"
+e336,Drahtschmidli
+e338,Langensteinen (Oberstrass)
+e338,"ETH Zurich, Zurich, Switzerland"
+e339,"Zurichberg, Zurich, Switzerland"
+e339,"Lake Zurich, Switzerland"
+e340,"Zurich, Switzerland"
+e341,"Zurich, Switzerland"
+e342,"Limmat River, Switzerland"
+e343,"Zurich, Switzerland"
+e344,lake
 e345,"Zurich, Switzerland"
 e346,"Zurich, Switzerland"
 e347,"Zurich, Switzerland"
 e348,"Zurich, Switzerland"
-e348,"Limmat River, Zurich, Switzerland"
 e349,"Zurich, Switzerland"
+e349,Sihl and Lorze springs
 e350,"Zurich, Switzerland"
-e350,Hardhüsligut
-e351,"Zurich, Switzerland"
-e352,"Zurich, Switzerland"
-e353,"Zurich, Switzerland"
-e354,"Zurich, Switzerland"
-e355,"Zurich, Switzerland"
-e356,"Zurich, Switzerland"
+e351,"Sihl Valley, Lorze Valley, Sihlsprung, Menzingen, Zurich, Switzerland"
+e351,"Uetliberg, Zurich, Switzerland"
+e352,Nagelfluh plate
+e353,Sihl springs
+e354,Lorze springs
+e354,"Sihlbrugg, Switzerland"
+e355,"Sihl Valley, Switzerland"
+e355,"Albisgütli, Zurich, Switzerland"
+e356,"Albisgütli, Zurich, Switzerland"
 e357,"Zurich, Switzerland"
 e358,"Zurich, Switzerland"
-e364,"Bahnhofstrasse, Zurich, Switzerland"
-e364,"Petersstrasse, Zurich, Switzerland"
-e364,"Münzplatz, Zurich, Switzerland"
-e364,"Uraniastrasse, Zurich, Switzerland"
-e364,"Sihlhofstrasse, Zurich, Switzerland"
-e364,"Usteristrasse, Zurich, Switzerland"
-e364,"Schweizergasse, Zurich, Switzerland"
-e364,"Lintheschergasse, Zurich, Switzerland"
-e364,"Schützengasse, Zurich, Switzerland"
-e364,"Rathausquai, Zurich, Switzerland"
-e364,"Rathausbrücke, Zurich, Switzerland"
-e364,"Hirschengraben, Zurich, Switzerland"
-e364,"Stauffacherstrasse, Zurich, Switzerland"
-e365,"Bahnhofstrasse, Zurich, Switzerland"
-e366,"Bahnhofstrasse, Zurich, Switzerland"
-e367,"Bahnhofstrasse, Zurich, Switzerland"
-e368,"Bahnhofstrasse, Zurich, Switzerland"
-e369,"Uraniastrasse, Zurich, Switzerland"
-e369,"Hirschengraben, Zurich, Switzerland"
+e358,the Sihl valley springs
+e359,"Zurich, Switzerland"
+e359,the Lorze valley
+e360,"Zurich, Switzerland"
+e360,lake water
+e361,"Zurich, Switzerland"
+e362,"Zurich, Switzerland"
+e363,"Zurich, Switzerland"
+e364,"Zurich, Switzerland"
+e364,"Letten, Zurich, Switzerland"
+e364,"Limmat River, Zurich, Switzerland"
+e367,"Zurich, Switzerland"
+e368,"Zurich, Switzerland"
+e369,"Zurich, Switzerland"
+e370,"Zurich, Switzerland"
+e371,"Zurich, Switzerland"
+e372,"Zurich, Switzerland"
+e373,"Zurich, Switzerland"
 e374,"Zurich, Switzerland"
-e374,"Bülach, Switzerland"
-e374,"Dielsdorf, Switzerland"
-e374,"Horgen, Switzerland"
-e374,"Uster, Switzerland"
-e374,cantons of Aargau and Zug
-e374,"Alsace, France"
-e374,"Rafzerfeld, Switzerland"
-e374,"Schaffhausen, Switzerland"
-e375,"Hirschengraben, Zurich, Switzerland"
+e375,"Zurich, Switzerland"
+e376,"Zurich, Switzerland"
 e377,"Zurich, Switzerland"
 e378,"Zurich, Switzerland"
 e379,"Zurich, Switzerland"
-e380,"Niederdorf, Zurich, Switzerland"
-e381,Zeughausstrasse 10
-e382,Seebahnstrasse 11
-e383,Konradstrasse 11
-e384,Zwinglistrasse 10
-e385,"Langstrasse, Zurich, Switzerland"
+e380,"Zurich, Switzerland"
+e381,"Zurich, Switzerland"
+e382,"Zurich, Switzerland"
+e383,"Zurich, Switzerland"
+e384,"Zurich, Switzerland"
+e385,"Zurich, Switzerland"
+e386,"Zurich, Switzerland"
+e387,"Zurich, Switzerland"
+e388,"Zurich, Switzerland"
+e389,"Zurich, Switzerland"
 e390,"Zurich, Switzerland"
 e391,"Zurich, Switzerland"
 e392,"Zurich, Switzerland"
-e393,Nidelbad
-e393,Waid
-e394,"Zurich, Switzerland"
-e395,Rennweg
-e396,"Zurich, Switzerland"
-e396,the city district
-e397,"Limmat River, Zurich, Switzerland"
-e397,"Schipfe, Zurich, Switzerland"
-e397,"Schanzengraben, Zurich, Switzerland"
-e398,"Limmat River, Zurich, Switzerland"
-e399,"Limmat River, Zurich, Switzerland"
-e399,"Mühlesteg, Zurich, Switzerland"
-e400,Polytechnic
-e400,Schmelzberg above the observatory
-e400,Limmat bed below the Bauschanze
-e400,pumping station
-e403,"Platzspitz, Zurich, Switzerland"
-e404,"Letten, Zurich, Switzerland"
-e405,"Limmat River, Zurich, Switzerland"
-e405,Drahtschmidli
-e407,Langensteinen (Oberstrass)
-e408,"Zurichberg, Zurich, Switzerland"
+e393,"Zurich, Switzerland"
+e394,"Canton of Zurich, Switzerland"
+e395,"Canton of Zurich, Switzerland"
+e396,"Canton of Zurich, Switzerland"
+e397,"Canton of Zurich, Switzerland"
+e398,"Canton of Zurich, Switzerland"
+e399,"Canton of Zurich, Switzerland"
+e400,"Zurich, Switzerland"
+e401,"Zurich, Switzerland"
+e402,"Zurich, Switzerland"
+e403,cemetery on the High Promenade
+e404,District II
+e404,"Enge, Zurich, Switzerland"
+e404,"Manegg, Zurich, Switzerland"
+e404,"Leimbach, Zurich, Switzerland"
+e404,"Wollishofen, Zurich, Switzerland"
+e405,the former Neumünster cemetery
+e406,the central cemetery crematorium
+e407,"Zurich, Switzerland"
+e408,"Zurich, Switzerland"
+e408,"Wiedikon, Zurich, Switzerland"
+e408,"Enge, Zurich, Switzerland"
+e408,"Wollishofen, Zurich, Switzerland"
+e408,left bank lake railway
 e409,"Zurich, Switzerland"
-e410,"Limmat River, Switzerland"
-e411,"Zurich, Switzerland"
-e412,Schanzengraben-Sihl
-e412,Sihlquai
-e412,Letten pumping station
-e420,larger cities with favorable sanitary conditions
-e421,larger cities with favorable sanitary conditions
+e409,"Letten, Zurich, Switzerland"
+e409,"Stadelhofen, Zurich, Switzerland"
+e409,"Tiefenbrunnen, Zurich, Switzerland"
+e410,"Selnau station, Zurich, Switzerland"
+e410,"Uetliberg, Zurich, Switzerland"
+e410,"Sihl Valley, Zurich, Switzerland"
+e411,"Uetliberg, Zurich, Switzerland"
+e411,"Binz, Zurich, Switzerland"
+e411,"Waldegg, Zurich, Switzerland"
+e412,"Sihl Valley, Zurich, Switzerland"
+e412,"Giesshübel, Zurich, Switzerland"
+e412,"Brunau, Zurich, Switzerland"
+e412,"Manegg, Zurich, Switzerland"
+e412,"Sood, Zurich, Switzerland"
+e412,"Adliswil, Zurich, Switzerland"
+e412,"Sihlbrugg, Switzerland"
+e412,federal railway line Thalwil-Zug
+e413,"Zurich, Switzerland"
+e413,"Baden, Switzerland"
+e414,"Zurich, Switzerland"
+e414,"Winterthur, Switzerland"
+e415,"Zurich, Switzerland"
+e415,"Uster, Switzerland"
+e416,"Zurich, Switzerland"
+e416,"Zug, Switzerland"
+e417,"Lake Zurich, Switzerland"
+e418,"Lake Zurich, Switzerland"
+e419,"Lake Zurich, Switzerland"
+e420,"Maur, Zurich, Switzerland"
+e420,"Zumikon, Zurich, Switzerland"
+e420,"Zurich, Switzerland"
+e421,"Zurich, Switzerland"
 e422,"Zurich, Switzerland"
-e424,"Zurich, Switzerland"
-e425,"Zurich, Switzerland"
-e425,Sihl and Lorze springs
-e426,"Zurich, Switzerland"
-e427,"Sihl Valley, Lorze Valley, Sihlsprung, Menzingen, Zurich, Switzerland"
-e427,"Uetliberg, Zurich, Switzerland"
-e428,Nagelfluh plate
-e429,Sihl springs
-e430,Lorze springs
-e430,"Sihlbrugg, Switzerland"
-e431,"Sihl Valley, Switzerland"
-e431,"Albisgütli, Zurich, Switzerland"
-e432,"Albisgütli, Zurich, Switzerland"
-e432,Lake Zurich
-e433,"Zurich, Switzerland"
-e434,the Sihl-Lorze springs
-e435,the Sihl-Lorze springs
-e435,lake water
-e436,"Zurich, Switzerland"
-e436,the Sihl valley springs
-e436,the Lorze valley
+e423,"Zurich, Switzerland"
+e425,"Burgwies, Zurich, Switzerland"
+e426,"Letten, Zurich, Switzerland"
+e427,"Zurichberg, Zurich, Switzerland"
+e428,"Giesshübel, Zurich, Switzerland"
+e428,"Albisgütli, Zurich, Switzerland"
+e428,"Limmat Valley, Zurich, Switzerland"
+e428,"Marienstrasse, Zurich, Switzerland"
+e428,Altstetten-Schlieren-Dietikon
+e428,"Mutschellen, Switzerland"
+e428,"Bremgarten, Aargau, Switzerland"
+e428,"Unterengstringen, Zurich, Switzerland"
+e428,"Kloster Fahr, Zurich, Switzerland"
+e428,"Weiningen, Zurich, Switzerland"
+e428,"Zurich main station, Zurich, Switzerland"
+e428,"Wipkingen, Zurich, Switzerland"
+e428,"Hoengg, Zurich, Switzerland"
+e428,"Leonhardsplatz, Zurich, Switzerland"
+e428,Oerlikon-Seebach-Glattbrugg
+e428,"Schwamendingen, Zurich, Switzerland"
+e429,"Zurichberg, Zurich, Switzerland"
+e429,"Rigiplatz, Zurich, Switzerland"
+e429,"Rigiviertel, Zurich, Switzerland"
+e429,"Leonhardsplatz, Zurich, Switzerland"
+e429,"ETH Zurich, Zurich, Switzerland"
+e429,"Römerhof, Zurich, Switzerland"
+e429,"Waldhaus Dolder, Zurich, Switzerland"
+e429,"Dolder Grand Hotel, Zurich, Switzerland"
+e430,"Zurich, Switzerland"
+e431,municipal streetcar network
+e432,municipal streetcar network
+e433,municipal streetcar network
+e435,Lake Zurich
+e436,Upper Lake Zurich
 e437,"Zurich, Switzerland"
 e438,"Zurich, Switzerland"
-e439,"Zurich, Switzerland"
-e440,"Zurich, Switzerland"
-e441,"Zurich, Switzerland"
-e442,"Zurich, Switzerland"
-e443,"Zurich, Switzerland"
-e446,the entire city
-e446,"Letten, Zurich, Switzerland"
-e446,"Limmat River, Switzerland"
+e439,"Zurichberg, Zurich, Switzerland"
+e440,"Hottingen, Zurich, Switzerland"
+e440,"Limmat River, Switzerland"
+e440,upper Mühlesteg
+e443,"District 4, Zurich, Switzerland"
+e444,"Zurich, Switzerland"
+e445,"Zurich, Switzerland"
+e446,"Zurich, Switzerland"
+e447,"Zurich, Switzerland"
+e447,"Adliswil, Switzerland"
+e447,"Oerlikon, Zurich, Switzerland"
+e447,"Zollikon, Switzerland"
+e447,"Kilchberg, Switzerland"
+e447,"Schlieren, Switzerland"
+e447,Albisrieden-Altstetten
+e448,"Zurich, Switzerland"
+e448,"Adliswil, Switzerland"
+e448,"Oerlikon, Zurich, Switzerland"
+e448,"Zollikon, Switzerland"
+e448,"Kilchberg, Switzerland"
+e448,"Schlieren, Switzerland"
+e448,Albisrieden-Altstetten
 e449,"Zurich, Switzerland"
 e450,"Zurich, Switzerland"
 e451,"Zurich, Switzerland"
 e452,"Zurich, Switzerland"
+e453,"Zurich, Switzerland"
+e455,"Zurich, Switzerland"
+e456,"Zurich, Switzerland"
 e457,"Zurich, Switzerland"
 e458,"Zurich, Switzerland"
 e459,"Zurich, Switzerland"
@@ -712,177 +734,124 @@ e462,"Zurich, Switzerland"
 e463,"Zurich, Switzerland"
 e464,"Zurich, Switzerland"
 e465,"Zurich, Switzerland"
-e466,"Zurich, Switzerland"
-e467,"Zurich, Switzerland"
-e468,"Zurich, Switzerland"
-e469,"Zurich, Switzerland"
+e467,"Helmhaus, Zurich, Switzerland"
+e468,"Helmhaus, Zurich, Switzerland"
+e469,Museum opposite the meat hall
 e470,"Zurich, Switzerland"
 e471,"Zurich, Switzerland"
 e472,"Zurich, Switzerland"
-e473,"Zurich, Switzerland"
-e474,"Zurich, Switzerland"
-e475,"Zurich, Switzerland"
-e476,"Canton of Zurich, Switzerland"
-e477,"Canton of Zurich, Switzerland"
-e478,"Canton of Zurich, Switzerland"
-e479,"Zurich, Switzerland"
-e480,"Zurich, Switzerland"
-e481,District I
-e481,cemetery on the High Promenade
-e482,"Enge, Zurich, Switzerland"
-e482,"Manegg, Zurich, Switzerland"
-e482,"Leimbach, Zurich, Switzerland"
-e482,"Wollishofen, Zurich, Switzerland"
-e483,District III
-e483,Cemetery Sihlfeld
-e483,"Aussersihl, Zurich, Switzerland"
-e483,"Wiedikon, Zurich, Switzerland"
-e484,District IV
-e484,Cemeteries Nordheim
-e484,"Unterstrass, Zurich, Switzerland"
-e484,old cemetery Oberstrass
-e484,cemetery Wipkingen
-e485,District V
-e485,"Realp, Switzerland"
-e485,Enzenbühl
-e485,Neumünster
-e485,Allmend Muntern
-e486,the former Neumünster cemetery
-e487,the central cemetery crematorium
+e473,"ETH Zurich, Switzerland"
+e474,agricultural and forestry school
+e475,"Museum of Applied Arts, Zurich, Switzerland"
+e476,"Swiss National Museum, Zurich, Switzerland"
+e477,"Schipfe, Zurich, Switzerland"
+e478,"Zurichhorn, Zurich, Switzerland"
+e479,"Mythenquai, Zurich, Switzerland"
+e481,"Heimplatz, Zurich, Switzerland"
+e482,Künstlergütli
+e482,"ETH Zurich, Zurich, Switzerland"
+e483,"Zurich, Switzerland"
+e484,Künstlerhaus
+e484,"Zurich Stock Exchange, Zurich, Switzerland"
+e485,"Zurich, Switzerland"
+e485,"Heimplatz, Zurich, Switzerland"
+e486,"Zurich, Switzerland"
+e486,City Theatre
+e486,Pfauen Theater
+e487,"Zurich, Switzerland"
 e488,"Zurich, Switzerland"
 e489,"Zurich, Switzerland"
+e489,Tonhalle
 e490,"Zurich, Switzerland"
-e491,"Zurich, Switzerland"
-e492,"Zurich, Switzerland"
-e493,"Zurich, Switzerland"
+e491,City Theatre
+e491,"Tonhalle, Zurich, Switzerland"
+e492,Central Theater on Weinbergstrasse
+e492,Corso Theater at the old Tonhalle square
+e492,intimate theater in the Urania
+e493,"Bonaduz, Switzerland"
 e494,"Zurich, Switzerland"
-e495,"Zurich, Switzerland"
-e496,"Zurich, Switzerland"
-e497,"Zurich, Switzerland"
-e498,"Zurich, Switzerland"
-e499,"Zurich, Switzerland"
-e500,"Zurich, Switzerland"
+e495,"Messina, Italy"
+e496,"Zurich Tonhalle, Zurich, Switzerland"
+e497,"Zurich Tonhalle, Zurich, Switzerland"
+e498,"Zurich Tonhalle, Zurich, Switzerland"
+e499,"Zurich Tonhalle, Zurich, Switzerland"
+e500,"Zurich Tonhalle, Zurich, Switzerland"
 e501,"Zurich, Switzerland"
 e502,"Zurich, Switzerland"
+e502,Grossmünster
+e502,Fraumünster
+e502,St. Peter
+e502,Predigern
+e502,"Aussersihl, Zurich, Switzerland"
+e502,"Enge, Zurich, Switzerland"
+e502,"Fluntern, Zurich, Switzerland"
+e502,Neumünster
+e502,"Oberstrass, Zurich, Switzerland"
+e502,"Unterstrass, Zurich, Switzerland"
+e502,"Wiedikon, Zurich, Switzerland"
+e502,"Wipkingen, Zurich, Switzerland"
+e502,"Wollishofen, Zurich, Switzerland"
 e503,"Zurich, Switzerland"
 e504,"Zurich, Switzerland"
+e504,St. Peter
+e504,"Unterstrass, Zurich, Switzerland"
 e505,"Zurich, Switzerland"
+e505,other Zurich municipalities
 e506,"Zurich, Switzerland"
-e506,"Zurich-Wiedikon, Zurich, Switzerland"
-e506,"Zurich-Enge, Zurich, Switzerland"
-e506,"Zurich-Wollishofen, Zurich, Switzerland"
-e506,left bank lake railway
 e507,"Zurich, Switzerland"
-e507,"Zurich-Letten, Zurich, Switzerland"
-e507,"Zurich-Stadelhofen, Zurich, Switzerland"
-e507,"Zurich-Tiefenbrunnen, Zurich, Switzerland"
-e508,"Zurich-Selnau, Zurich, Switzerland"
-e508,"Uetliberg, Zurich, Switzerland"
-e508,Sihl valley railways
-e509,"Uetliberg, Zurich, Switzerland"
-e509,"Zurich-Binz, Zurich, Switzerland"
-e509,"Zurich-Waldegg, Zurich, Switzerland"
-e510,Sihl valley railways
-e510,"Zurich-Giesshübel, Zurich, Switzerland"
-e510,"Zurich-Brunau, Zurich, Switzerland"
-e510,"Zurich-Manegg, Zurich, Switzerland"
-e510,"Zurich-Sood, Zurich, Switzerland"
-e510,"Adliswil, Zurich, Switzerland"
-e510,"Sihl Valley, Zurich, Switzerland"
-e510,"Sihlbrugg, Switzerland"
-e510,federal railway line Thalwil-Zug
+e508,"Zurich, Switzerland"
+e509,"Zurich, Switzerland"
+e510,"Zurich, Switzerland"
 e511,"Zurich, Switzerland"
-e511,"Baden, Switzerland"
 e512,"Zurich, Switzerland"
-e512,"Winterthur, Switzerland"
 e513,"Zurich, Switzerland"
-e513,"Uster, Switzerland"
-e514,"Zurich, Switzerland"
-e514,"Zug, Switzerland"
-e515,"Lake Zurich, Switzerland"
-e516,"Lake Zurich, Switzerland"
-e517,"Maur, Zurich, Switzerland"
-e517,"Zumikon, Zurich, Switzerland"
-e518,"Zurich, Switzerland"
-e519,"Zurich, Switzerland"
-e520,"Zurich, Switzerland"
-e521,"Zurich, Switzerland"
-e522,"Zurich, Switzerland"
-e522,"Burgwies, Zurich, Switzerland"
-e523,"Zurich, Switzerland"
-e523,"Letten, Zurich, Switzerland"
-e524,"Zurichberg, Zurich, Switzerland"
-e525,"Giesshübel, Zurich, Switzerland"
-e525,"Albisgütli, Zurich, Switzerland"
-e525,"Limmat Valley, Switzerland"
-e525,Marienstrasse
-e525,"Altstetten, Zurich, Switzerland"
-e525,"Schlieren, Switzerland"
-e525,"Dietikon, Switzerland"
-e525,"Mutschellen, Switzerland"
-e525,"Bremgarten, Switzerland"
-e525,"Unterengstringen, Switzerland"
-e525,"Kloster Fahr, Zurich, Switzerland"
-e525,"Weiningen, Switzerland"
-e525,main station
-e525,"Wipkingen, Zurich, Switzerland"
-e525,"Höngg, Zurich, Switzerland"
-e525,Leonhardsplatz
-e525,"Oerlikon, Zurich, Switzerland"
-e525,"Seebach, Zurich, Switzerland"
-e525,"Glattbrugg, Switzerland"
-e525,"Schwamendingen, Zurich, Switzerland"
-e526,"Zurichberg, Zurich, Switzerland"
-e526,"Rigiplatz, Zurich, Switzerland"
-e526,"Rigiviertel, Zurich, Switzerland"
-e526,Leonhardsplatz
-e526,"ETH Zurich, Zurich, Switzerland"
-e526,"Römerhof, Zurich, Switzerland"
-e526,"Waldhaus Dolder, Zurich, Switzerland"
-e526,"Grand Hotel Dolder, Zurich, Switzerland"
+e514,five city districts
+e526,"Zurich, Switzerland"
 e527,"Zurich, Switzerland"
-e528,municipal streetcar network
-e529,municipal streetcar network
-e530,municipal streetcar network
-e532,Lake Zurich
-e533,Upper Lake Zurich
+e528,"Zurich, Switzerland"
+e529,"Zurich, Switzerland"
+e530,"Zurich, Switzerland"
+e531,"Zurich, Switzerland"
+e532,"Zurich, Switzerland"
+e533,"Zurich, Switzerland"
 e534,"Zurich, Switzerland"
 e535,"Zurich, Switzerland"
-e536,"Zurichberg, Zurich, Switzerland"
-e537,"Hottingen, Zurich, Switzerland"
-e537,"Limmat River, Switzerland"
-e537,upper Mühlesteg
+e536,"Zurich, Switzerland"
+e537,"Zurich, Switzerland"
 e538,"Zurich, Switzerland"
 e539,"Zurich, Switzerland"
-e540,"District 4, Zurich, Switzerland"
+e540,"Zurich, Switzerland"
+e540,lake and river bathing establishments
+e541,"Zurich, Switzerland"
 e541,"Zurich, Switzerland"
 e542,"Zurich, Switzerland"
 e543,"Zurich, Switzerland"
-e543,"Uetliberg, Zurich, Switzerland"
-e544,"Schlieren, Zurich, Switzerland"
-e545,"Schlieren, Zurich, Switzerland"
+e544,"Zurich, Switzerland"
+e545,"Zurich, Switzerland"
+e546,municipal emergency hospital
 e547,"Zurich, Switzerland"
-e547,"Adliswil, Switzerland"
-e547,"Oerlikon, Zurich, Switzerland"
-e547,"Zollikon, Switzerland"
-e547,"Kilchberg, Switzerland"
-e547,"Schlieren, Switzerland"
-e547,Albisrieden-Altstetten
-e549,"Zurich, Switzerland"
-e549,"Adliswil, Switzerland"
-e549,"Oerlikon, Zurich, Switzerland"
-e549,"Zollikon, Switzerland"
-e549,"Kilchberg, Switzerland"
-e549,"Schlieren, Switzerland"
-e549,Albisrieden-Altstetten
+e548,"Zurich, Switzerland"
+e549,"Zurich Children's Hospital, Zurich, Switzerland"
+e549,Red Cross Sisters’ House
+e549,Nursing Asylum and Diaconesses’ Institute Neumünster
+e549,Theodosianum
+e549,Swiss institute for epileptics
+e549,Swiss nurses' school with women's hospital
+e550,"Zurich, Switzerland"
 e551,"Zurich, Switzerland"
+e552,"Enge, Zurich, Switzerland"
+e552,"Wiedikon, Zurich, Switzerland"
+e552,Neumünster
+e552,"Unterstrass, Zurich, Switzerland"
+e552,"Wipkingen, Zurich, Switzerland"
 e552,"Zurich, Switzerland"
 e553,"Zurich, Switzerland"
+e554,Neumünster
+e555,"Zurich, Switzerland"
+e556,"Zurich, Switzerland"
 e557,"Zurich, Switzerland"
 e558,"Zurich, Switzerland"
-e559,"Zurich, Switzerland"
-e560,"Zurich, Switzerland"
-e561,"Zurich, Switzerland"
+e559,various parts of the city
 e562,"Zurich, Switzerland"
 e563,"Zurich, Switzerland"
 e564,"Zurich, Switzerland"
@@ -891,121 +860,194 @@ e566,"Zurich, Switzerland"
 e567,"Zurich, Switzerland"
 e568,"Zurich, Switzerland"
 e569,"Zurich, Switzerland"
-e572,Zurich City Library
-e572,Zurich Natural Science Society
-e573,Zurich Cantonal and University Library
-e574,Zurich City Library
-e575,ETH Zurich
-e576,Zurich Natural Science Society
-e577,"museum society (latter in the ""Museum"" opposite the meat hall)"
-e579,"Seilergraben, Zurich"
-e580,"Zurich, Switzerland"
-e584,"Zurich, Switzerland"
-e586,"Niederweningen, Switzerland"
-e589,Seilergraben
-e590,Wollenhof at Schipfe
-e591,"Zurichhorn, Zurich, Switzerland"
-e592,"Mythenquai, Zurich, Switzerland"
-e594,"Heimplatz, Zurich, Switzerland"
-e595,Künstlergütli opposite the south front of the Polytechnic
+e570,"Zurich, Switzerland"
+e571,"Zurich, Switzerland"
+e572,"Zurich, Switzerland"
+e573,"Zurich, Switzerland"
+e574,"Zurich, Switzerland"
+e575,"Zurich, Switzerland"
+e576,"Zurich, Switzerland"
+e577,"Zurich, Switzerland"
+e578,large and small Hafner
+e578,Bauschanze
+e578,Haumesser
+e579,large and small Hafner
+e579,Bauschanze
+e579,Haumesser
+e580,"Wollishofen, Zurich, Switzerland"
+e581,"Uetliberg, Zurich, Switzerland"
+e582,large and small Hafner
+e582,Bauschanze
+e582,Haumesser
+e583,"Lindenhof, Zurich, Switzerland"
+e584,"Uetliberg, Zurich, Switzerland"
+e585,Burghölzli
+e586,Enge's Entibühl
+e586,Rebhügel
+e586,"Wiedikon, Zurich, Switzerland"
+e586,"Bäckerstrasse, Zurich, Switzerland"
+e586,"Uetliberg, Zurich, Switzerland"
+e587,"Altstetten, Zurich, Switzerland"
+e588,"Zurich, Switzerland"
+e589,"Zurich, Switzerland"
+e590,"Zurich, Switzerland"
+e591,"Lindenhof, Zurich, Switzerland"
+e591,"Uetliberg, Zurich, Switzerland"
+e592,"Lindenhof, Zurich, Switzerland"
+e593,"Lindenhof, Zurich, Switzerland"
+e594,"Lindenhof, Zurich, Switzerland"
+e595,"Zurich, Switzerland"
 e596,"Zurich, Switzerland"
-e597,"“Künstlerhaus,” a provisional barrack near the stock exchange"
-e598,"Zurich, Switzerland"
-e598,"Heimplatz, Zurich, Switzerland"
-e599,City Theatre
-e599,Pfauen Theater
-e600,"Zurich, Switzerland"
+e596,"Lindenhof, Zurich, Switzerland"
+e597,"Peterskirche, Zurich, Switzerland"
+e598,"Wasserkirche, Zurich, Switzerland"
+e599,"Oetenbach, Zurich, Switzerland"
+e600,"Rennweg, Zurich, Switzerland"
 e601,"Zurich, Switzerland"
-e602,Tonhalle
-e603,"Zurich, Switzerland"
-e604,City Theatre
-e604,"Tonhalle, Zurich, Switzerland"
-e605,Central Theater on Weinbergstrasse
-e605,Corso Theater at the old Tonhalle square
-e605,intimate theater in the Urania
-e606,"Bonaduz, Switzerland"
+e602,"Enge, Zurich, Switzerland"
+e603,"Albisrieden, Zurich, Switzerland"
+e604,"Wipkingen, Zurich, Switzerland"
+e605,"Lindenhof, Zurich, Switzerland"
+e605,"Zentralhof, Zurich, Switzerland"
+e605,"Münsterhof, Zurich, Switzerland"
+e605,"Tiefenhöfe, Zurich, Switzerland"
+e605,"Sihlfeld, Zurich, Switzerland"
+e606,"Baden, Switzerland"
+e606,"Zurich, Switzerland"
+e606,Rennweg
+e606,castrum
+e606,Strehlgasse
+e606,"Limmat River, Switzerland"
+e606,meat hall
+e606,alte Landstrasse
+e606,"Zollikon, Switzerland"
+e607,"Baden, Switzerland"
 e607,"Zurich, Switzerland"
-e608,"Messina, Italy"
-e609,"Zurich Tonhalle, Zurich, Switzerland"
-e610,"Zurich Tonhalle, Zurich, Switzerland"
-e611,"Zurich Tonhalle, Zurich, Switzerland"
-e612,"Zurich Tonhalle, Zurich, Switzerland"
-e613,"Zurich Tonhalle, Zurich, Switzerland"
-e614,"Zurich, Switzerland"
-e615,"Zurich, Switzerland"
-e616,"Zurich, Switzerland"
-e617,"Zurich, Switzerland"
-e618,"Zurich, Switzerland"
-e618,other Zurich municipalities
-e619,"Zurich, Switzerland"
-e620,"Zurich, Switzerland"
-e621,"Zurich, Switzerland"
-e622,"Zurich, Switzerland"
-e623,"Zurich, Switzerland"
-e624,"Zurich, Switzerland"
-e625,"Zurich, Switzerland"
+e607,Rennweg
+e607,castrum
+e607,Strehlgasse
+e607,"Limmat River, Switzerland"
+e607,meat hall
+e607,alte Landstrasse
+e607,"Zollikon, Switzerland"
+e608,"Zurich, Switzerland"
+e609,"Lindenhof, Zurich, Switzerland"
+e610,"Lindenhof, Zurich, Switzerland"
+e611,"Wipkingen, Zurich, Switzerland"
+e611,"Wiedikon, Zurich, Switzerland"
+e611,"Stadelhofen, Zurich, Switzerland"
+e611,"Riesbach, Zurich, Switzerland"
+e611,"Hirslanden, Zurich, Switzerland"
+e611,"Hottingen, Zurich, Switzerland"
+e611,"Fluntern, Zurich, Switzerland"
+e612,Zurich Lindenhof
+e612,Gross- and Fraumünster
+e613,"Burghölzli, Zurich"
+e614,Entibühl above Balgrist
+e615,"Wiedikon, Zurich"
+e615,"Bäckerstrasse, Zurich"
+e616,"Swiss National Museum, Zurich"
+e624,"Zurichberg, Zurich, Switzerland"
+e625,"Lake Zurich, Switzerland"
+e625,"Uetliberg, Zurich, Switzerland"
 e626,"Zurich, Switzerland"
-e627,the five city districts
-e639,the city council
-e639,the large city council
-e639,the community
-e640,the city council
-e640,the large city council
-e640,the central school board
-e640,the small city council
-e641,the individual city districts
-e642,"Zurich, Switzerland"
-e643,"Zurich, Switzerland"
-e644,"Zurich, Switzerland"
-e645,"Zurich, Switzerland"
-e646,"Zurich, Switzerland"
-e647,"Zurich, Switzerland"
+e627,"Lake Zurich, Switzerland"
+e628,"Lake Zurich, Switzerland"
+e628,Lake Constance
+e628,Hirzli
+e628,Schänniserberg
+e628,Speer
+e629,"Lake Zurich, Switzerland"
+e629,Hirzli
+e629,Schänniserberg
+e629,Speer
+e630,"Lake Zurich, Switzerland"
+e631,"Lake Zurich, Switzerland"
+e632,"Lake Zurich, Switzerland"
+e632,Stäfner stone
+e633,"Lake Zurich, Switzerland"
+e634,"Lake Zurich, Switzerland"
+e635,"Lake Zurich, Switzerland"
+e636,"Lake Zurich, Switzerland"
+e637,"Lake Zurich, Switzerland"
+e638,"Zurich, Switzerland"
+e639,"Lake Zurich, Switzerland"
+e640,"Lake Zurich, Switzerland"
+e641,"Lake Zurich, Switzerland"
+e642,"Lake Zurich, Switzerland"
+e642,"Upper Lake Zurich, Switzerland"
+e643,"Lake Zurich, Switzerland"
 e648,"Zurich, Switzerland"
 e649,"Zurich, Switzerland"
+e649,"Enge, Zurich, Switzerland"
+e649,"Wiedikon, Zurich, Switzerland"
+e649,"Aussersihl, Zurich, Switzerland"
+e649,"Unterstrass, Zurich, Switzerland"
+e649,"Oberstrass, Zurich, Switzerland"
+e649,"Fluntern, Zurich, Switzerland"
+e649,"Hottingen, Zurich, Switzerland"
+e649,"Hirslanden, Zurich, Switzerland"
+e649,"Riesbach, Zurich, Switzerland"
 e650,"Zurich, Switzerland"
-e651,"Zurich, Switzerland"
-e652,"Zurich, Switzerland"
-e653,"Zurich, Switzerland"
-e654,"Zurich, Switzerland"
-e655,"Zurich, Switzerland"
+e650,"Wollishofen, Zurich, Switzerland"
+e650,"Wipkingen, Zurich, Switzerland"
+e654,entire city
+e655,entire city
 e656,"Zurich, Switzerland"
-e657,"Zurich, Switzerland"
-e658,"Zurich, Switzerland"
-e659,"Zurich, Switzerland"
-e660,"Zurich, Switzerland"
-e661,"Zurich, Switzerland"
-e662,the municipality
-e663,"Zurich, Switzerland"
-e664,the municipality
-e664,"Zurich, Switzerland"
-e665,the municipality
-e666,the municipality
-e667,the municipality
+e657,the entire city
+e666,"Zurich, Switzerland"
+e667,"Zurich, Switzerland"
 e668,"Zurich, Switzerland"
-e669,municipal emergency hospital
-e670,"Zurich, Switzerland"
+e669,"Zurich, Switzerland"
+e670,"Wiedikon, Zurich, Switzerland"
 e671,"Zurich, Switzerland"
-e671,"Zurich Children's Hospital, Zurich, Switzerland"
-e671,Red Cross Sisters’ House
-e671,Nursing Asylum and Diaconesses’ Institute Neumünster
-e671,Theodosianum
-e671,Swiss institute for epileptics
-e671,Swiss nurses' school with women's hospital
 e672,"Zurich, Switzerland"
 e673,"Zurich, Switzerland"
-e674,"Enge, Zurich, Switzerland"
-e674,"Wiedikon, Zurich, Switzerland"
-e674,Neumünster
-e674,"Unterstrass, Zurich, Switzerland"
-e674,"Wipkingen, Zurich, Switzerland"
 e674,"Zurich, Switzerland"
 e675,"Zurich, Switzerland"
-e676,Neumünster
+e676,"Zurich, Switzerland"
 e677,"Zurich, Switzerland"
-e678,"Zurich, Switzerland"
+e678,"Lake Zurich, Switzerland"
+e678,east of the Stäfner stone
 e679,"Zurich, Switzerland"
 e680,"Zurich, Switzerland"
+e680,"Canton of Zurich, Switzerland"
 e681,"Zurich, Switzerland"
+e681,"Lake Zurich, Switzerland"
+e681,"Albis, Switzerland"
+e681,"Adlisberg, Zurich, Switzerland"
+e681,"Zurichberg, Zurich, Switzerland"
+e682,"Zurich, Switzerland"
+e683,"Lindenhof, Zurich, Switzerland"
+e683,"Fraumünster-Münsterhof, Zurich, Switzerland"
+e683,"Niederdorf, Zurich, Switzerland"
+e683,"Grossmünster, Zurich, Switzerland"
+e683,"Limmat River, Switzerland"
+e684,"Lindenhof, Zurich, Switzerland"
+e684,"Fraumünster-Münsterhof, Zurich, Switzerland"
+e684,"Niederdorf, Zurich, Switzerland"
+e684,"Grossmünster, Zurich, Switzerland"
+e684,"Stadelhof, Zurich, Switzerland"
+e686,"Aussersihl, Zurich, Switzerland"
+e686,"Enge, Zurich, Switzerland"
+e686,"Fluntern, Zurich, Switzerland"
+e686,"Hirslanden, Zurich, Switzerland"
+e686,"Hottingen, Zurich, Switzerland"
+e686,"Leimbach, Zurich, Switzerland"
+e686,"Oberstrass, Zurich, Switzerland"
+e686,"Riesbach, Zurich, Switzerland"
+e686,"Unterstrass, Zurich, Switzerland"
+e686,"Wiedikon, Zurich, Switzerland"
+e686,"Wipkingen, Zurich, Switzerland"
+e686,"Wollishofen, Zurich, Switzerland"
+e687,"Affoltern, Zurich, Switzerland"
+e687,"Albisrieden, Zurich, Switzerland"
+e687,"Altstetten, Zurich, Switzerland"
+e687,"Höngg, Zurich, Switzerland"
+e687,"Oerlikon, Zurich, Switzerland"
+e687,"Schwamendingen, Zurich, Switzerland"
+e687,"Seebach, Zurich, Switzerland"
+e687,"Witikon, Zurich, Switzerland"
 e688,"Zurich, Switzerland"
 e689,"Zurich, Switzerland"
 e690,"Zurich, Switzerland"
@@ -1016,202 +1058,251 @@ e694,"Zurich, Switzerland"
 e695,"Zurich, Switzerland"
 e696,"Zurich, Switzerland"
 e697,"Zurich, Switzerland"
-e698,"Zurich, Switzerland"
-e699,"Zurich, Switzerland"
-e700,"Zurich, Switzerland"
-e701,"Zurich, Switzerland"
-e701,the large and small Hafner
-e701,the Bauschanze
-e701,the Haumesser
-e702,the large and small Hafner
-e702,the Bauschanze
-e702,the Haumesser
-e703,"Wollishofen, Zurich, Switzerland"
-e704,"Uetliberg, Zurich, Switzerland"
-e705,"Zurich, Switzerland"
-e706,"Lindenhof, Zurich, Switzerland"
-e707,"Uetliberg, Zurich, Switzerland"
-e708,Burghölzli
-e710,Enge's Entibühl
-e710,Rebhügel
-e710,near the new church Wiedikon
-e710,"Zurich, Switzerland"
-e710,"Uetliberg, Zurich, Switzerland"
-e711,"Altstetten, Zurich, Switzerland"
-e713,"Zurich, Switzerland"
-e714,"Zurich, Switzerland"
-e715,"Zurich, Switzerland"
-e716,"Lindenhof, Zurich, Switzerland"
-e716,"Uetliberg, Zurich, Switzerland"
-e717,"Lindenhof, Zurich, Switzerland"
+e698,"Katzensee, Zurich, Switzerland"
+e699,lower lake basin
+e700,"Kleiner Hafner, Zurich, Switzerland"
+e701,"Letten, Zurich, Switzerland"
+e701,"Rathausbrücke, Zurich, Switzerland"
+e701,"Limmat River, Zurich, Switzerland"
+e702,"Uetliberg, Zurich, Switzerland"
+e703,"Höngg, Zurich, Switzerland"
+e703,"Balgrist, Zurich, Switzerland"
+e703,"Burghölzli, Zurich, Switzerland"
+e704,"Zurich, Switzerland"
+e705,"moraine hill with the elevations Lindenhof, St. Petershügel and the today dismantled Sihlbühl"
+e706,"Bahnhofstrasse, Zurich, Switzerland"
+e707,Bäckerstrasse
+e709,"Limmat River, Zurich, Switzerland"
+e711,"Weinplatz, Zurich, Switzerland"
+e712,"Rathausbrücke, Zurich, Switzerland"
+e713,"Grosse Hafner, Zurich, Switzerland"
+e713,"Seefeld, Zurich, Switzerland"
+e714,"Storchengasse, Zurich, Switzerland"
+e715,Oetenbach area
 e718,"Lindenhof, Zurich, Switzerland"
-e719,"Zurich, Switzerland"
-e720,"Zurich, Switzerland"
-e720,"Lindenhof, Zurich, Switzerland"
-e721,"Peterskirche, Zurich, Switzerland"
-e722,"Wasserkirche, Zurich, Switzerland"
-e723,"Oetenbach, Zurich, Switzerland"
-e724,"Rennweg, Zurich, Switzerland"
-e724,former outer municipalities of Zurich
-e725,"Enge, Zurich, Switzerland"
-e726,"Albisrieden, Zurich, Switzerland"
-e727,"Wipkingen, Zurich, Switzerland"
-e728,"Lindenhof, Zurich, Switzerland"
-e728,"Zentralhof, Zurich, Switzerland"
-e728,"Münsterhof, Zurich, Switzerland"
-e728,"Tiefenhöfe, Zurich, Switzerland"
-e728,"Sihlfeld, Zurich, Switzerland"
-e729,"Baden, Switzerland"
-e729,"Zurich, Switzerland"
-e729,Rennweg
-e729,castrum
-e729,Strehlgasse
-e729,"Limmat River, Switzerland"
-e729,meat hall
-e729,alte Landstrasse
-e729,"Zollikon, Switzerland"
-e730,"Baden, Switzerland"
-e730,"Zurich, Switzerland"
-e730,Rennweg
-e730,castrum
-e730,Strehlgasse
-e730,"Limmat River, Switzerland"
-e730,meat hall
-e730,alte Landstrasse
-e730,"Zollikon, Switzerland"
-e731,"Zurich, Switzerland"
-e732,"Lindenhof, Zurich, Switzerland"
-e733,"Wipkingen, Zurich, Switzerland"
-e733,"Wiedikon, Zurich, Switzerland"
-e733,"Stadelhofen, Zurich, Switzerland"
-e733,"Riesbach, Zurich, Switzerland"
-e733,"Hirslanden, Zurich, Switzerland"
-e733,"Hottingen, Zurich, Switzerland"
-e733,"Fluntern, Zurich, Switzerland"
-e734,"Zurich Lindenhof, Zurich, Switzerland"
-e734,"Grossmünster and Fraumünster, Zurich, Switzerland"
-e735,"Burghölzli, Zurich, Switzerland"
-e736,Entibühl above Balgrist
-e737,"Rebhügel, Wiedikon, Zurich, Switzerland"
-e737,"Bäckerstrasse, Zurich, Switzerland"
-e748,Zurichberg
-e748,"Lake Zurich, Zurich, Switzerland"
-e748,"Glatt Valley, Zurich, Switzerland"
-e749,Zurichberg
-e750,Zurichberg
-e751,Zurichberg
-e751,"Zurich, Switzerland"
-e751,"Oerlikon, Zurich, Switzerland"
-e752,Zurichberg
-e752,Zurich-Witikon road
-e753,"Lake Zurich, Switzerland"
-e753,"Uetliberg, Zurich, Switzerland"
-e754,"Zurich, Switzerland"
-e754,"Lake Zurich, Switzerland"
-e754,the Hornbach
-e755,"Zurich, Switzerland"
-e756,"Lake Zurich, Zurich, Switzerland"
-e757,"Lake Zurich, Zurich, Switzerland"
-e757,"Lake Constance, Switzerland/Germany/Austria"
-e757,Hirzli
-e757,Schänniserberg
-e757,Speer
-e758,"Lake Zurich, Zurich, Switzerland"
-e759,"Lake Zurich, Switzerland"
-e759,Stäfner stone
-e760,"Lake Zurich, Zurich, Switzerland"
-e761,"Lake Zurich, Zurich, Switzerland"
-e762,"Lake Zurich, Zurich, Switzerland"
-e763,"Lake Zurich, Zurich, Switzerland"
-e764,"Lake Zurich, Zurich, Switzerland"
-e765,"Lake Zurich, Zurich, Switzerland"
-e765,"Zurich, Switzerland"
-e766,"Lake Zurich, Zurich, Switzerland"
-e767,"Lake Zurich, Zurich, Switzerland"
-e768,"Lake Zurich, Zurich, Switzerland"
-e769,"Lake Zurich, Zurich, Switzerland"
-e770,"Lake Zurich, Zurich, Switzerland"
-e770,"Zurich, Switzerland"
-e771,"Bern, Switzerland"
+e719,"Lindenhof, Zurich, Switzerland"
+e720,Bäckerstrasse cemetery
+e721,Bäckerstrasse cemetery
+e722,St. Petershügel
+e723,St. Petershügel
+e724,"Lindenhof, Zurich, Switzerland"
+e725,"Niederdorf, Zurich, Switzerland"
+e726,"Zurich, Switzerland"
+e727,"Zurich, Switzerland"
+e728,"Zurich, Switzerland"
+e728,Albis forest
+e728,"Uri, Switzerland"
+e728,Stadelhof
+e729,"Fraumünster, Zurich, Switzerland"
+e730,"Fraumünster, Zurich, Switzerland"
+e731,"Lindenhof, Zurich, Switzerland"
+e732,"Zurich, Switzerland"
+e733,"Zurich, Switzerland"
+e734,"Zurich, Switzerland"
+e734,Baltic Sea
+e735,"Zurich, Switzerland"
+e735,palace on Lindenhof
+e736,"Zurich, Switzerland"
+e737,"Zurich, Switzerland"
+e738,"Zurich, Switzerland"
+e739,"Zurich, Switzerland"
+e740,"Zurich, Switzerland"
+e741,"Zurich, Switzerland"
+e742,"Fraumünster, Zurich, Switzerland"
+e742,"Grossmünster, Zurich, Switzerland"
+e742,"Wasserkirche, Zurich, Switzerland"
+e742,"St. Peter Church, Zurich, Switzerland"
+e742,"St. Stephan Church, Zurich, Switzerland"
+e743,"Fraumünster, Zurich, Switzerland"
+e744,"Fraumünster, Zurich, Switzerland"
+e745,"Fraumünster, Zurich, Switzerland"
+e746,"Grossmünster, Zurich, Switzerland"
+e747,"Grossmünster, Zurich, Switzerland"
+e748,"Grossmünster, Zurich, Switzerland"
+e749,"Wasserkirche, Zurich, Switzerland"
+e749,Limmat island
+e750,"St. Peter Church, Zurich, Switzerland"
+e751,"Zurichberg, Zurich, Switzerland"
+e752,castellum or castle site
+e752,vicus
+e752,villa and curtis
+e753,"Fraumünster, Zurich, Switzerland"
+e753,"Limmat River, Zurich, Switzerland"
+e754,"Lindenhof, Zurich, Switzerland"
+e756,"Limmat River, Zurich, Switzerland"
+e757,eastern city district
+e758,Guild House of the Carpenters
+e759,"Zurich, Switzerland"
+e760,"Zurich, Switzerland"
+e761,"Zurich, Switzerland"
+e762,"Lindenhof, Zurich, Switzerland"
+e763,"Fraumünster, Zurich, Switzerland"
+e764,"Fraumünster, Zurich, Switzerland"
+e765,"Fraumünster, Zurich, Switzerland"
+e766,"Fraumünster, Zurich, Switzerland"
+e767,"Fraumünster, Zurich, Switzerland"
+e768,"Fraumünster, Zurich, Switzerland"
+e768,"Zurich, Switzerland"
+e769,"Fraumünster, Zurich, Switzerland"
+e769,"Zurich, Switzerland"
+e769,"Fraumünster Monastery, Zurich, Switzerland"
+e770,"Fraumünster Monastery, Zurich, Switzerland"
+e771,"Zurich, Switzerland"
+e771,"Fraumünster estate, Zurich, Switzerland"
+e772,"Fraumünster estate, Zurich, Switzerland"
+e773,"Zurich, Switzerland"
+e774,"Zurich, Switzerland"
+e775,"Zurich, Switzerland"
+e776,"Zurich, Switzerland"
+e777,"Zurich, Switzerland"
+e778,"Zurich, Switzerland"
+e779,"Zurich, Switzerland"
+e780,"Winterthur, Switzerland"
+e781,"Zurich, Switzerland"
+e782,"Zurich, Switzerland"
+e783,"Zurich, Switzerland"
+e784,"Zurich, Switzerland"
+e785,"Zurich, Switzerland"
+e786,"Rapperswil, Switzerland"
+e786,"Zurich, Switzerland"
+e787,"Zurich, Switzerland"
+e789,"Zurich, Switzerland"
+e790,"Zurich, Switzerland"
+e791,"Zurich, Switzerland"
+e792,"Zurich, Switzerland"
+e793,"Zurich, Switzerland"
+e794,"Zurich, Switzerland"
+e795,"Zurich, Switzerland"
+e796,"Zurich, Switzerland"
 e797,"Zurich, Switzerland"
-e798,"Zurich, Switzerland"
-e798,"Enge, Zurich, Switzerland"
-e798,"Wiedikon, Zurich, Switzerland"
-e798,"Aussersihl, Zurich, Switzerland"
-e798,"Unterstrass, Zurich, Switzerland"
-e798,"Oberstrass, Zurich, Switzerland"
-e798,"Fluntern, Zurich, Switzerland"
-e798,"Hottingen, Zurich, Switzerland"
-e798,"Hirslanden, Zurich, Switzerland"
-e798,"Riesbach, Zurich, Switzerland"
-e799,"Zurich, Switzerland"
-e799,"Wollishofen, Zurich, Switzerland"
-e799,"Wipkingen, Zurich, Switzerland"
+e804,"Zurich, Switzerland"
+e805,"Zurich, Switzerland"
+e806,"Zurich, Switzerland"
+e807,"Zurich, Switzerland"
+e808,"Zurich, Switzerland"
+e809,"Zurich, Switzerland"
+e810,"Zurich, Switzerland"
+e811,"Zurich, Switzerland"
+e812,"Zurich, Switzerland"
+e813,"Zurich, Switzerland"
+e814,"Zurich, Switzerland"
+e815,"Limmat River right bank, Zurich, Switzerland"
+e815,"More City, Zurich, Switzerland"
+e815,Auf Dorf
+e815,"Linden, Zurich, Switzerland"
+e815,"Neumarkt, Zurich, Switzerland"
+e815,"Niederdorf, Zurich, Switzerland"
+e816,"Limmat River left bank, Zurich, Switzerland"
+e816,"Lesser City, Zurich, Switzerland"
+e816,Münsterhof
+e816,"Rennweg, Zurich, Switzerland"
+e817,"Hirschengraben, Zurich, Switzerland"
+e817,"Stadelhofen, Zurich, Switzerland"
+e817,"Talacker, Zurich, Switzerland"
+e818,"Zurich old town, Switzerland"
+e819,"Lindenhof, Zurich, Switzerland"
+e819,"Limmat River, Zurich, Switzerland"
+e820,"Oetenbach Monastery, Zurich, Switzerland"
+e820,"Rennweg, Zurich, Switzerland"
+e820,"Limmat River, Zurich, Switzerland"
+e821,"Rathausbrücke, Zurich, Switzerland"
+e821,"Münsterbrücke, Zurich, Switzerland"
+e822,"Sihl River, Zurich, Switzerland"
+e823,Mühlestege
+e823,"Limmat River right bank, Zurich, Switzerland"
+e824,"Zurich old town, Switzerland"
+e825,City
+e827,"Fraumünster, Zurich, Switzerland"
+e827,"Grossmünster, Zurich, Switzerland"
+e827,"St. Peter, Zurich, Switzerland"
+e827,two Limmat bridges
+e828,"Kornhaus, Weinplatz, Zurich, Switzerland"
+e829,upper bridge
+e830,right Limmat bank
+e831,right Limmat bank
+e832,"Limmat River, Zurich, Switzerland"
+e832,courthouse (later main guard)
+e833,"Helmhaus, Zurich, Switzerland"
+e833,"Wasserkirche, Zurich, Switzerland"
+e834,Hottinger tower with Kaufhaus
+e835,Bauhaus in the Kratz quarter
+e836,"Froschaugasse, Zurich, Switzerland"
+e838,"Niederdorf, Zurich, Switzerland"
+e839,"Wasserkirche, Zurich, Switzerland"
+e840,Zur Krone (later Rechberg)
+e840,Zum Florhof
+e840,Zum Kiel
+e840,Freigut
+e840,"Enge, Zurich, Switzerland"
+e840,"Unterstrass, Zurich, Switzerland"
+e841,"Zurich, Switzerland"
+e842,"Zurich, Switzerland"
+e842,Brunnenhof
+e842,Lamparterturm
+e843,"Zurich, Switzerland"
+e844,"Zurich, Switzerland"
+e845,"Zurich, Switzerland"
+e846,"Gotthard Pass, Switzerland"
+e846,"Graubünden, Switzerland"
+e847,"Brunnenhof, Zurich, Switzerland"
+e848,"Zurich, Switzerland"
+e849,"Zurich, Switzerland"
+e850,"Zurich, Switzerland"
+e851,"Zurich, Switzerland"
+e852,"Zurich, Switzerland"
+e853,"Zurich, Switzerland"
+e854,"Zurich, Switzerland"
+e855,"Zurich, Switzerland"
+e856,"Zurich, Switzerland"
+e857,"Zurich, Switzerland"
+e858,"Zurich, Switzerland"
+e859,"Zurich, Switzerland"
+e860,"Zurich, Switzerland"
+e861,"Zurich, Switzerland"
+e862,"Zurich, Switzerland"
+e862,"Zurichberg, Zurich, Switzerland"
+e863,"Zurich, Switzerland"
+e864,"Zurich, Switzerland"
+e865,"Zurich, Switzerland"
+e866,"Zurich, Switzerland"
+e866,Kratz quarter
+e867,"Zurich, Switzerland"
 e868,"Zurich, Switzerland"
-e869,federal observatory on the Zurichberg
-e870,federal observatory on the Zurichberg
-e871,federal observatory on the Zurichberg
-e872,Lake Zurich
-e873,Limmat River
+e869,"Zurich, Switzerland"
+e870,"Zurich, Switzerland"
+e871,"Zurich, Switzerland"
+e872,"Zurich, Switzerland"
+e872,"Winterthur, Switzerland"
+e873,"Zurich, Switzerland"
 e874,"Zurich, Switzerland"
-e874,"Uetliberg, Zurich"
 e875,"Zurich, Switzerland"
-e876,"Wiedikon, Zurich, Switzerland"
-e877,"Wiedikon, Zurich, Switzerland"
+e876,"Zurich, Switzerland"
+e877,"Zurich, Switzerland"
 e878,"Zurich, Switzerland"
-e878,Gemüsemarkt
 e879,"Zurich, Switzerland"
-e879,St. Peter's Church
 e880,"Zurich, Switzerland"
 e881,"Zurich, Switzerland"
 e882,"Zurich, Switzerland"
-e883,"Zurich, Switzerland"
-e884,"Zurich, Switzerland"
-e885,"Zurich, Switzerland"
-e886,"Zurich, Switzerland"
-e887,"Zurich, Switzerland"
-e888,"Lake Zurich, Switzerland"
-e889,"Lake Zurich, Zurich, Switzerland"
-e889,Stäfner stone
-e890,"Zurich, Switzerland"
-e891,"Zurich, Switzerland"
-e891,"Canton of Zurich, Switzerland"
-e892,"Zurich, Switzerland"
-e892,"Lake Zurich, Switzerland"
-e892,"Albis, Switzerland"
-e892,"Adlisberg, Zurich, Switzerland"
-e892,"Zurichberg, Zurich, Switzerland"
-e893,"Zurich, Switzerland"
-e894,"Zurich, Switzerland"
-e894,"Lindenhof, Zurich, Switzerland"
-e894,"Fraumünster, Zurich, Switzerland"
-e894,"Niederdorf, Zurich, Switzerland"
-e894,"Grossmünster, Zurich, Switzerland"
+e882,"St. Jakob, Zurich, Switzerland"
+e882,"Spanweid, Zurich, Switzerland"
+e883,"Oetenbach, Zurich, Switzerland"
+e883,"St. Verena, Zurich, Switzerland"
+e883,"Selnau, Zurich, Switzerland"
+e886,Zurich
+e887,"Grossmünster, Zurich"
+e888,Zurich
+e889,Zurich
+e889,"Grossmünster, Zurich"
+e890,Zurich
+e891,Zurich
+e892,French church
+e893,Zurich
+e894,"Zurich, Fraumünster, Switzerland"
+e894,"Zurich, Grossmünster, Switzerland"
 e895,"Zurich, Switzerland"
-e895,Stadelhof
 e896,"Zurich, Switzerland"
 e897,"Zurich, Switzerland"
-e897,"Aussersihl, Zurich, Switzerland"
-e897,"Enge, Zurich, Switzerland"
-e897,"Fluntern, Zurich, Switzerland"
-e897,"Hirslanden, Zurich, Switzerland"
-e897,"Hottingen, Zurich, Switzerland"
-e897,"Leimbach, Zurich, Switzerland"
-e897,"Oberstrass, Zurich, Switzerland"
-e897,"Riesbach, Zurich, Switzerland"
-e897,"Unterstrass, Zurich, Switzerland"
-e897,"Wiedikon, Zurich, Switzerland"
-e897,"Wipkingen, Zurich, Switzerland"
-e897,"Wollishofen, Zurich, Switzerland"
 e898,"Zurich, Switzerland"
-e898,"Affoltern, Zurich, Switzerland"
-e898,"Albisrieden, Zurich, Switzerland"
-e898,"Altstetten, Zurich, Switzerland"
-e898,"Höngg, Zurich, Switzerland"
-e898,"Oerlikon, Zurich, Switzerland"
-e898,"Schwamendingen, Zurich, Switzerland"
-e898,"Seebach, Zurich, Switzerland"
-e898,"Witikon, Zurich, Switzerland"
 e899,"Zurich, Switzerland"
 e900,"Zurich, Switzerland"
 e901,"Zurich, Switzerland"
@@ -1219,255 +1310,303 @@ e902,"Zurich, Switzerland"
 e903,"Zurich, Switzerland"
 e904,"Zurich, Switzerland"
 e905,"Zurich, Switzerland"
+e906,"Münsterhof, Zurich, Switzerland"
 e906,"Zurich, Switzerland"
 e907,"Zurich, Switzerland"
-e908,"Katzensee, Zurich, Switzerland"
-e909,lower lake basin
-e910,"Kleiner Hafner, Zurich, Switzerland"
-e911,"Letten, Zurich, Switzerland"
-e911,"Rathausbrücke, Zurich, Switzerland"
-e911,"Limmat River, Zurich, Switzerland"
-e912,"Uetliberg, Zurich, Switzerland"
-e913,"Höngg, Zurich, Switzerland"
-e913,"Balgrist, Zurich, Switzerland"
-e913,"Burghölzli, Zurich, Switzerland"
-e915,"Limmat, Zurich, Switzerland"
-e915,"moraine hill with the elevations Lindenhof, St. Petershügel and the today dismantled Sihlbühl in the north"
-e916,"Bahnhofstrasse, Zurich, Switzerland"
-e917,Bäckerstrasse
-e918,"Swiss National Museum, Zurich, Switzerland"
-e921,"Limmat River, Zurich, Switzerland"
-e923,"Weinplatz, Zurich, Switzerland"
-e924,"Rathausbrücke, Zurich, Switzerland"
-e925,"Grosse Hafner island, Zurich, Switzerland"
-e926,"Storchengasse, Zurich, Switzerland"
-e927,"Oetenbach area, Zurich, Switzerland"
-e930,"Lindenhof, Zurich, Switzerland"
-e930,castellum
-e931,"Lindenhof, Zurich, Switzerland"
-e931,castellum
-e932,"Bäckerstrasse, Zurich, Switzerland"
-e933,"Bäckerstrasse, Zurich, Switzerland"
-e934,"St. Petershügel, Zurich, Switzerland"
-e935,"St. Petershügel, Zurich, Switzerland"
-e936,castellum
-e937,"Niederdorf, Zurich, Switzerland"
+e908,"Zurich, Switzerland"
+e909,"Zurich, Switzerland"
+e910,"Zurich, Switzerland"
+e911,"Zurich, Switzerland"
+e912,"Zurich, Switzerland"
+e913,"Zurich, Switzerland"
+e914,"Zurich, Switzerland"
+e915,"Zurich, Switzerland"
+e916,"Zurich, Switzerland"
+e917,"Zurich, Switzerland"
+e918,"Zurich, Switzerland"
+e919,"Zurich, Switzerland"
+e920,"Zurich, Switzerland"
+e921,"Zurich, Switzerland"
+e922,"Zurich, Switzerland"
+e923,"Zurich, Switzerland"
+e924,"Zurich, Switzerland"
+e925,"Zurich, Switzerland"
+e925,Oberdorf
+e925,Niederdorf
+e925,Kleine Stadt
+e927,"Zurich, Switzerland"
+e927,"Aussersihl, Zurich, Switzerland"
+e928,"Zurich, Switzerland"
+e928,"Altstadt, Zurich, Switzerland"
+e928,"Enge, Zurich, Switzerland"
+e928,"Leimbach, Zurich, Switzerland"
+e928,"Wollishofen, Zurich, Switzerland"
+e928,"Aussersihl, Zurich, Switzerland"
+e928,"Wiedikon, Zurich, Switzerland"
+e928,"Oberstrass, Zurich, Switzerland"
+e928,"Unterstrass, Zurich, Switzerland"
+e928,"Wipkingen, Zurich, Switzerland"
+e928,"Fluntern, Zurich, Switzerland"
+e928,"Hirslanden, Zurich, Switzerland"
+e928,"Hottingen, Zurich, Switzerland"
+e928,"Riesbach, Zurich, Switzerland"
+e929,"Zurich, Switzerland"
+e930,"Zurich, Switzerland"
+e930,"Altstadt, Zurich, Switzerland"
+e930,"Enge, Zurich, Switzerland"
+e930,"Leimbach, Zurich, Switzerland"
+e930,"Wollishofen, Zurich, Switzerland"
+e930,"Wiedikon, Zurich, Switzerland"
+e930,"Aussersihl, Zurich, Switzerland"
+e930,"Industriequartier, Zurich, Switzerland"
+e930,"Oberstrass, Zurich, Switzerland"
+e930,"Unterstrass, Zurich, Switzerland"
+e930,"Fluntern, Zurich, Switzerland"
+e930,"Hirslanden, Zurich, Switzerland"
+e930,"Hottingen, Zurich, Switzerland"
+e930,"Witikon, Zurich, Switzerland"
+e930,"Riesbach, Zurich, Switzerland"
+e930,"Albisrieden, Zurich, Switzerland"
+e930,"Altstetten, Zurich, Switzerland"
+e930,"Höngg, Zurich, Switzerland"
+e930,"Wipkingen, Zurich, Switzerland"
+e930,"Affoltern, Zurich, Switzerland"
+e930,"Oerlikon, Zurich, Switzerland"
+e930,"Schwamendingen, Zurich, Switzerland"
+e930,"Seebach, Zurich, Switzerland"
+e931,"Schwamendingen, Zurich, Switzerland"
+e932,"Aussersihl, Zurich, Switzerland"
+e933,"Zurich, Switzerland"
+e934,"Canton of Zurich, Switzerland"
+e935,"Zurich, Switzerland"
+e935,"Canton of Zurich, Switzerland"
+e936,"Zurich, Switzerland"
+e937,"Winterthur, Switzerland"
 e938,"Zurich, Switzerland"
 e939,"Zurich, Switzerland"
-e939,"Albis, Switzerland"
-e939,"Uri, Switzerland"
-e939,Stadelhof
-e940,"Fraumünster, Zurich, Switzerland"
-e941,"Lindenhof, Zurich, Switzerland"
+e940,"Zurich, Switzerland"
+e941,suburbs
 e942,"Zurich, Switzerland"
 e943,"Zurich, Switzerland"
 e944,"Zurich, Switzerland"
-e944,Baltic Sea
 e945,"Zurich, Switzerland"
-e945,palace on Lindenhof
 e946,"Zurich, Switzerland"
 e947,"Zurich, Switzerland"
 e948,"Zurich, Switzerland"
 e949,"Zurich, Switzerland"
-e950,"Zurich, Switzerland"
-e951,"Zurich, Switzerland"
-e951,palace on Lindenhof
-e952,"Fraumünster, Zurich, Switzerland"
-e952,"Grossmünster, Zurich, Switzerland"
-e952,"Wasserkirche, Zurich, Switzerland"
-e952,"St. Peter Church, Zurich, Switzerland"
-e952,"St. Stephan Church, Zurich, Switzerland"
-e953,"Fraumünster, Zurich, Switzerland"
-e954,"Fraumünster, Zurich, Switzerland"
-e955,"Fraumünster, Zurich, Switzerland"
-e956,"Grossmünster, Zurich, Switzerland"
-e957,"Grossmünster, Zurich, Switzerland"
-e958,"Grossmünster, Zurich, Switzerland"
-e959,"Wasserkirche, Zurich, Switzerland"
-e959,Limmat island
-e960,"St. Peter Church, Zurich, Switzerland"
-e961,"St. Peter Church, Zurich, Switzerland"
-e961,"St. Stephan Church, Zurich, Switzerland"
-e962,"Zurichberg, Zurich, Switzerland"
-e964,"Zurich, Fraumünster, Switzerland"
-e964,"Limmat River eastern bank, Zurich, Switzerland"
-e965,"Lindenhof, Zurich, Switzerland"
-e966,"Limmat River shore, Zurich, Switzerland"
-e967,"Eastern district, Zurich, Switzerland"
-e968,"Guild House of the Carpenters, Zurich, Switzerland"
+e950,executive city council
+e951,executive city council
+e952,"Zurich, Switzerland"
+e953,executive city council
+e954,city council
+e955,city council
+e956,city council
+e957,"Zurich, Switzerland"
+e957,"Zurich, Switzerland"
+e957,Helvetic Republic
+e958,"Zurich, Switzerland"
+e959,"Zurich, Switzerland"
+e960,"Zurich, Switzerland"
+e961,"Zurich, Switzerland"
+e962,"Zurich, Switzerland"
+e963,"Zurich, Switzerland"
+e964,"Zurich, Switzerland"
+e965,"Zurich, Switzerland"
+e966,"Zurich, Switzerland"
+e967,"Zurich, Switzerland"
+e968,"Zurich, Switzerland"
 e969,"Zurich, Switzerland"
-e970,"Zurich, Switzerland"
-e971,"Zurich, Switzerland"
-e972,"Lindenhof, Zurich, Switzerland"
-e973,"Fraumünster, Zurich, Switzerland"
-e974,"Fraumünster, Zurich, Switzerland"
-e975,"Fraumünster, Zurich, Switzerland"
-e976,"Fraumünster, Zurich, Switzerland"
-e977,"Fraumünster, Zurich, Switzerland"
-e978,"Fraumünster, Zurich, Switzerland"
+e973,"Platzspitz, Zurich, Switzerland"
+e974,"Industriequartier, Zurich, Switzerland"
+e975,"Schlieren, Zurich, Switzerland"
+e977,"Zurich, Switzerland"
+e977,"Schanzengraben, Zurich, Switzerland"
+e977,Botanical Garden of the University
 e978,"Zurich, Switzerland"
-e979,"Fraumünster, Zurich, Switzerland"
 e979,"Zurich, Switzerland"
-e980,"Fraumünster Monastery, Zurich, Switzerland"
+e980,"Zurich, Switzerland"
 e981,"Zurich, Switzerland"
-e981,"Fraumünster Monastery, Zurich, Switzerland"
-e982,"Fraumünster Monastery, Zurich, Switzerland"
+e981,"Limmat River, Switzerland"
+e982,"Zurich, Switzerland"
 e983,"Zurich, Switzerland"
+e983,Sihl and Lorze valleys
 e984,"Zurich, Switzerland"
 e985,"Zurich, Switzerland"
 e986,"Zurich, Switzerland"
 e987,"Zurich, Switzerland"
+e987,"Albula, Switzerland"
+e987,"Heidsee, Switzerland"
+e987,"Wettingen, Switzerland"
+e987,"Tiefencastel, Switzerland"
+e987,"Marmorera, Switzerland"
+e987,"Bergell (Val Bregaglia), Switzerland"
+e987,"Maggia, Switzerland"
+e987,"Blenio, Switzerland"
+e987,"Hinterrhein, Switzerland"
+e987,"Gösgen, Switzerland"
+e987,"Leibstadt, Switzerland"
+e987,"Bugey, France"
+e987,"Cattenom, France"
 e988,"Zurich, Switzerland"
 e989,"Zurich, Switzerland"
 e990,"Zurich, Switzerland"
-e991,"Winterthur, Switzerland"
-e996,"Rapperswil, Switzerland"
-e996,"Zurich, Switzerland"
-e998,"Zurich, Switzerland"
-e999,"Zurich, Switzerland"
-e1000,"Zurich, Switzerland"
-e1001,"Zurich, Switzerland"
-e1002,"Zurich, Switzerland"
-e1003,"Zurich, Switzerland"
-e1004,"Zurich, Switzerland"
-e1005,"Zurich, Switzerland"
-e1006,"Zurich, Switzerland"
-e1007,"Zurich, Switzerland"
-e1014,"Zurich, Switzerland"
-e1015,"Zurich, Switzerland"
+e991,"Zurich, Switzerland"
+e992,"Zurich, Switzerland"
+e993,Zurich
+e993,Zurich
+e994,Zurich
+e995,Zurich
+e996,"Münsterbrücke, Zurich"
+e996,"Limmatquai, Zurich"
+e997,Zurich Hauptbahnhof
+e998,"Limmatquai, Zurich"
+e999,"Bahnhofbrücke, Zurich"
+e1000,"Zeughaus, Zurich"
+e1001,"Aussersihl, Zurich"
+e1002,"Bahnhofstrasse, Zurich"
+e1003,"Bahnhof district, Zurich"
+e1004,ETH Zurich
+e1005,Zurich Hauptbahnhof
+e1006,"Paradeplatz, Zurich"
+e1007,"Selnau, Zurich"
+e1007,"Neumühlequai, Zurich"
+e1008,"Fraumünster district, Zurich"
+e1009,"Prediger district, Zurich"
+e1010,"Industriequartier, Aussersihl, Zurich"
+e1011,Zurich Stock Exchange
+e1011,"Upper Bahnhofstrasse, Zurich"
+e1011,Zurich lake promenade
+e1011,"Quaibrücke, Zurich"
+e1012,Zurich lakeside
+e1012,"Stadthausquai, Zurich"
+e1013,"Oetenbach, Zurich"
+e1013,"Schipfe, Zurich"
+e1013,"Zähringerplatz, Zurich"
+e1013,"Rämistrasse, Zurich"
+e1014,Zurich
+e1015,Zurich
 e1016,"Zurich, Switzerland"
 e1017,"Zurich, Switzerland"
 e1018,"Zurich, Switzerland"
-e1019,"Zurich, Switzerland"
-e1020,"Zurich, Switzerland"
-e1021,"Zurich, Switzerland"
-e1022,"Zurich, Switzerland"
-e1023,"Zurich, Switzerland"
-e1024,"Limmat River, Zurich, Switzerland"
-e1024,"More City, Zurich, Switzerland"
-e1024,Auf Dorf
-e1024,"Linden, Zurich, Switzerland"
-e1024,"Neumarkt, Zurich, Switzerland"
-e1024,"Niederdorf, Zurich, Switzerland"
-e1025,"Limmat River left bank, Zurich, Switzerland"
-e1025,"Lesser City, Zurich, Switzerland"
-e1025,Münsterhof
-e1025,"Rennweg, Zurich, Switzerland"
-e1026,"Hirschengraben, Zurich, Switzerland"
-e1026,"Stadelhofen, Zurich, Switzerland"
-e1026,"Talacker, Zurich, Switzerland"
-e1027,"Historic walled city of Zurich, Switzerland"
-e1028,"Lindenhof, Zurich, Switzerland"
-e1028,"Limmat River, Zurich, Switzerland"
-e1029,"Oetenbach Monastery, Zurich, Switzerland"
-e1029,"Rennweg, Zurich, Switzerland"
-e1030,the two parts of the city
-e1030,"Rathausbrücke, Zurich, Switzerland"
-e1030,"Münsterbrücke, Zurich, Switzerland"
-e1031,"Sihl River, Zurich, Switzerland"
-e1032,Mühlestege
-e1032,"Limmat River, Zurich, Switzerland"
-e1033,"Historic walled city of Zurich, Switzerland"
+e1018,"Old Town, Zurich, Switzerland"
+e1019,"Old Town, Zurich, Switzerland"
+e1020,Bahnhof- and Limmatquai
+e1020,"Bahnhofbrücke, Zurich, Switzerland"
+e1020,"Central, Zurich, Switzerland"
+e1021,"Old Town, Zurich, Switzerland"
+e1022,"Old Town, Zurich, Switzerland"
+e1023,"Old Town, Zurich, Switzerland"
+e1024,"Zurich, Switzerland"
+e1025,"Zurich, Switzerland"
+e1026,"Zurich, Switzerland"
+e1027,"Zurich, Switzerland"
+e1028,"Zurich-West, Zurich, Switzerland"
+e1028,"Oerlikon, Zurich, Switzerland"
+e1028,"Giesshübel, Zurich, Switzerland"
+e1028,"Binz, Zurich, Switzerland"
+e1028,"Altstetten, Zurich, Switzerland"
+e1028,"Affoltern, Zurich, Switzerland"
+e1029,"Zurich, Switzerland"
+e1030,Neumühlequai
+e1031,"Limmat River, Zurich, Switzerland"
+e1032,"Zurich, Switzerland"
+e1033,"Zurich, Switzerland"
 e1034,"Zurich, Switzerland"
-e1036,"Fraumünster, Zurich, Switzerland"
-e1036,"Grossmünster, Zurich, Switzerland"
-e1036,"St. Peter, Zurich, Switzerland"
-e1036,two Limmat bridges
-e1037,"Weinplatz, Zurich, Switzerland"
-e1038,upper bridge
-e1039,right Limmat bank
-e1040,right Limmat bank
-e1041,"Limmat River, Zurich, Switzerland"
-e1041,courthouse (later main guard)
-e1042,"Helmhaus, Zurich, Switzerland"
-e1042,"Wasserkirche, Zurich, Switzerland"
-e1043,Hottinger tower with Kaufhaus
-e1044,Bauhaus in the Kratz quarter
-e1045,"Froschaugasse, Zurich, Switzerland"
-e1046,"Niederdorf, Zurich, Switzerland"
-e1047,"Wasserkirche, Zurich, Switzerland"
-e1048,Zur Krone (later Rechberg)
-e1048,Zum Florhof
-e1048,Zum Kiel
-e1049,Freigut
-e1049,"Enge, Zurich, Switzerland"
-e1049,"Unterstrass, Zurich, Switzerland"
+e1035,"Zurich, Switzerland"
+e1036,"Aussersihl, Zurich, Switzerland"
+e1036,"Oerlikon, Zurich, Switzerland"
+e1037,"Zurich, Switzerland"
+e1038,"Zurich, Switzerland"
+e1039,"Zurich, Switzerland"
+e1040,"Zurich, Switzerland"
+e1041,"Zurich, Switzerland"
+e1042,"Zurich, Switzerland"
+e1043,"Zurich, Switzerland"
+e1044,"Zurich, Switzerland"
+e1045,"Zurich, Switzerland"
+e1046,"Zurich, Switzerland"
+e1047,"Zurich, Switzerland"
+e1048,"Zurich, Switzerland"
+e1049,"Zurich, Switzerland"
 e1050,"Zurich, Switzerland"
 e1051,"Zurich, Switzerland"
-e1052,Brunnenhof
-e1052,Lamparterturm
+e1052,"Zurich, Switzerland"
 e1053,"Zurich, Switzerland"
 e1054,"Zurich, Switzerland"
 e1055,"Zurich, Switzerland"
-e1056,"Gotthard Pass, Switzerland"
-e1056,"Graubünden, Switzerland"
-e1057,"Brunnenhof, Zurich, Switzerland"
+e1056,"Zurich, Switzerland"
+e1057,"Zurich, Switzerland"
 e1058,"Zurich, Switzerland"
 e1059,"Zurich, Switzerland"
 e1060,"Zurich, Switzerland"
 e1061,"Zurich, Switzerland"
 e1062,"Zurich, Switzerland"
 e1063,"Zurich, Switzerland"
-e1063,Italy
 e1064,"Zurich, Switzerland"
-e1065,"Zurich, Switzerland"
-e1066,"Zurich, Switzerland"
-e1067,"Zurich, Switzerland"
-e1068,"Zurich, Switzerland"
-e1069,"Zurich, Switzerland"
-e1069,"Basel, Switzerland"
-e1069,"Geneva, Switzerland"
-e1069,"St. Gallen, Switzerland"
+e1066,Zurichberg-Aussersihl/Industriequartier
+e1069,Switzerland
+e1069,EU states
+e1069,Germany
 e1070,"Zurich, Switzerland"
-e1070,"Zurichberg, Zurich, Switzerland"
+e1070,"Grossmünster, Zurich, Switzerland"
+e1070,"Fraumünster, Zurich, Switzerland"
+e1070,"St. Peter, Zurich, Switzerland"
+e1070,"Prediger, Zurich, Switzerland"
 e1071,"Zurich, Switzerland"
 e1072,"Zurich, Switzerland"
-e1073,"Zurich, Switzerland"
-e1074,"Zurich, Switzerland"
-e1074,Kratz quarter
-e1075,"Zurich, Switzerland"
-e1076,"Zurich, Switzerland"
-e1077,"Zurich, Switzerland"
+e1073,St. Anna Chapel
+e1074,"Fraumünster, Zurich, Switzerland"
+e1075,Augustiner church
+e1076,"St. Peter and Paul Church, Aussersihl, Zurich, Switzerland"
+e1077,"Endingen, Aargau, Switzerland"
+e1077,"Lengnau, Aargau, Switzerland"
+e1077,southern Germany
+e1077,"Alsace, France"
 e1078,"Zurich, Switzerland"
 e1079,"Zurich, Switzerland"
 e1080,"Zurich, Switzerland"
-e1080,"Winterthur, Switzerland"
 e1081,"Zurich, Switzerland"
 e1082,"Zurich, Switzerland"
 e1083,"Zurich, Switzerland"
 e1084,"Zurich, Switzerland"
 e1085,"Zurich, Switzerland"
 e1086,"Zurich, Switzerland"
-e1087,"Zurich, Switzerland"
-e1088,"Zurich, Switzerland"
-e1089,city
-e1090,city
-e1091,city
-e1092,city
-e1093,city
-e1094,Zurich
-e1095,"Grossmünster, Zurich"
-e1096,Zurich
-e1097,Zurich
-e1097,"Grossmünster, Zurich"
-e1098,Zurich
-e1099,Zurich
-e1100,French church
-e1101,Zurich
-e1102,"Zurich, Switzerland"
-e1102,"Zurich, Switzerland"
-e1104,"Zurich, Switzerland"
-e1105,"Zurich, Switzerland"
-e1107,"Zurich, Switzerland"
-e1108,"Zurich, Switzerland"
-e1109,"Zurich, Switzerland"
-e1110,"Zurich, Switzerland"
+e1086,former Yugoslavia
+e1086,Turkey
+e1087,Zurich
+e1087,Canton of Zurich
+e1088,Zurich
+e1089,Zurich
+e1090,Zurich
+e1091,Zurich
+e1092,Zurich
+e1092,Canton of Zurich
+e1093,Canton of Zurich
+e1094,Canton of Zurich
+e1095,Canton of Zurich
+e1096,"Zurich, Switzerland"
+e1097,"Zurich, Switzerland"
+e1098,"Zurich, Switzerland"
+e1099,"Zurich, Switzerland"
+e1100,"Zurich, Switzerland"
+e1101,casino on Hirschengraben
+e1102,"Tonhalle, Bellevue, Zurich, Switzerland"
+e1103,"Zurich, Switzerland"
+e1104,"Bellevue, Zurich, Switzerland"
+e1105,"Bellevue, Zurich, Switzerland"
+e1106,"Tonhalle, Bellevue, Zurich, Switzerland"
+e1107,"Tonhalle, Bellevue, Zurich, Switzerland"
+e1108,"Pfauen, Zurich, Switzerland"
+e1109,"Pfauen, Zurich, Switzerland"
+e1110,"Zurich-West, Zurich, Switzerland"
 e1111,"Zurich, Switzerland"
 e1112,"Zurich, Switzerland"
 e1113,"Zurich, Switzerland"
-e1114,"Münsterhof, Zurich, Switzerland"
+e1113,"Museum Rietberg, Zurich, Switzerland"
 e1114,"Zurich, Switzerland"
+e1114,"Löwenbräu, Zurich, Switzerland"
 e1115,"Zurich, Switzerland"
+e1115,"Haus Konstruktiv, Zurich, Switzerland"
 e1116,"Zurich, Switzerland"
 e1117,"Zurich, Switzerland"
 e1118,"Zurich, Switzerland"
@@ -1487,376 +1626,21 @@ e1131,"Zurich, Switzerland"
 e1132,"Zurich, Switzerland"
 e1133,"Zurich, Switzerland"
 e1134,"Zurich, Switzerland"
-e1134,Oberdorf
-e1134,Niederdorf
-e1134,Kleine Stadt
-e1135,suburbs
-e1136,"Aussersihl, Zurich, Switzerland"
-e1137,"Zurich, Switzerland"
+e1135,"Zurich, Switzerland"
+e1136,German
 e1138,"Zurich, Switzerland"
-e1138,"Altstadt, Zurich, Switzerland"
-e1138,"Enge, Zurich, Switzerland"
-e1138,"Leimbach, Zurich, Switzerland"
-e1138,"Wollishofen, Zurich, Switzerland"
-e1138,"Aussersihl, Zurich, Switzerland"
-e1138,"Wiedikon, Zurich, Switzerland"
-e1138,"Oberstrass, Zurich, Switzerland"
-e1138,"Unterstrass, Zurich, Switzerland"
-e1138,"Wipkingen, Zurich, Switzerland"
-e1138,"Fluntern, Zurich, Switzerland"
-e1138,"Hirslanden, Zurich, Switzerland"
-e1138,"Hottingen, Zurich, Switzerland"
-e1138,"Riesbach, Zurich, Switzerland"
-e1139,"Zurich, Switzerland"
+e1139,Bäckerstrasse
 e1140,"Zurich, Switzerland"
-e1140,"Altstadt, Zurich, Switzerland"
-e1140,"Enge, Zurich, Switzerland"
-e1140,"Leimbach, Zurich, Switzerland"
-e1140,"Wollishofen, Zurich, Switzerland"
-e1140,"Wiedikon, Zurich, Switzerland"
-e1140,"Aussersihl, Zurich, Switzerland"
-e1140,"Industriequartier, Zurich, Switzerland"
-e1140,"Oberstrass, Zurich, Switzerland"
-e1140,"Unterstrass, Zurich, Switzerland"
-e1140,"Fluntern, Zurich, Switzerland"
-e1140,"Hirslanden, Zurich, Switzerland"
-e1140,"Hottingen, Zurich, Switzerland"
-e1140,"Witikon, Zurich, Switzerland"
-e1140,"Riesbach, Zurich, Switzerland"
-e1140,"Albisrieden, Zurich, Switzerland"
-e1140,"Altstetten, Zurich, Switzerland"
-e1140,"Höngg, Zurich, Switzerland"
-e1140,"Wipkingen, Zurich, Switzerland"
-e1140,"Affoltern, Zurich, Switzerland"
-e1140,"Oerlikon, Zurich, Switzerland"
-e1140,"Schwamendingen, Zurich, Switzerland"
-e1140,"Seebach, Zurich, Switzerland"
-e1141,"Schwamendingen, Zurich, Switzerland"
-e1142,"Aussersihl, Zurich, Switzerland"
-e1143,"Zurich, Switzerland"
-e1144,"Canton of Zurich, Switzerland"
-e1145,"Zurich, Switzerland"
-e1145,"Canton of Zurich, Switzerland"
+e1141,"Zurich, Switzerland"
+e1142,City
+e1144,"Brunnenhof, Zurich, Switzerland"
+e1145,"Aussersihl, Zurich, Switzerland"
 e1146,"Zurich, Switzerland"
-e1147,"Winterthur, Switzerland"
+e1147,"Zurich, Switzerland"
 e1148,"Zurich, Switzerland"
+e1148,"Schanzengraben, Zurich, Switzerland"
+e1148,Botanical Garden of the University
 e1149,"Zurich, Switzerland"
 e1150,"Zurich, Switzerland"
-e1151,suburbs
+e1151,"Zurich, Switzerland"
 e1152,"Zurich, Switzerland"
-e1153,"Zurich, Switzerland"
-e1154,municipal council
-e1155,municipal council
-e1156,"Zurich, Switzerland"
-e1157,municipal council
-e1158,municipal council
-e1159,municipal council
-e1160,municipal council
-e1161,executive city council
-e1162,executive city council
-e1163,executive city council
-e1164,"Zurich, Switzerland"
-e1165,executive city council
-e1166,executive city council
-e1167,executive city council
-e1168,executive city council
-e1169,"Zurich, Switzerland"
-e1169,Helvetic Republic
-e1169,"Zurich, Switzerland"
-e1170,"Zurich, Switzerland"
-e1171,"Zurich, Switzerland"
-e1172,"Zurich, Switzerland"
-e1173,"Zurich, Switzerland"
-e1174,"Zurich, Switzerland"
-e1175,"Zurich, Switzerland"
-e1176,"Zurich, Switzerland"
-e1178,Zurich
-e1180,Zurich
-e1181,Zurich
-e1185,"Platzspitz, Zurich, Switzerland"
-e1186,"Industriequartier, Zurich, Switzerland"
-e1187,"Schlieren, Zurich, Switzerland"
-e1189,"Zurich, Switzerland"
-e1189,Schanzengraben near the Botanical Garden of the University
-e1190,"Zurich, Switzerland"
-e1191,"Zurich, Switzerland"
-e1192,"Zurich, Switzerland"
-e1193,"Zurich, Switzerland"
-e1194,"Zurich, Switzerland"
-e1194,"Limmat River, Switzerland"
-e1195,"Zurich, Switzerland"
-e1195,Sihl and Lorze valleys
-e1196,"Zurich, Switzerland"
-e1197,"Zurich, Switzerland"
-e1198,"Zurich, Switzerland"
-e1199,"Zurich, Switzerland"
-e1199,"Albula, Switzerland"
-e1199,Heidsee
-e1199,Limmat Wettingen
-e1199,Julia Tiefencastel
-e1199,Julia Marmorera
-e1199,"Bergell, Switzerland"
-e1200,"Zurich, Switzerland"
-e1200,"Maggia, Switzerland"
-e1200,"Blenio, Switzerland"
-e1200,"Hinterrhein, Switzerland"
-e1200,"Gösgen, Switzerland"
-e1200,"Leibstadt, Switzerland"
-e1200,"Bugey, France"
-e1200,"Cattenom, France"
-e1201,"Zurich, Switzerland"
-e1202,"Zurich, Switzerland"
-e1203,"Zurich, Switzerland"
-e1204,"Zurich, Switzerland"
-e1204,"Zurich, Switzerland"
-e1205,"Zurich, Switzerland"
-e1206,"Zurich, Switzerland"
-e1207,"Münsterbrücke, Zurich, Switzerland"
-e1207,"Limmatquai, Zurich, Switzerland"
-e1208,"Zurich main railway station area, Zurich, Switzerland"
-e1209,"Limmatquai, Zurich, Switzerland"
-e1210,"Bahnhofbrücke, Zurich, Switzerland"
-e1211,"Zeughaus, Zurich, Switzerland"
-e1212,"Aussersihl, Zurich, Switzerland"
-e1213,"Bahnhofstrasse, Zurich, Switzerland"
-e1214,"Bahnhof district, Zurich, Switzerland"
-e1215,"ETH Zurich, Zurich, Switzerland"
-e1216,"Zurich main railway station, Zurich, Switzerland"
-e1217,"Paradeplatz, Zurich, Switzerland"
-e1218,"Selnau, Zurich, Switzerland"
-e1218,"Neumühlequai, Zurich, Switzerland"
-e1218,"Fraumünster district, Zurich, Switzerland"
-e1219,"Prediger district, Zurich, Switzerland"
-e1220,"Industriequartier, Aussersihl, Zurich, Switzerland"
-e1221,"Zurich Stock Exchange, Zurich, Switzerland"
-e1221,"Upper Bahnhofstrasse, Zurich, Switzerland"
-e1221,"Lake Zurich promenade, Zurich, Switzerland"
-e1221,"Quaibrücke, Zurich, Switzerland"
-e1222,"Lake Zurich lakeside, Zurich, Switzerland"
-e1222,"Stadthausquai, Zurich, Switzerland"
-e1223,"Oetenbach site, Zurich, Switzerland"
-e1223,"Schipfe, Zurich, Switzerland"
-e1223,"Zähringerplatz, Zurich, Switzerland"
-e1223,"Rämistrasse, Zurich, Switzerland"
-e1224,"Zurich, Switzerland"
-e1225,"Zurich, Switzerland"
-e1226,"Zurich, Switzerland"
-e1227,"Zurich, Switzerland"
-e1228,"Zurich, Switzerland"
-e1228,"Old Town, Zurich, Switzerland"
-e1229,"Old Town, Zurich, Switzerland"
-e1230,Bahnhof- and Limmatquai
-e1230,"Bahnhofbrücke, Zurich, Switzerland"
-e1230,"Central, Zurich, Switzerland"
-e1231,"Old Town, Zurich, Switzerland"
-e1232,"Old Town, Zurich, Switzerland"
-e1233,"Old Town, Zurich, Switzerland"
-e1234,"Zurich, Switzerland"
-e1235,"Zurich, Switzerland"
-e1236,"Zurich, Switzerland"
-e1237,"Zurich-West, Zurich, Switzerland"
-e1237,"Oerlikon, Zurich, Switzerland"
-e1237,"Giesshübel, Zurich, Switzerland"
-e1237,"Binz, Zurich, Switzerland"
-e1237,"Altstetten, Zurich, Switzerland"
-e1237,"Affoltern, Zurich, Switzerland"
-e1238,"Zurich, Switzerland"
-e1239,Neumühlequai
-e1240,"Limmat River, Zurich, Switzerland"
-e1241,"Zurich, Switzerland"
-e1242,"Zurich, Switzerland"
-e1243,"Zurich, Switzerland"
-e1244,"Zurich, Switzerland"
-e1245,"Aussersihl, Zurich, Switzerland"
-e1245,"Oerlikon, Zurich, Switzerland"
-e1246,"Zurich, Switzerland"
-e1247,"Zurich, Switzerland"
-e1248,"Zurich, Switzerland"
-e1249,"Zurich, Switzerland"
-e1250,"Zurich, Switzerland"
-e1251,"Zurich, Switzerland"
-e1252,"Zurich, Switzerland"
-e1253,"Zurich, Switzerland"
-e1254,"Zurich, Switzerland"
-e1255,"Zurich, Switzerland"
-e1256,"Zurich, Switzerland"
-e1257,"Zurich, Switzerland"
-e1258,"Zurich, Switzerland"
-e1259,"Zurich, Switzerland"
-e1260,"Zurich, Switzerland"
-e1261,"Zurich, Switzerland"
-e1262,"Zurich, Switzerland"
-e1263,"Zurich, Switzerland"
-e1264,"Zurich, Switzerland"
-e1265,"Zurich, Switzerland"
-e1266,"Zurich, Switzerland"
-e1267,"Zurich, Switzerland"
-e1268,"Zurich, Switzerland"
-e1269,"Zurich, Switzerland"
-e1270,"Zurich, Switzerland"
-e1271,"Zurich, Switzerland"
-e1272,"Zurich, Switzerland"
-e1273,"Zurich, Switzerland"
-e1275,Zurichberg-Aussersihl/Industriequartier
-e1278,Switzerland
-e1278,EU states
-e1278,Germany
-e1279,"Zurich, Switzerland"
-e1279,"Grossmünster, Zurich, Switzerland"
-e1279,"Fraumünster, Zurich, Switzerland"
-e1279,"St. Peter, Zurich, Switzerland"
-e1279,"Prediger, Zurich, Switzerland"
-e1280,"Zurich, Switzerland"
-e1281,"Zurich, Switzerland"
-e1282,St. Anna Chapel
-e1282,"Fraumünster, Zurich, Switzerland"
-e1282,Augustiner church
-e1283,Augustiner church
-e1284,"St. Peter and Paul Church, Aussersihl, Zurich, Switzerland"
-e1285,"Endingen, Aargau, Switzerland"
-e1285,"Lengnau, Aargau, Switzerland"
-e1285,southern Germany
-e1285,"Alsace, France"
-e1285,"Zurich, Switzerland"
-e1286,"Zurich, Switzerland"
-e1287,"Zurich, Switzerland"
-e1288,"Zurich, Switzerland"
-e1289,"Zurich, Switzerland"
-e1290,"Zurich, Switzerland"
-e1291,"Zurich, Switzerland"
-e1292,"Zurich, Switzerland"
-e1293,"Zurich, Switzerland"
-e1294,"Zurich, Switzerland"
-e1294,Switzerland
-e1295,"Zurich, Switzerland"
-e1295,former Yugoslavia
-e1295,Turkey
-e1296,Zurich
-e1296,Canton of Zurich
-e1297,Zurich
-e1298,Zurich
-e1299,Zurich
-e1300,Zurich
-e1301,Zurich
-e1301,Canton of Zurich
-e1302,Canton of Zurich
-e1303,Canton of Zurich
-e1304,"Zurich, Switzerland"
-e1305,"Zurich, Switzerland"
-e1306,"Zurich, Switzerland"
-e1307,"Zurich, Switzerland"
-e1308,"Zurich, Switzerland"
-e1309,casino on Hirschengraben
-e1310,Tonhalle in the Kornhaus at Bellevue
-e1311,"Zurich, Switzerland"
-e1312,city theater at Bellevue
-e1313,Tonhalle
-e1314,Volkstheater at Pfauen
-e1315,Schiffbauhalle in Zurich-West
-e1316,"Zurich, Switzerland"
-e1317,"Zurich, Switzerland"
-e1318,"Zurich, Switzerland"
-e1319,"Zurich, Switzerland"
-e1319,"Museum Rietberg, Zurich, Switzerland"
-e1320,"Zurich, Switzerland"
-e1320,"Museum of Contemporary Art, Zurich, Switzerland"
-e1320,Löwenbräu area
-e1321,"Zurich, Switzerland"
-e1321,"Haus Konstruktiv, Zurich, Switzerland"
-e1322,"Zurich, Switzerland"
-e1323,"Zurich, Switzerland"
-e1324,"Zurich, Switzerland"
-e1325,"Zurich, Switzerland"
-e1326,"Zurich, Switzerland"
-e1327,"Zurich, Switzerland"
-e1328,"Zurich, Switzerland"
-e1329,"Zurich, Switzerland"
-e1330,"Zurich, Switzerland"
-e1331,"Zurich, Switzerland"
-e1332,"Zurich, Switzerland"
-e1333,"Zurich, Switzerland"
-e1334,"Zurich, Switzerland"
-e1335,"Zurich, Switzerland"
-e1336,"Zurich, Switzerland"
-e1337,"Zurich, Switzerland"
-e1338,"Zurich, Switzerland"
-e1339,"Zurich, Switzerland"
-e1340,"Zurich, Switzerland"
-e1341,"Zurich, Switzerland"
-e1342,"Zurich, Switzerland"
-e1343,"Zurich, Switzerland"
-e1344,"Zurich, Switzerland"
-e1345,"Zurich, Switzerland"
-e1346,"Zurich, Switzerland"
-e1347,"Zurich, Switzerland"
-e1348,"Zurich, Switzerland"
-e1349,"Zurich, Switzerland"
-e1350,"Zurich, Switzerland"
-e1351,cantonal
-e1352,cantonal
-e1353,cantonal
-e1354,cantonal
-e1355,cantonal
-e1356,cantonal
-e1357,cantonal
-e1358,cantonal
-e1359,cantonal
-e1360,cantonal
-e1386,"Zurich, Switzerland"
-e1387,"Zurich, Switzerland"
-e1388,"Zurich, Switzerland"
-e1389,"Zurich, Switzerland"
-e1390,"Zurich, Switzerland"
-e1391,"Zurich, Switzerland"
-e1392,"Zurich, Switzerland"
-e1393,"Zurich, Switzerland"
-e1394,"Zurich, Switzerland"
-e1395,"Zurich, Switzerland"
-e1396,Catholic
-e1397,Catholic
-e1398,Catholic
-e1399,Catholic
-e1400,Catholic
-e1401,Catholic
-e1402,Catholic
-e1403,Catholic
-e1404,Catholic
-e1405,Catholic
-e1416,Switzerland
-e1417,Switzerland
-e1418,Switzerland
-e1419,Switzerland
-e1420,Switzerland
-e1421,Switzerland
-e1422,Switzerland
-e1423,Switzerland
-e1424,Switzerland
-e1425,Switzerland
-e1426,"Zurich, Switzerland"
-e1427,"Zurich, Switzerland"
-e1428,"Zurich, Switzerland"
-e1429,"Zurich, Switzerland"
-e1430,"Zurich, Switzerland"
-e1431,"Zurich, Switzerland"
-e1432,"Zurich, Switzerland"
-e1433,"Zurich, Switzerland"
-e1434,"Zurich, Switzerland"
-e1435,"Zurich, Switzerland"
-e1436,"Zurich, Switzerland"
-e1437,Bäckerstrasse
-e1437,"Zurich, Switzerland"
-e1438,"Zurich, Switzerland"
-e1439,"Zurich, Switzerland"
-e1440,"Zurich, Switzerland"
-e1441,"Brunnenhof, Zurich, Switzerland"
-e1442,"Aussersihl, Zurich, Switzerland"
-e1443,"Central Library Zurich, Zurich, Switzerland"
-e1444,"Zurich, Switzerland"
-e1445,"Zurich, Switzerland"
-e1445,"Museum of Design Zurich, Zurich, Switzerland"
-e1445,"Zurich University of the Arts, Zurich, Switzerland"
-e1446,"Zurich, Switzerland"
-e1446,Schanzengraben near the Botanical Garden of the University
-e1447,"Zurich, Switzerland"
-e1448,"Zurich, Switzerland"
-e1450,"Zurich, Switzerland"
