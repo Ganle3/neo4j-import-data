@@ -1,9 +1,9 @@
 type
-count
 money
 area
-duration
-elevation
 distance
-percentage
 other
+elevation
+percentage
+duration
+count
