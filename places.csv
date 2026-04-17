@@ -1,676 +1,220 @@
-place_id,name,location_raw,location_normalized
-place_zurich_switzerland,"Zurich, Switzerland",Zurich,"Zurich, Switzerland"
-place_oerlikon_zurich_switzerland,"Oerlikon, Zurich, Switzerland",Oerlikon,"Oerlikon, Zurich, Switzerland"
-place_albisrieden_zurich_switzerland,"Albisrieden, Zurich, Switzerland",Albisrieden,"Albisrieden, Zurich, Switzerland"
-place_altstetten_zurich_switzerland,"Altstetten, Zurich, Switzerland",Altstetten,"Altstetten, Zurich, Switzerland"
-place_schlieren_zurich_switzerland,"Schlieren, Zurich, Switzerland",Schlieren,"Schlieren, Zurich, Switzerland"
-place_dietikon_zurich_switzerland,"Dietikon, Zurich, Switzerland",Dietikon,"Dietikon, Zurich, Switzerland"
-place_chur_switzerland,"Chur, Switzerland",Chur,"Chur, Switzerland"
-place_arlberg_austria,"Arlberg, Austria",Arlberg,"Arlberg, Austria"
-place_baden_switzerland,"Baden, Switzerland",Baden,"Baden, Switzerland"
-place_basel_switzerland,"Basel, Switzerland",Basel,"Basel, Switzerland"
-place_affoltern_zug,Affoltern-Zug,Affoltern-Zug,
-place_schaffhausen_switzerland,"Schaffhausen, Switzerland",Schaffhausen,"Schaffhausen, Switzerland"
-place_romanshorn_switzerland,"Romanshorn, Switzerland",Romanshorn,"Romanshorn, Switzerland"
-place_st_gallen_switzerland,"St. Gallen, Switzerland",St. Gallen,"St. Gallen, Switzerland"
-place_glatt_valley,Glatt valley,Glatt valley,
-place_sihl_valley_railway,Sihl Valley Railway,Sihl Valley Railway,
-place_limmat_valley_tramway,Limmat Valley tramway,Limmat Valley tramway,
-place_weiningen_switzerland,"Weiningen, Switzerland",Weiningen,"Weiningen, Switzerland"
-place_zurich_hoengg,Zurich-Hoengg,Zurich-Hoengg,
-place_zurich_oerlikon_seebach,Zurich-Oerlikon-Seebach,Zurich-Oerlikon-Seebach,
-place_uetliberg_zurich_switzerland,"Uetliberg, Zurich, Switzerland",Uetliberg,"Uetliberg, Zurich, Switzerland"
-place_zurichberg_zurich_switzerland,"Zurichberg, Zurich, Switzerland",Zurichberg,"Zurichberg, Zurich, Switzerland"
-place_limmat_switzerland,"Limmat, Switzerland",Limmat,"Limmat, Switzerland"
-place_baldern_zurich_switzerland,"Baldern, Zurich, Switzerland",Baldern,"Baldern, Zurich, Switzerland"
-place_leimbach_zurich_switzerland,"Leimbach, Zurich, Switzerland",former municipality of Leimbach,"Leimbach, Zurich, Switzerland"
-place_sihl_river_zurich_switzerland,"Sihl River, Zurich, Switzerland",Sihl,"Sihl River, Zurich, Switzerland"
-place_etlisberg_zurich_switzerland,"Etlisberg, Zurich, Switzerland",Etlisberg,"Etlisberg, Zurich, Switzerland"
-place_wollishofen_zurich_switzerland,"Wollishofen, Zurich, Switzerland",Wollishofen,"Wollishofen, Zurich, Switzerland"
-place_mönchhof,Mönchhof,Mönchhof,
-place_lake_zurich_switzerland,"Lake Zurich, Switzerland",lake,"Lake Zurich, Switzerland"
-place_burghölzli_psychiatric_hospital_zurich_switzerland,"Burghölzli Psychiatric Hospital, Zurich, Switzerland",Burghölzli psychiatric hospital,"Burghölzli Psychiatric Hospital, Zurich, Switzerland"
-place_realp,Realp,Realp,
-place_wehrenbach_zurich_switzerland,"Wehrenbach, Zurich, Switzerland",Wehrenbach,"Wehrenbach, Zurich, Switzerland"
-place_elefantenbach_zurich_switzerland,"Elefantenbach, Zurich, Switzerland",Elefantenbach,"Elefantenbach, Zurich, Switzerland"
-place_loorenkopf_zurich_switzerland,"Loorenkopf, Zurich, Switzerland",Loorenkopf,"Loorenkopf, Zurich, Switzerland"
-place_glatt_valley_zurich_switzerland,"Glatt Valley, Zurich, Switzerland",Glatt valley,"Glatt Valley, Zurich, Switzerland"
-place_käferberg_zurich_switzerland,"Käferberg, Zurich, Switzerland",Käferberg,"Käferberg, Zurich, Switzerland"
-place_milchbuck_zurich_switzerland,"Milchbuck, Zurich, Switzerland",Milchbuck,"Milchbuck, Zurich, Switzerland"
-place_hardturm,Hardturm,Hardturm,
-place_hoengger_bridge,Hoengger bridge,Hoengger bridge,
-place_triemli,Triemli,Triemli,
-place_döltschi,Döltschi,Döltschi,
-place_uto,Uto,Uto,
-place_hotel_uetliberg,Hotel Uetliberg,Hotel Uetliberg,
-place_enge_zurich_switzerland,"Enge, Zurich, Switzerland",Enge,"Enge, Zurich, Switzerland"
-place_wiedikon_zurich_switzerland,"Wiedikon, Zurich, Switzerland",Wiedikon,"Wiedikon, Zurich, Switzerland"
-place_aussersihl_zurich_switzerland,"Aussersihl, Zurich, Switzerland",Aussersihl,"Aussersihl, Zurich, Switzerland"
-place_wipkingen_zurich_switzerland,"Wipkingen, Zurich, Switzerland",Wipkingen,"Wipkingen, Zurich, Switzerland"
-place_unterstrass_zurich_switzerland,"Unterstrass, Zurich, Switzerland",Unterstrass,"Unterstrass, Zurich, Switzerland"
-place_oberstrass_zurich_switzerland,"Oberstrass, Zurich, Switzerland",Oberstrass,"Oberstrass, Zurich, Switzerland"
-place_fluntern_zurich_switzerland,"Fluntern, Zurich, Switzerland",Fluntern,"Fluntern, Zurich, Switzerland"
-place_hottingen_zurich_switzerland,"Hottingen, Zurich, Switzerland",Hottingen,"Hottingen, Zurich, Switzerland"
-place_hirslanden_zurich_switzerland,"Hirslanden, Zurich, Switzerland",Hirslanden,"Hirslanden, Zurich, Switzerland"
-place_riesbach_zurich_switzerland,"Riesbach, Zurich, Switzerland",Riesbach,"Riesbach, Zurich, Switzerland"
-place_zurichhorn_zurich_switzerland,"Zurichhorn, Zurich, Switzerland",Zurichhorn,"Zurichhorn, Zurich, Switzerland"
-place_hornbach,Hornbach,Hornbach,
-place_belvoirpark_zurich_switzerland,"Belvoirpark, Zurich, Switzerland",Belvoirpark,"Belvoirpark, Zurich, Switzerland"
-place_hirslanderberg,Hirslanderberg,Hirslanderberg,
-place_rigiquartier,Rigiquartier,Rigiquartier,
-place_the_lake,the lake,the lake,
-place_sihl_zurich_switzerland,"Sihl, Zurich, Switzerland",the Sihl,"Sihl, Zurich, Switzerland"
-place_grossmünster_zurich_switzerland,"Grossmünster, Zurich, Switzerland",Grossmünster towers,"Grossmünster, Zurich, Switzerland"
-place_fraumünster_zurich_switzerland,"Fraumünster, Zurich, Switzerland",Fraumünster spire,"Fraumünster, Zurich, Switzerland"
-place_tonhalle_zurich_switzerland,"Tonhalle, Zurich, Switzerland",Tonhalle,"Tonhalle, Zurich, Switzerland"
-place_red_and_white_castles,Red and White Castles,Red and White Castles,
-place_rentenanstalt_zurich_switzerland,"Rentenanstalt, Zurich, Switzerland",Rentenanstalt,"Rentenanstalt, Zurich, Switzerland"
-place_unfall_zürich_zurich_switzerland,"Unfall Zürich, Zurich, Switzerland",Unfall Zürich,"Unfall Zürich, Zurich, Switzerland"
-place_city_theatre,city theatre,city theatre,
-place_uetliberg_castle_zurich_switzerland,"Uetliberg Castle, Zurich, Switzerland",Uto castle,"Uetliberg Castle, Zurich, Switzerland"
-place_limmat_zurich_switzerland,"Limmat, Zurich, Switzerland",Limmat,"Limmat, Zurich, Switzerland"
-place_quaibrücke_zurich_switzerland,"Quaibrücke, Zurich, Switzerland",Quaibrücke,"Quaibrücke, Zurich, Switzerland"
-place_st_peter_s_church_zurich_switzerland,"St. Peter's Church, Zurich, Switzerland",St. Peter's tower,"St. Peter's Church, Zurich, Switzerland"
-place_urania_sternwarte_zurich_switzerland,"Urania Sternwarte, Zurich, Switzerland",Urania tower,"Urania Sternwarte, Zurich, Switzerland"
-place_lakeside_edge,lakeside edge,lakeside edge,
-place_lake,lake,lake,
-place_both_lake_shores,both lake shores,both lake shores,
-place_the_valley,the valley,the valley,
-place_the_moraine_ridge,the moraine ridge,the moraine ridge,
-place_the_higher_mountains_east_and_west,the higher mountains east and west,the higher mountains east and west,
-place_baden_aargau_switzerland,"Baden, Aargau, Switzerland",Baden,"Baden, Aargau, Switzerland"
-place_winterthur_switzerland,"Winterthur, Switzerland",Winterthur,"Winterthur, Switzerland"
-place_romanshorn_frauenfeld,Romanshorn-Frauenfeld,Romanshorn-Frauenfeld,
-place_singen_etzwilen,Singen-Etzwilen,Singen-Etzwilen,
-place_right_and_left_lake_shores,right and left lake shores,right and left lake shores,
-place_glarus_switzerland,"Glarus, Switzerland",Glarus region,"Glarus, Switzerland"
-place_graubünden_switzerland,"Graubünden, Switzerland",canton of Graubünden,"Graubünden, Switzerland"
-place_wädenswil_einsiedeln,Wädenswil-Einsiedeln,Wädenswil-Einsiedeln,
-place_ricken_toggenburg,Ricken-Toggenburg,Ricken-Toggenburg,
-place_lucerne_zug_gotthard,Lucerne-Zug (Gotthard),Lucerne-Zug (Gotthard),
-place_basel_brugg,Basel-Brugg,Basel-Brugg,
-place_western_switzerland_aarau_brugg,western Switzerland-Aarau-Brugg,western Switzerland-Aarau-Brugg,
-place_old_town_zurich_switzerland,"Old Town, Zurich, Switzerland",old town,"Old Town, Zurich, Switzerland"
-place_lake_zurich_zurich_switzerland,"Lake Zurich, Zurich, Switzerland",lake,"Lake Zurich, Zurich, Switzerland"
-place_schanzengraben_zurich_switzerland,"Schanzengraben, Zurich, Switzerland",Schanzengraben,"Schanzengraben, Zurich, Switzerland"
-place_seilergraben_hirschengraben,Seilergraben-Hirschengraben,Seilergraben-Hirschengraben,
-place_bürkliplatz_zurich_switzerland,"Bürkliplatz, Zurich, Switzerland",Bürkliplatz,"Bürkliplatz, Zurich, Switzerland"
-place_bahnhofstrasse_zurich_switzerland,"Bahnhofstrasse, Zurich, Switzerland",Bahnhofstrasse,"Bahnhofstrasse, Zurich, Switzerland"
-place_zollikon_zurich_switzerland,"Zollikon, Zurich, Switzerland",Zollikon,"Zollikon, Zurich, Switzerland"
-place_glärnisch_glarus_switzerland,"Glärnisch, Glarus, Switzerland",Glärnisch,"Glärnisch, Glarus, Switzerland"
-place_vrenelisgärtli_glarus_switzerland,"Vrenelisgärtli, Glarus, Switzerland",Vrenelisgärtli,"Vrenelisgärtli, Glarus, Switzerland"
-place_bächistock_glarus_switzerland,"Bächistock, Glarus, Switzerland",Bächistock,"Bächistock, Glarus, Switzerland"
-place_faulen,Faulen,Faulen,
-place_drusberg_canton_of_zurich_switzerland,"Drusberg, Canton of Zurich, Switzerland",Drusberg,"Drusberg, Canton of Zurich, Switzerland"
-place_sihl_valley_zurich_switzerland,"Sihl Valley, Zurich, Switzerland",upper Sihl valley,"Sihl Valley, Zurich, Switzerland"
-place_bifertenstock_glarus_switzerland,"Bifertenstock, Glarus, Switzerland",Bifertenstock,"Bifertenstock, Glarus, Switzerland"
-place_tödi_glarus_switzerland,"Tödi, Glarus, Switzerland",Tödi,"Tödi, Glarus, Switzerland"
-place_klariden_glarus_switzerland,"Klariden, Glarus, Switzerland",Klariden,"Klariden, Glarus, Switzerland"
-place_scheerhorn_glarus_switzerland,"Scheerhorn, Glarus, Switzerland",Scheerhorn,"Scheerhorn, Glarus, Switzerland"
-place_düssistock_glarus_switzerland,"Düssistock, Glarus, Switzerland",Düssistock,"Düssistock, Glarus, Switzerland"
-place_mythen_schwyz_switzerland,"Mythen, Schwyz, Switzerland",Mythen,"Mythen, Schwyz, Switzerland"
-place_windgällen_uri_switzerland,"Windgällen, Uri, Switzerland",Windgällen,"Windgällen, Uri, Switzerland"
-place_kleinen_windgälle_uri_switzerland,"Kleinen Windgälle, Uri, Switzerland",Kleinen Windgälle,"Kleinen Windgälle, Uri, Switzerland"
-place_kaiserstock_uri_switzerland,"Kaiserstock, Uri, Switzerland",Kaiserstock,"Kaiserstock, Uri, Switzerland"
-place_rossberg_uri_switzerland,"Rossberg, Uri, Switzerland",Rossberg,"Rossberg, Uri, Switzerland"
-place_bristenstock_uri_switzerland,"Bristenstock, Uri, Switzerland",Bristenstock,"Bristenstock, Uri, Switzerland"
-place_western_urnäsch,western Urnäsch,western Urnäsch,
-place_urirotstock,Urirotstock,Urirotstock,
-place_schlossstock,Schlossstock,Schlossstock,
-place_wissig,Wissig,Wissig,
-place_hohen_ronen,Hohen Ronen,Hohen Ronen,
-place_gottschalkenberg,Gottschalkenberg,Gottschalkenberg,
-place_sihlwald_canton_of_zurich_switzerland,"Sihlwald, Canton of Zurich, Switzerland",Sihlwald,"Sihlwald, Canton of Zurich, Switzerland"
-place_albis_canton_of_zurich_switzerland,"Albis, Canton of Zurich, Switzerland",Albis slope,"Albis, Canton of Zurich, Switzerland"
-place_zimmerberg_canton_of_zurich_switzerland,"Zimmerberg, Canton of Zurich, Switzerland",Zimmerberg,"Zimmerberg, Canton of Zurich, Switzerland"
-place_hütten_canton_of_zurich_switzerland,"Hütten, Canton of Zurich, Switzerland",Hütten,"Hütten, Canton of Zurich, Switzerland"
-place_schindellegi_canton_of_zurich_switzerland,"Schindellegi, Canton of Zurich, Switzerland",Schindellegi,"Schindellegi, Canton of Zurich, Switzerland"
-place_lake_zurich_canton_of_zurich_switzerland,"Lake Zurich, Canton of Zurich, Switzerland",lake,"Lake Zurich, Canton of Zurich, Switzerland"
-place_quaibrücke_zürich_switzerland,"Quaibrücke, Zürich, Switzerland",Quaibrücke,"Quaibrücke, Zürich, Switzerland"
-place_limmat_zürich_switzerland,"Limmat, Zürich, Switzerland",Limmat,"Limmat, Zürich, Switzerland"
-place_zwingli_monument_zürich_switzerland,"Zwingli Monument, Zürich, Switzerland",Zwingli monument,"Zwingli Monument, Zürich, Switzerland"
-place_wasserkirche_zürich_switzerland,"Wasserkirche, Zürich, Switzerland",Wasserkirche,"Wasserkirche, Zürich, Switzerland"
-place_helmhaus_zürich_switzerland,"Helmhaus, Zürich, Switzerland",Helmhaus,"Helmhaus, Zürich, Switzerland"
-place_münsterbrücke_zürich_switzerland,"Münsterbrücke, Zürich, Switzerland",Münsterbrücke,"Münsterbrücke, Zürich, Switzerland"
-place_grossmünster_zürich_switzerland,"Grossmünster, Zürich, Switzerland",Grossmünster,"Grossmünster, Zürich, Switzerland"
-place_cloister_upper_daughters_school,cloister (upper daughters' school),cloister (upper daughters' school),
-place_limmatquai_zurich_switzerland,"Limmatquai, Zurich, Switzerland",Limmatquai,"Limmatquai, Zurich, Switzerland"
-place_town_hall_zurich_switzerland,"Town Hall, Zurich, Switzerland",town hall,"Town Hall, Zurich, Switzerland"
-place_münsterbrücke_zurich_switzerland,"Münsterbrücke, Zurich, Switzerland",Münsterbrücke,"Münsterbrücke, Zurich, Switzerland"
-place_walenstadt_st_gallen_switzerland,"Walenstadt, St. Gallen, Switzerland",Wallenstadtsee,"Walenstadt, St. Gallen, Switzerland"
-place_gotthard_pass_switzerland,"Gotthard Pass, Switzerland",Gotthard,"Gotthard Pass, Switzerland"
-place_mellingen_aargau_switzerland,"Mellingen, Aargau, Switzerland",Mellingen,"Mellingen, Aargau, Switzerland"
-place_quay,quay,quay,
-place_fleischhalle_zurich_switzerland,"Fleischhalle, Zurich, Switzerland",Fleischhalle,"Fleischhalle, Zurich, Switzerland"
-place_gemüsebrücke_zurich_switzerland,"Gemüsebrücke, Zurich, Switzerland",Gemüsebrücke,"Gemüsebrücke, Zurich, Switzerland"
-place_marktgasse_zurich_switzerland,"Marktgasse, Zurich, Switzerland",Marktgasse,"Marktgasse, Zurich, Switzerland"
-place_guild_house_zur_schmieden_zurich_switzerland,"Guild house zur Schmieden, Zurich, Switzerland",zur Schmieden,"Guild house zur Schmieden, Zurich, Switzerland"
-place_rindermarkt_zurich_switzerland,"Rindermarkt, Zurich, Switzerland",Rindermarkt,"Rindermarkt, Zurich, Switzerland"
-place_stüssihofstatt_zurich_switzerland,"Stüssihofstatt, Zurich, Switzerland",Stüssihofstatt,"Stüssihofstatt, Zurich, Switzerland"
-place_niederdorf_zurich_switzerland,"Niederdorf, Zurich, Switzerland",Niederdorf,"Niederdorf, Zurich, Switzerland"
-place_leonhardplatz_zurich_switzerland,"Leonhardplatz, Zurich, Switzerland",Leonhardplatz,"Leonhardplatz, Zurich, Switzerland"
-place_bahnhofbrücke_zurich_switzerland,"Bahnhofbrücke, Zurich, Switzerland",Bahnhofbrücke,"Bahnhofbrücke, Zurich, Switzerland"
-place_limmat,Limmat,Limmat,
-place_sihl,Sihl,Sihl,
-place_zurich_hauptbahnhof_zurich_switzerland,"Zurich Hauptbahnhof, Zurich, Switzerland",Zurich station,"Zurich Hauptbahnhof, Zurich, Switzerland"
-place_plaza_promenade_behind_the_station,plaza promenade behind the station,plaza promenade behind the station,
-place_swiss_national_museum_zurich_switzerland,"Swiss National Museum, Zurich, Switzerland",National Museum,"Swiss National Museum, Zurich, Switzerland"
-place_confluence_of_limmat_and_sihl_zurich_switzerland,"Confluence of Limmat and Sihl, Zurich, Switzerland",confluence of the Limmat and Sihl,"Confluence of Limmat and Sihl, Zurich, Switzerland"
-place_station,station,station,
-place_right_bank_zurich_switzerland,"Right Bank, Zurich, Switzerland",right bank,"Right Bank, Zurich, Switzerland"
-place_oetenbach_zurich_switzerland,"Oetenbach, Zurich, Switzerland",moraine hill quarter of Oetenbach,"Oetenbach, Zurich, Switzerland"
-place_rennweg_zurich_switzerland,"Rennweg, Zurich, Switzerland",Rennweg,"Rennweg, Zurich, Switzerland"
-place_lindenhof_zurich_switzerland,"Lindenhof, Zurich, Switzerland",Lindenhof,"Lindenhof, Zurich, Switzerland"
-place_strohhof_zurich_switzerland,"Strohhof, Zurich, Switzerland",Strohhof,"Strohhof, Zurich, Switzerland"
-place_st_anna_zurich_switzerland,"St. Anna, Zurich, Switzerland",St. Anna,"St. Anna, Zurich, Switzerland"
-place_katz_botanical_garden_zurich_switzerland,"Katz Botanical Garden, Zurich, Switzerland",Katz (botanical garden),"Katz Botanical Garden, Zurich, Switzerland"
-place_paradeplatz_zurich_switzerland,"Paradeplatz, Zurich, Switzerland",Paradeplatz,"Paradeplatz, Zurich, Switzerland"
-place_linth_escher_school_zurich_switzerland,"Linth-Escher School, Zurich, Switzerland",Linth Escher school,"Linth-Escher School, Zurich, Switzerland"
-place_pestalozzi_memorial_zurich_switzerland,"Pestalozzi Memorial, Zurich, Switzerland",Pestalozzi memorial,"Pestalozzi Memorial, Zurich, Switzerland"
-place_central_and_kappelerhof,central and Kappelerhof,central and Kappelerhof,
-place_zurich_stock_exchange_zurich_switzerland,"Zurich Stock Exchange, Zurich, Switzerland",stock exchange,"Zurich Stock Exchange, Zurich, Switzerland"
-place_swiss_bankers_association_zurich_switzerland,"Swiss Bankers Association, Zurich, Switzerland",Swiss Bank Association,"Swiss Bankers Association, Zurich, Switzerland"
-place_swiss_credit_institution,Swiss Credit Institution,Swiss Credit Institution,
-place_bank_leu_zurich_switzerland,"Bank Leu, Zurich, Switzerland",Bank Leu,"Bank Leu, Zurich, Switzerland"
-place_zurich_cantonal_bank_zurich_switzerland,"Zurich Cantonal Bank, Zurich, Switzerland",Zurich Cantonal Bank,"Zurich Cantonal Bank, Zurich, Switzerland"
-place_federal_bank,federal bank,federal bank,
-place_swiss_people_s_bank,Swiss People's Bank,Swiss People's Bank,
-place_augustinergasse_zurich_switzerland,"Augustinergasse, Zurich, Switzerland",Augustinergasse,"Augustinergasse, Zurich, Switzerland"
-place_alpenquai_zurich_switzerland,"Alpenquai, Zurich, Switzerland",Alpenquai,"Alpenquai, Zurich, Switzerland"
-place_linth_glacier_switzerland,"Linth Glacier, Switzerland",Linth glacier,"Linth Glacier, Switzerland"
-place_walensee_switzerland,"Walensee, Switzerland",Walensee,"Walensee, Switzerland"
-place_speer_switzerland,"Speer, Switzerland",Speer,"Speer, Switzerland"
-place_glärnisch_switzerland,"Glärnisch, Switzerland",Glärnisch,"Glärnisch, Switzerland"
-place_zurich_trocadero_zurich_switzerland,"Zurich Trocadero, Zurich, Switzerland",Zurich Trocadero,"Zurich Trocadero, Zurich, Switzerland"
-place_red_castle,Red Castle,Red Castle,
-place_white_castle,White Castle,White Castle,
-place_building_of_the_swiss_pension_institution,building of the Swiss pension institution,building of the Swiss pension institution,
-place_gabler,Gabler,Gabler,
-place_bürgli,Bürgli,Bürgli,
-place_outer_moraine_parallel_ridge_beyond_waffenplatzstrasse,outer moraine parallel ridge beyond Waffenplatzstrasse,outer moraine parallel ridge beyond Waffenplatzstrasse,
-place_waffenplatzstrasse,Waffenplatzstrasse,Waffenplatzstrasse,
-place_zimmerberg_zurich_switzerland,"Zimmerberg, Zurich, Switzerland",Zimmerberg,"Zimmerberg, Zurich, Switzerland"
-place_albiskette_zurich_switzerland,"Albiskette, Zurich, Switzerland",Albiskette,"Albiskette, Zurich, Switzerland"
-place_commons_the_federal_weapons_place_of_the_city,commons (the federal weapons place) of the city,commons (the federal weapons place) of the city,
-place_utoquai_bridge_zurich_switzerland,"Utoquai Bridge, Zurich, Switzerland",Uto bridge,"Utoquai Bridge, Zurich, Switzerland"
-place_albisgütli_zurich_switzerland,"Albisgütli, Zurich, Switzerland",Albisgütli shooting house,"Albisgütli, Zurich, Switzerland"
-place_theresienwiese_munich_germany,"Theresienwiese, Munich, Germany",Theresienwiese,"Theresienwiese, Munich, Germany"
-place_old_albisgütli,old Albisgütli,old Albisgütli,
-place_uetliberg_railway,Uetliberg railway,Uetliberg railway,
-place_large_brick_and_brickworks,large brick and brickworks,large brick and brickworks,
-place_large_clay_pits,large clay pits,large clay pits,
-place_industrial_district_zurich_switzerland,"Industrial district, Zurich, Switzerland",industrial city district,"Industrial district, Zurich, Switzerland"
-place_sihl_canal_zurich_switzerland,"Sihl Canal, Zurich, Switzerland",Sihl canal,"Sihl Canal, Zurich, Switzerland"
-place_sihlhölzli_zurich_switzerland,"Sihlhölzli, Zurich, Switzerland",Sihlhölzli,"Sihlhölzli, Zurich, Switzerland"
-place_bühl_schools,Bühl schools,Bühl schools,
-place_left_bank_lake_railway,left-bank lake railway,left-bank lake railway,
-place_zurich_main_station_zurich_switzerland,"Zurich main station, Zurich, Switzerland",main station,"Zurich main station, Zurich, Switzerland"
-place_stauffacher_bridge_zurich_switzerland,"Stauffacher Bridge, Zurich, Switzerland",Stauffacher bridge,"Stauffacher Bridge, Zurich, Switzerland"
-place_sihl_bridge_zurich_switzerland,"Sihl Bridge, Zurich, Switzerland",Sihl bridge,"Sihl Bridge, Zurich, Switzerland"
-place_badenerstrasse_zurich_switzerland,"Badenerstrasse, Zurich, Switzerland",Badenerstrasse,"Badenerstrasse, Zurich, Switzerland"
-place_st_jakob_church_zurich_switzerland,"St. Jakob Church, Zurich, Switzerland",St. Jakob's church,"St. Jakob Church, Zurich, Switzerland"
-place_barracks_area_with_arsenal,barracks area with arsenal,barracks area with arsenal,
-place_langstrasse_zurich_switzerland,"Langstrasse, Zurich, Switzerland",Langstrasse,"Langstrasse, Zurich, Switzerland"
-place_limmatplatz_zurich_switzerland,"Limmatplatz, Zurich, Switzerland",Limmatplatz,"Limmatplatz, Zurich, Switzerland"
-place_industrial_district_north_of_the_railway,industrial district north of the railway,industrial district north of the railway,
-place_st_john_s_church,St. John’s church,St. John’s church,
-place_right_lake_shore,right lake shore,right lake shore,
-place_lettentunnel_at_stadelhofen,Lettentunnel at Stadelhofen,Lettentunnel at Stadelhofen,
-place_sihlquai_zurich_switzerland,"Sihlquai, Zurich, Switzerland",left Sihl bank (Sihlquai),"Sihlquai, Zurich, Switzerland"
-place_escher_wyss_co,Escher-Wyss & Co.,Escher-Wyss & Co.,
-place_steinfels_soap_factory,Steinfels soap factory,Steinfels soap factory,
-place_joint_stock_brewery,joint-stock brewery,joint-stock brewery,
-place_city_mill,city mill,city mill,
-place_letten_station_zurich_switzerland,"Letten station, Zurich, Switzerland",Letten station,"Letten station, Zurich, Switzerland"
-place_former_gasworks,former gasworks,former gasworks,
-place_wipkinger_bridge_zurich_switzerland,"Wipkinger Bridge, Zurich, Switzerland",Wipkinger bridge,"Wipkinger Bridge, Zurich, Switzerland"
-place_limmat_valley_zurich_switzerland,"Limmat Valley, Zurich, Switzerland",Limmat valley,"Limmat Valley, Zurich, Switzerland"
-place_höngg_zurich_switzerland,"Höngg, Zurich, Switzerland",village of Hoengg,"Höngg, Zurich, Switzerland"
-place_right_bank_of_limmat_zurich_switzerland,"Right bank of Limmat, Zurich, Switzerland",right Limmat bank,"Right bank of Limmat, Zurich, Switzerland"
-place_district_4_zurich_switzerland,"District 4, Zurich, Switzerland",fourth city district,"District 4, Zurich, Switzerland"
-place_röschibachstrasse_zurich_switzerland,"Röschibachstrasse, Zurich, Switzerland",Röschibachstrasse,"Röschibachstrasse, Zurich, Switzerland"
-place_nordstrasse_zurich_switzerland,"Nordstrasse, Zurich, Switzerland",Nordstrasse,"Nordstrasse, Zurich, Switzerland"
-place_rotbuchstrasse_zurich_switzerland,"Rotbuchstrasse, Zurich, Switzerland",Rotbuchstrasse,"Rotbuchstrasse, Zurich, Switzerland"
-place_rötel,Rötel,Rötel,
-place_oerlikon_seebacher_tramway,Oerlikon-Seebacher tramway,Oerlikon-Seebacher tramway,
-place_weinbergstrasse_zurich_switzerland,"Weinbergstrasse, Zurich, Switzerland",Weinbergstrasse,"Weinbergstrasse, Zurich, Switzerland"
-place_leonhardsplatz_zurich_switzerland,"Leonhardsplatz, Zurich, Switzerland",Leonhardsplatz,"Leonhardsplatz, Zurich, Switzerland"
-place_the_church,the church,the church,
-place_the_schools,the schools,the schools,
-place_riedlistrasse,Riedlistrasse,Riedlistrasse,
-place_höhenstrasse,Höhenstrasse,Höhenstrasse,
-place_rigi_quarter,Rigi quarter,Rigi quarter,
-place_limmat_river_switzerland,"Limmat River, Switzerland",Limmat,"Limmat River, Switzerland"
-place_sihl_river_switzerland,"Sihl River, Switzerland",Sihl,"Sihl River, Switzerland"
-place_universities_zurich_switzerland,"Universities, Zurich, Switzerland",cantonal and federal universities,"Universities, Zurich, Switzerland"
-place_eth_zurich_zurich_switzerland,"ETH Zurich, Zurich, Switzerland",Swiss Federal Polytechnic School,"ETH Zurich, Zurich, Switzerland"
-place_university_complex,university complex,university complex,
-place_university_of_zurich_zurich_switzerland,"University of Zurich, Zurich, Switzerland",University,"University of Zurich, Zurich, Switzerland"
-place_old_chemical_laboratory_hygienic_institute,old chemical laboratory (hygienic institute),old chemical laboratory (hygienic institute),
-place_federal_materials_testing_institute,federal materials testing institute,federal materials testing institute,
-place_federal_testing_institute_for_fuels,federal testing institute for fuels,federal testing institute for fuels,
-place_federal_machine_laboratory,federal machine laboratory,federal machine laboratory,
-place_federal_chemical_laboratories,federal chemical laboratories,federal chemical laboratories,
-place_swiss_agricultural_chemical_institute_and_seed_control_station,Swiss agricultural chemical institute and seed control station,Swiss agricultural chemical institute and seed control station,
-place_federal_central_office_for_forestry_research,federal central office for forestry research,federal central office for forestry research,
-place_agricultural_and_forestry_school,agricultural and forestry school,agricultural and forestry school,
-place_federal_observatory,federal observatory,federal observatory,
-place_federal_physics_building,federal physics building,federal physics building,
-place_swiss_meteorological_central_institute,Swiss meteorological central institute,Swiss meteorological central institute,
-place_cantonal_hospital,cantonal hospital,cantonal hospital,
-place_laboratory_of_the_cantonal_chemist_and_dental_polyclinic,laboratory of the cantonal chemist and dental polyclinic,laboratory of the cantonal chemist and dental polyclinic,
-place_anatomy,anatomy,anatomy,
-place_isolation_hospital,isolation hospital,isolation hospital,
-place_pathological_institute,pathological institute,pathological institute,
-place_eye_clinic,eye clinic,eye clinic,
-place_blind_and_deaf_mute_institute,blind and deaf-mute institute,blind and deaf-mute institute,
-place_cantonal_physics_and_physiology_building,cantonal physics and physiology building,cantonal physics and physiology building,
-place_cantonal_chemical_laboratories_of_the_university,cantonal chemical laboratories of the University,cantonal chemical laboratories of the University,
-place_new_cantonal_school_building,new cantonal school building,new cantonal school building,
-place_old_cantonal_school_on_rämistrasse,old cantonal school on Rämistrasse,old cantonal school on Rämistrasse,
-place_wolfbach_schoolhouse,Wolfbach schoolhouse,Wolfbach schoolhouse,
-place_music_conservatory_in_florhofgasse,music conservatory in Florhofgasse,music conservatory in Florhofgasse,
-place_hirschengraben_schoolhouse,Hirschengraben schoolhouse,Hirschengraben schoolhouse,
-place_collegiate_building_at_rechberg,collegiate building at Rechberg,collegiate building at Rechberg,
-place_höhen_and_bergstrasse,Höhen- and Bergstrasse,Höhen- and Bergstrasse,
-place_dolder_forest_house_zurich_switzerland,"Dolder Forest House, Zurich, Switzerland",Dolder Forest House,"Dolder Forest House, Zurich, Switzerland"
-place_dolderpark_zurich_switzerland,"Dolderpark, Zurich, Switzerland",Dolderpark,"Dolderpark, Zurich, Switzerland"
-place_kreuzkirche_zurich_switzerland,"Kreuzkirche, Zurich, Switzerland",Kreuzkirche,"Kreuzkirche, Zurich, Switzerland"
-place_römerhof_zurich_switzerland,"Römerhof, Zurich, Switzerland",Römerhof,"Römerhof, Zurich, Switzerland"
-place_st_antonius_church_zurich_switzerland,"St. Antonius Church, Zurich, Switzerland",St. Antonius church,"St. Antonius Church, Zurich, Switzerland"
-place_bahnhof_stadelhofen_zurich_switzerland,"Bahnhof Stadelhofen, Zurich, Switzerland",Kreuzplatz-Bahnhof Stadelhofen,"Bahnhof Stadelhofen, Zurich, Switzerland"
-place_high_promenade_zurich_switzerland,"High Promenade, Zurich, Switzerland",High Promenade,"High Promenade, Zurich, Switzerland"
-place_nägeli_monument_zurich_switzerland,"Nägeli Monument, Zurich, Switzerland",Nägeli Monument,"Nägeli Monument, Zurich, Switzerland"
-place_french_and_english_churches,French and English churches,French and English churches,
-place_city_theater,city theater,city theater,
-place_old_theater_at_untern_zäune,old theater at Untern Zäune,old theater at Untern Zäune,
-place_corso_theater_zurich_switzerland,"Corso Theater, Zurich, Switzerland",Corso Theater,"Corso Theater, Zurich, Switzerland"
-place_tonhalleplatz_zurich_switzerland,"Tonhalleplatz, Zurich, Switzerland",old Tonhalle square,"Tonhalleplatz, Zurich, Switzerland"
-place_heimplatz_zurich_switzerland,"Heimplatz, Zurich, Switzerland",Heimplatz,"Heimplatz, Zurich, Switzerland"
-place_pfauen_theater_zurich_switzerland,"Pfauen Theater, Zurich, Switzerland",Pfauen Theater,"Pfauen Theater, Zurich, Switzerland"
-place_upper_court,upper court,upper court,
-place_obmann_office,Obmann office,Obmann office,
-place_botanical_garden,botanical garden,botanical garden,
-place_selnau_zurich_switzerland,"Selnau, Zurich, Switzerland",Selnau,"Selnau, Zurich, Switzerland"
-place_sihl_valley_railway_station,Sihl valley railway station,Sihl valley railway station,
-place_badenerstrasse,Badenerstrasse,Badenerstrasse,
-place_saint_jakob_s_church,Saint Jakob's Church,Saint Jakob's Church,
-place_peter_tower_zurich_switzerland,"Peter Tower, Zurich, Switzerland",Peter tower,"Peter Tower, Zurich, Switzerland"
-place_right_bank_of_limmat_river_zurich_switzerland,"Right bank of Limmat River, Zurich, Switzerland",right bank between the Limmat and Zäune-Neumarkt-Rindermarkt,"Right bank of Limmat River, Zurich, Switzerland"
-place_kirchgasse_zurich_switzerland,"Kirchgasse, Zurich, Switzerland",Kirchgasse,"Kirchgasse, Zurich, Switzerland"
-place_schipfe_zurich_switzerland,"Schipfe, Zurich, Switzerland",Schipfe,"Schipfe, Zurich, Switzerland"
-place_lower_zäune,lower Zäune,lower Zäune,
-place_lägern_dielsdorf_zurich_switzerland,"Lägern, Dielsdorf, Zurich, Switzerland",Dielsdorf Lägern,"Lägern, Dielsdorf, Zurich, Switzerland"
-place_solothurn_switzerland,"Solothurn, Switzerland",Solothurn,"Solothurn, Switzerland"
-place_black_forest_germany,"Black Forest, Germany",Black Forest,"Black Forest, Germany"
-place_albthal_black_forest_germany,"Albthal, Black Forest, Germany",Albthal,"Albthal, Black Forest, Germany"
-place_lake_langensee_ticino_switzerland,"Lake Langensee, Ticino, Switzerland",Lake Langensee,"Lake Langensee, Ticino, Switzerland"
-place_baveno_piedmont_italy,"Baveno, Piedmont, Italy",Baveno,"Baveno, Piedmont, Italy"
-place_gotthard_railway,Gotthard railway,Gotthard railway,
-place_savonnières_france,"Savonnières, France",Savonnières,"Savonnières, France"
-place_france,France,France,France
-place_zwingli_monument_zurich_switzerland,"Zwingli Monument, Zurich, Switzerland",Zwingli monument,"Zwingli Monument, Zurich, Switzerland"
-place_wasserkirche_zurich_switzerland,"Wasserkirche, Zurich, Switzerland",Wasserkirche,"Wasserkirche, Zurich, Switzerland"
-place_stadthausplatz_zurich_switzerland,"Stadthausplatz, Zurich, Switzerland",Stadthausplatz,"Stadthausplatz, Zurich, Switzerland"
-place_enge_park_zurich_switzerland,"Enge Park, Zurich, Switzerland",Enge park,"Enge Park, Zurich, Switzerland"
-place_resident_population,resident population,resident population,
-place_cologne_germany,"Cologne, Germany",Cologne,"Cologne, Germany"
-place_wrocław_poland,"Wrocław, Poland",Breslau,"Wrocław, Poland"
-place_dresden_germany,"Dresden, Germany",Dresden,"Dresden, Germany"
-place_nuremberg_germany,"Nuremberg, Germany",Nuremberg,"Nuremberg, Germany"
-place_district_i,District I,District I,
-place_gemüsemarkt,Gemüsemarkt,Gemüsemarkt,
-place_st_peter_s_church,St. Peter's Church,St. Peter's Church,
-place_inner_city,inner city,inner city,
-place_outer_districts,outer districts,outer districts,
-place_house_zum_schwert,house “zum Schwert”,house “zum Schwert”,
-place_three_mills,three mills,three mills,
-place_hardturm_bridge_zurich_switzerland,"Hardturm Bridge, Zurich, Switzerland",bridge at Hardturm,"Hardturm Bridge, Zurich, Switzerland"
-place_platzspitz_zurich_switzerland,"Platzspitz, Zurich, Switzerland",Platzspitz,"Platzspitz, Zurich, Switzerland"
-place_weinplatz_zurich_switzerland,"Weinplatz, Zurich, Switzerland",Weinplatz,"Weinplatz, Zurich, Switzerland"
-place_town_hall,town hall,town hall,
-place_lower_vegetable_bridge,lower (vegetable) bridge,lower (vegetable) bridge,
-place_winkelwies_on_the_geissberg,Winkelwies on the Geissberg,Winkelwies on the Geissberg,
-place_high_promenade_with_old_churchyard,"High Promenade, with old churchyard","High Promenade, with old churchyard",
-place_stadelhoferplatz_zurich_switzerland,"Stadelhoferplatz, Zurich, Switzerland",Stadelhoferplatz,"Stadelhoferplatz, Zurich, Switzerland"
-place_town_hall_facilities,town hall facilities,town hall facilities,
-place_large_quays_with_the_wonderful_quay_facilities,large quays with the wonderful quay facilities,large quays with the wonderful quay facilities,
-place_rotwand_area,Rotwand area,Rotwand area,
-place_city_alleys,city alleys,city alleys,
-place_hotel_parks_baur_au_lac_dolder,"hotel parks (Baur au Lac, Dolder)","hotel parks (Baur au Lac, Dolder)",
-place_forest_promenade_facilities_on_the_zurichberg_käferberg_and_uetliberg,"forest promenade facilities on the Zurichberg, Käferberg, and Uetliberg","forest promenade facilities on the Zurichberg, Käferberg, and Uetliberg",
-place_beautification_association_of_zurich_and_surroundings,Beautification Association of Zurich and Surroundings,Beautification Association of Zurich and Surroundings,
-place_manessebrünneli_uetliberg_zurich_switzerland,"Manessebrünneli, Uetliberg, Zurich, Switzerland",Manessebrünneli at Uetliberg,"Manessebrünneli, Uetliberg, Zurich, Switzerland"
-place_waldhüsli,Waldhüsli,Waldhüsli,
-place_elephant,Elephant,Elephant,
-place_grandmother_beech,Grandmother Beech,Grandmother Beech,
-place_battle_memorial_1799,Battle Memorial [1799],Battle Memorial [1799],
-place_sagentobel_zurich_switzerland,"Sagentobel, Zurich, Switzerland",Waterfall in Sagentobel,"Sagentobel, Zurich, Switzerland"
-place_stöckentobel_zurich_switzerland,"Stöckentobel, Zurich, Switzerland",Stöckentobel,"Stöckentobel, Zurich, Switzerland"
-place_weidberg_zurich_switzerland,"Weidberg, Zurich, Switzerland",Weidberg,"Weidberg, Zurich, Switzerland"
-place_black_forest_baden_württemberg_germany,"Black Forest, Baden-Württemberg, Germany",Black Forest,"Black Forest, Baden-Württemberg, Germany"
-place_vosges_grand_est_france,"Vosges, Grand Est, France",Vosges,"Vosges, Grand Est, France"
-place_aare_river_switzerland,"Aare River, Switzerland",Aare,"Aare River, Switzerland"
-place_jura_mountains_switzerland_france,"Jura Mountains, Switzerland/France",Jura,"Jura Mountains, Switzerland/France"
-place_hegau_volcanic_cones_of_hoherstoffel_and_hohentwiel,Hegau volcanic cones of Hoherstoffel and Hohentwiel,Hegau volcanic cones of Hoherstoffel and Hohentwiel,
-place_alps,Alps,Alps,Alps
-place_säntis_appenzell_ausserrhoden_switzerland,"Säntis, Appenzell Ausserrhoden, Switzerland",Säntis,"Säntis, Appenzell Ausserrhoden, Switzerland"
-place_bernese_oberland_bern_switzerland,"Bernese Oberland, Bern, Switzerland",Bernese Oberland,"Bernese Oberland, Bern, Switzerland"
-place_spelterini_s_balloon_perspective,Spelterini’s balloon perspective,Spelterini’s balloon perspective,
-place_lakeside_villages,lakeside villages,lakeside villages,
-place_sihlwald_zurich_switzerland,"Sihlwald, Zurich, Switzerland",city forest Sihlwald,"Sihlwald, Zurich, Switzerland"
-place_municipal_game_park,municipal game park,municipal game park,
-place_house_zum_rüden,House zum Rüden,House zum Rüden,
-place_petersstrasse_zurich_switzerland,"Petersstrasse, Zurich, Switzerland",Petersstrasse,"Petersstrasse, Zurich, Switzerland"
-place_münzplatz_zurich_switzerland,"Münzplatz, Zurich, Switzerland",Münzplatz,"Münzplatz, Zurich, Switzerland"
-place_uraniastrasse_zurich_switzerland,"Uraniastrasse, Zurich, Switzerland",Uraniastrasse,"Uraniastrasse, Zurich, Switzerland"
-place_sihlhofstrasse_zurich_switzerland,"Sihlhofstrasse, Zurich, Switzerland",Sihlhofstrasse,"Sihlhofstrasse, Zurich, Switzerland"
-place_usteristrasse_zurich_switzerland,"Usteristrasse, Zurich, Switzerland",Usteristrasse,"Usteristrasse, Zurich, Switzerland"
-place_schweizergasse_zurich_switzerland,"Schweizergasse, Zurich, Switzerland",Schweizergasse,"Schweizergasse, Zurich, Switzerland"
-place_lintheschergasse_zurich_switzerland,"Lintheschergasse, Zurich, Switzerland",Lintheschergasse,"Lintheschergasse, Zurich, Switzerland"
-place_schützengasse_zurich_switzerland,"Schützengasse, Zurich, Switzerland",Schützengasse,"Schützengasse, Zurich, Switzerland"
-place_rathausquai_zurich_switzerland,"Rathausquai, Zurich, Switzerland",Rathausquai (under the arches),"Rathausquai, Zurich, Switzerland"
-place_rathausbrücke_zurich_switzerland,"Rathausbrücke, Zurich, Switzerland",Rathausbrücke,"Rathausbrücke, Zurich, Switzerland"
-place_hirschengraben_zurich_switzerland,"Hirschengraben, Zurich, Switzerland",Hirschengraben,"Hirschengraben, Zurich, Switzerland"
-place_stauffacherstrasse_zurich_switzerland,"Stauffacherstrasse, Zurich, Switzerland",Stauffacherstrasse,"Stauffacherstrasse, Zurich, Switzerland"
-place_bülach_zurich_switzerland,"Bülach, Zurich, Switzerland",Bülach,"Bülach, Zurich, Switzerland"
-place_dielsdorf_zurich_switzerland,"Dielsdorf, Zurich, Switzerland",Dielsdorf,"Dielsdorf, Zurich, Switzerland"
-place_horgen_zurich_switzerland,"Horgen, Zurich, Switzerland",Horgen,"Horgen, Zurich, Switzerland"
-place_uster_zurich_switzerland,"Uster, Zurich, Switzerland",Uster,"Uster, Zurich, Switzerland"
-place_cantons_of_aargau_and_zug,cantons of Aargau and Zug,cantons of Aargau and Zug,
-place_alsace_france,"Alsace, France",Alsace,"Alsace, France"
-place_rafzerfeld_switzerland,"Rafzerfeld, Switzerland",Rafzerfeld,"Rafzerfeld, Switzerland"
-place_women_s_association_for_temperance_and_public_welfare,Women’s Association for Temperance and Public Welfare,Women’s Association for Temperance and Public Welfare,
-place_zurichberg,Zurichberg,Zurichberg,
-place_zum_blauen_seidenhof,zum blauen Seidenhof,zum blauen Seidenhof,
-place_zum_olivenbaum,zum Olivenbaum,zum Olivenbaum,
-place_karl_dem_grossen,Karl dem Grossen,Karl dem Grossen,
-place_nidelbad,Nidelbad,Nidelbad,
-place_waid,Waid,Waid,
-place_rennweg,Rennweg,Rennweg,
-place_mühlesteg_zurich_switzerland,"Mühlesteg, Zurich, Switzerland",the upper Mühlesteg,"Mühlesteg, Zurich, Switzerland"
-place_polytechnic,Polytechnic,Polytechnic,
-place_schmelzberg_above_the_observatory,Schmelzberg above the observatory,Schmelzberg above the observatory,
-place_pumping_station,pumping station,pumping station,
-place_letten_zurich_switzerland,"Letten, Zurich, Switzerland",Letten,"Letten, Zurich, Switzerland"
-place_drahtschmidli_zurich_switzerland,"Drahtschmidli, Zurich, Switzerland",Drahtschmidli,"Drahtschmidli, Zurich, Switzerland"
-place_langensteinen_oberstrass,Langensteinen (Oberstrass),Langensteinen (Oberstrass),
-place_the_little_castle_on_the_zurichberg,the little castle on the Zurichberg,the little castle on the Zurichberg,
-place_letten_pumping_station_zurich_switzerland,"Letten pumping station, Zurich, Switzerland",Letten pumping station,"Letten pumping station, Zurich, Switzerland"
-place_the_new_great_filtration_plant,the new great filtration plant,the new great filtration plant,
-place_kreuzkirche,Kreuzkirche,Kreuzkirche,
-place_neumünster,Neumünster,Neumünster,
-place_lorze_switzerland,"Lorze, Switzerland",Lorze,"Lorze, Switzerland"
-place_the_church_of_enge,the Church of Enge,the Church of Enge,
-place_sihl_and_lorze_valleys,Sihl and Lorze valleys,Sihl and Lorze valleys,
-place_sihlsprung_menzingen_zug_switzerland,"Sihlsprung, Menzingen, Zug, Switzerland",Sihlsprung-Menzingen,"Sihlsprung, Menzingen, Zug, Switzerland"
-place_nagelfluh_plate,Nagelfluh plate,Nagelfluh plate,
-place_sihl_springs_zurich_switzerland,"Sihl Springs, Zurich, Switzerland",Sihl springs,"Sihl Springs, Zurich, Switzerland"
-place_lorze_springs_zurich_switzerland,"Lorze Springs, Zurich, Switzerland",Lorze springs,"Lorze Springs, Zurich, Switzerland"
-place_sihlbrugg_zurich_switzerland,"Sihlbrugg, Zurich, Switzerland",Sihlbrugg,"Sihlbrugg, Zurich, Switzerland"
-place_sihl_lorze_springs,Sihl-Lorze springs,Sihl-Lorze springs,
-place_lorze_valley_switzerland,"Lorze Valley, Switzerland",Lorze valley,"Lorze Valley, Switzerland"
-place_hospitals,hospitals,hospitals,
-place_poor_patients,poor patients,poor patients,
-place_district_2_zurich_switzerland,"District 2, Zurich, Switzerland",District II,"District 2, Zurich, Switzerland"
-place_manegg_zurich_switzerland,"Manegg, Zurich, Switzerland",Manegg,"Manegg, Zurich, Switzerland"
-place_district_3_zurich_switzerland,"District 3, Zurich, Switzerland",District III,"District 3, Zurich, Switzerland"
-place_sihlfeld_cemetery_zurich_switzerland,"Sihlfeld Cemetery, Zurich, Switzerland",Cemetery Sihlfeld sections B and C,"Sihlfeld Cemetery, Zurich, Switzerland"
-place_old_cemeteries_aussersihl_and_wiedikon,old cemeteries Aussersihl and Wiedikon,old cemeteries Aussersihl and Wiedikon,
-place_nordheim,Nordheim,Nordheim,
-place_district_v,District V,District V,
-place_realp_uri_switzerland,"Realp, Uri, Switzerland",Realp,"Realp, Uri, Switzerland"
-place_enzenbühl,Enzenbühl,Enzenbühl,
-place_old_cemetery_neumünster,old cemetery Neumünster,old cemetery Neumünster,
-place_cemetery_allmend_muntern,cemetery Allmend Muntern,cemetery Allmend Muntern,
-place_neumünster_cemetery,Neumünster cemetery,Neumünster cemetery,
-place_central_cemetery_crematorium,central cemetery crematorium,central cemetery crematorium,
-place_stadthausquai_zurich_switzerland,"Stadthausquai, Zurich, Switzerland",Stadthausquai,"Stadthausquai, Zurich, Switzerland"
-place_anlage_enge_zurich_switzerland,"Anlage Enge, Zurich, Switzerland",Anlage Enge,"Anlage Enge, Zurich, Switzerland"
-place_zurichberg_adlisberg_zurich_switzerland,"Zurichberg-Adlisberg, Zurich, Switzerland",Zurichberg-Adlisberg,"Zurichberg-Adlisberg, Zurich, Switzerland"
-place_stadelhofen_zurich_switzerland,"Stadelhofen, Zurich, Switzerland",Stadelhofen,"Stadelhofen, Zurich, Switzerland"
-place_tiefenbrunnen_zurich_switzerland,"Tiefenbrunnen, Zurich, Switzerland",Tiefenbrunnen,"Tiefenbrunnen, Zurich, Switzerland"
-place_right_bank,right bank,right bank,
-place_selnau_station_zurich_switzerland,"Selnau station, Zurich, Switzerland",Selnau station,"Selnau station, Zurich, Switzerland"
-place_uetliberg_railway_zurich_switzerland,"Uetliberg railway, Zurich, Switzerland",Uetliberg railway,"Uetliberg railway, Zurich, Switzerland"
-place_sihl_valley_railway_zurich_switzerland,"Sihl Valley railway, Zurich, Switzerland",Sihl valley railway,"Sihl Valley railway, Zurich, Switzerland"
-place_binz_zurich_switzerland,"Binz, Zurich, Switzerland",Binz,"Binz, Zurich, Switzerland"
-place_waldegg_zurich_switzerland,"Waldegg, Zurich, Switzerland",Waldegg,"Waldegg, Zurich, Switzerland"
-place_giesshübel_zurich_switzerland,"Giesshübel, Zurich, Switzerland",Giesshübel,"Giesshübel, Zurich, Switzerland"
-place_brunau_zurich_switzerland,"Brunau, Zurich, Switzerland",Brunau,"Brunau, Zurich, Switzerland"
-place_sood_zurich_switzerland,"Sood, Zurich, Switzerland",Sod,"Sood, Zurich, Switzerland"
-place_adliswil_zurich_switzerland,"Adliswil, Zurich, Switzerland",Adliswil,"Adliswil, Zurich, Switzerland"
-place_thalwil_zug_railway_line_switzerland,"Thalwil-Zug railway line, Switzerland",federal railway line Thalwil-Zug,"Thalwil-Zug railway line, Switzerland"
-place_winterthur_zurich_switzerland,"Winterthur, Zurich, Switzerland",Winterthur,"Winterthur, Zurich, Switzerland"
-place_zug_switzerland,"Zug, Switzerland",Zug,"Zug, Switzerland"
-place_maur_zurich_switzerland,"Maur, Zurich, Switzerland",Maur,"Maur, Zurich, Switzerland"
-place_zumikon_zurich_switzerland,"Zumikon, Zurich, Switzerland",Zumikon,"Zumikon, Zurich, Switzerland"
-place_burgwies_zurich_switzerland,"Burgwies, Zurich, Switzerland",Burgwies,"Burgwies, Zurich, Switzerland"
-place_limmat_valley_switzerland,"Limmat Valley, Switzerland",Limmat Valley,"Limmat Valley, Switzerland"
-place_marienstrasse_zurich_switzerland,"Marienstrasse, Zurich, Switzerland",Marienstrasse,"Marienstrasse, Zurich, Switzerland"
-place_altstetten_schlieren_dietikon,Altstetten-Schlieren-Dietikon,Altstetten-Schlieren-Dietikon,
-place_mutschellen_switzerland,"Mutschellen, Switzerland",Mutschellen,"Mutschellen, Switzerland"
-place_bremgarten_aargau_switzerland,"Bremgarten, Aargau, Switzerland",Bremgarten,"Bremgarten, Aargau, Switzerland"
-place_unterengstringen_zurich_switzerland,"Unterengstringen, Zurich, Switzerland",Unterengstringen,"Unterengstringen, Zurich, Switzerland"
-place_kloster_fahr_zurich_switzerland,"Kloster Fahr, Zurich, Switzerland",Kloster Fahr,"Kloster Fahr, Zurich, Switzerland"
-place_weiningen_zurich_switzerland,"Weiningen, Zurich, Switzerland",Weiningen,"Weiningen, Zurich, Switzerland"
-place_hoengg_zurich_switzerland,"Hoengg, Zurich, Switzerland",Hoengg,"Hoengg, Zurich, Switzerland"
-place_oerlikon_seebach_glattbrugg,Oerlikon-Seebach-Glattbrugg,Oerlikon-Seebach-Glattbrugg,
-place_schwamendingen_zurich_switzerland,"Schwamendingen, Zurich, Switzerland",Schwamendingen,"Schwamendingen, Zurich, Switzerland"
-place_rigiplatz_zurich_switzerland,"Rigiplatz, Zurich, Switzerland",Rigiplatz,"Rigiplatz, Zurich, Switzerland"
-place_rigiviertel_zurich_switzerland,"Rigiviertel, Zurich, Switzerland",Rigiviertel,"Rigiviertel, Zurich, Switzerland"
-place_waldhaus_dolder_zurich_switzerland,"Waldhaus Dolder, Zurich, Switzerland",Waldhaus Dolder,"Waldhaus Dolder, Zurich, Switzerland"
-place_grand_hotel_dolder_zurich_switzerland,"Grand Hotel Dolder, Zurich, Switzerland",Grand Hotel Dolder,"Grand Hotel Dolder, Zurich, Switzerland"
-place_wolfbach,Wolfbach,Wolfbach,
-place_upper_mühlesteg,upper Mühlesteg,upper Mühlesteg,
-place_klosbach,Klosbach,Klosbach,
-place_lindenbach,Lindenbach,Lindenbach,
-place_kilchberg_zurich_switzerland,"Kilchberg, Zurich, Switzerland",Kilchberg,"Kilchberg, Zurich, Switzerland"
-place_albisrieden_altstetten,Albisrieden-Altstetten,Albisrieden-Altstetten,
-place_helmhaus_zurich_switzerland,"Helmhaus, Zurich, Switzerland",Helmhaus,"Helmhaus, Zurich, Switzerland"
-place_predigerkirche_zurich_switzerland,"Predigerkirche, Zurich, Switzerland",Predigerkirche,"Predigerkirche, Zurich, Switzerland"
-place_museum_of_applied_arts_zurich_switzerland,"Museum of Applied Arts, Zurich, Switzerland",Museum of Applied Arts,"Museum of Applied Arts, Zurich, Switzerland"
-place_police_barracks,police barracks,police barracks,
-place_state_archives_of_zurich_zurich_switzerland,"State Archives of Zurich, Zurich, Switzerland",state archives,"State Archives of Zurich, Zurich, Switzerland"
-place_pestalozzianum_zurich_switzerland,"Pestalozzianum, Zurich, Switzerland",Pestalozzianum,"Pestalozzianum, Zurich, Switzerland"
-place_museum,Museum,Museum,
-place_seilergraben_zurich_switzerland,"Seilergraben, Zurich, Switzerland",Seilergraben,"Seilergraben, Zurich, Switzerland"
-place_the_pestalozzi_society,the Pestalozzi society,the Pestalozzi society,
-place_switzerland,Switzerland,Switzerland,Switzerland
-place_pestalozzianum,Pestalozzianum,Pestalozzianum,
-place_wollenhof_zurich_switzerland,"Wollenhof, Zurich, Switzerland",Wollenhof,"Wollenhof, Zurich, Switzerland"
-place_municipal_zoological_museum,Municipal zoological museum,Municipal zoological museum,
-place_nageli_museum,Nageli Museum,Nageli Museum,
-place_mythenquai_zurich_switzerland,"Mythenquai, Zurich, Switzerland",Mythenquai,"Mythenquai, Zurich, Switzerland"
-place_künstlergütli_zurich_switzerland,"Künstlergütli, Zurich, Switzerland",Künstlergütli,"Künstlergütli, Zurich, Switzerland"
-place_zurich_art_society,Zurich Art Society,Zurich Art Society,
-place_künstlerhaus_zurich_switzerland,"Künstlerhaus, Zurich, Switzerland",Künstlerhaus,"Künstlerhaus, Zurich, Switzerland"
-place_bonaduz_graubünden_switzerland,"Bonaduz, Graubünden, Switzerland",Bonaduz,"Bonaduz, Graubünden, Switzerland"
-place_messina_italy,"Messina, Italy",Messina,"Messina, Italy"
-place_st_peter_zurich_switzerland,"St. Peter, Zurich, Switzerland",St. Peter,"St. Peter, Zurich, Switzerland"
-place_predigern_zurich_switzerland,"Predigern, Zurich, Switzerland",Predigern,"Predigern, Zurich, Switzerland"
-place_neumünster_zurich_switzerland,"Neumünster, Zurich, Switzerland",Neumünster,"Neumünster, Zurich, Switzerland"
-place_french_parish,French parish,French parish,
-place_old_catholic_parish,Old Catholic parish,Old Catholic parish,
-place_evangelical_lutheran_kreuzgemeinde,Evangelical-Lutheran Kreuzgemeinde,Evangelical-Lutheran Kreuzgemeinde,
-place_roman_catholic_parishes_st_peter_and_paul_and_unterstrass_zurich,Roman Catholic parishes St. Peter and Paul and Unterstrass-Zurich,Roman Catholic parishes St. Peter and Paul and Unterstrass-Zurich,
-place_episcopal_methodist_church,episcopal Methodist church,episcopal Methodist church,
-place_israelite_religious_community,Israelite religious community,Israelite religious community,
-place_city_districts,city districts,city districts,
-place_city_council,city council,city council,
-place_city_president,city president,city president,
-place_large_city_council,large city council,large city council,
-place_community,community,community,
-place_central_school_board,central school board,central school board,
-place_small_city_council,small city council,small city council,
-place_district_school_boards,district school boards,district school boards,
-place_municipal_employment_office,municipal employment office,municipal employment office,
-place_unemployment_commission,unemployment commission,unemployment commission,
-place_special_office_for_housing_registration,special office for housing registration,special office for housing registration,
-place_large_and_small_hafner,large and small Hafner,large and small Hafner,
-place_bauschanze,Bauschanze,Bauschanze,
-place_haumesser,Haumesser,Haumesser,
-place_burghölzli,Burghölzli,Burghölzli,
-place_rebhügel,Rebhügel,Rebhügel,
-place_bäckerstrasse_zurich_3_zurich_switzerland,"Bäckerstrasse, Zurich 3, Zurich, Switzerland",Bäckerstrasse in Zurich III,"Bäckerstrasse, Zurich 3, Zurich, Switzerland"
-place_peterskirche_zurich_switzerland,"Peterskirche, Zurich, Switzerland",Peterskirche,"Peterskirche, Zurich, Switzerland"
-place_enge_s_sternen,Enge’s Sternen,Enge’s Sternen,
-place_gallows_near_albisrieden,gallows near Albisrieden,gallows near Albisrieden,
-place_waid_near_wipkingen,Waid near Wipkingen,Waid near Wipkingen,
-place_zentralhof_zurich_switzerland,"Zentralhof, Zurich, Switzerland",Zentralhof,"Zentralhof, Zurich, Switzerland"
-place_münsterhof_zurich_switzerland,"Münsterhof, Zurich, Switzerland",Münsterhof,"Münsterhof, Zurich, Switzerland"
-place_tiefenhöfe_zurich_switzerland,"Tiefenhöfe, Zurich, Switzerland",Tiefenhöfe,"Tiefenhöfe, Zurich, Switzerland"
-place_sihlfeld_zurich_switzerland,"Sihlfeld, Zurich, Switzerland",Sihlfeld,"Sihlfeld, Zurich, Switzerland"
-place_meat_hall,meat hall,meat hall,
-place_alte_landstrasse,alte Landstrasse,alte Landstrasse,
-place_grossmünster_and_fraumünster_zurich_switzerland,"Grossmünster and Fraumünster, Zurich, Switzerland",Gross- and Fraumünster,"Grossmünster and Fraumünster, Zurich, Switzerland"
-place_burghölzli_zurich_switzerland,"Burghölzli, Zurich, Switzerland",Burghölzli,"Burghölzli, Zurich, Switzerland"
-place_entibühl_above_balgrist,Entibühl above Balgrist,Entibühl above Balgrist,
-place_rebhügel_wiedikon_zurich_switzerland,"Rebhügel, Wiedikon, Zurich, Switzerland",Rebhügel Wiedikon,"Rebhügel, Wiedikon, Zurich, Switzerland"
-place_bäckerstrasse_zurich_switzerland,"Bäckerstrasse, Zurich, Switzerland",Bäckerstrasse in Zurich III,"Bäckerstrasse, Zurich, Switzerland"
-place_zurich_witikon_road,Zurich-Witikon road,Zurich-Witikon road,
-place_canton_of_zurich_switzerland,"Canton of Zurich, Switzerland",Canton Zurich,"Canton of Zurich, Switzerland"
-place_district_zurich,district Zurich,district Zurich,
-place_cantons_zurich_schwyz_and_st_gallen,"Cantons Zurich, Schwyz, and St. Gallen","Cantons Zurich, Schwyz, and St. Gallen",
-place_lake_constance_switzerland,"Lake Constance, Switzerland",Lake Constance,"Lake Constance, Switzerland"
-place_hirzli_switzerland,"Hirzli, Switzerland",Hirzli,"Hirzli, Switzerland"
-place_schänniserberg_switzerland,"Schänniserberg, Switzerland",Schänniserberg,"Schänniserberg, Switzerland"
-place_stäfner_stone,Stäfner stone,Stäfner stone,
-place_bern_switzerland,"Bern, Switzerland",Bern,"Bern, Switzerland"
-place_gemüsemarkt_zurich_switzerland,"Gemüsemarkt, Zurich, Switzerland",Gemüsemarkt,"Gemüsemarkt, Zurich, Switzerland"
-place_albis_switzerland,"Albis, Switzerland",Albis ridge,"Albis, Switzerland"
-place_adlisberg_zurich_switzerland,"Adlisberg, Zurich, Switzerland",Adlisberg,"Adlisberg, Zurich, Switzerland"
-place_katzensee_zurich_switzerland,"Katzensee, Zurich, Switzerland",Katzensee,"Katzensee, Zurich, Switzerland"
-place_lower_lake_basin,lower lake basin,lower lake basin,
-place_kleiner_hafner_zurich_switzerland,"Kleiner Hafner, Zurich, Switzerland",Kleiner Hafner,"Kleiner Hafner, Zurich, Switzerland"
-place_balgrist_zurich_switzerland,"Balgrist, Zurich, Switzerland",Balgrist,"Balgrist, Zurich, Switzerland"
-place_st_petershügel_zurich_switzerland,"St. Petershügel, Zurich, Switzerland",St. Petershügel,"St. Petershügel, Zurich, Switzerland"
-place_sihlbühl,Sihlbühl,Sihlbühl,
-place_bäckerstrasse,Bäckerstrasse,Bäckerstrasse,
-place_statio_turicensis,Statio Turicensis,Statio Turicensis,
-place_grosse_hafner_zurich_switzerland,"Grosse Hafner, Zurich, Switzerland",Grosse Hafner,"Grosse Hafner, Zurich, Switzerland"
-place_seefeld_zurich_switzerland,"Seefeld, Zurich, Switzerland",Seefeld,"Seefeld, Zurich, Switzerland"
-place_storchengasse_zurich_switzerland,"Storchengasse, Zurich, Switzerland",Storchengasse,"Storchengasse, Zurich, Switzerland"
-place_oetenbach_area,Oetenbach area,Oetenbach area,
-place_albis_forest,Albis forest,Albis forest,
-place_uri_switzerland,"Uri, Switzerland",Uri,"Uri, Switzerland"
-place_stadelhof,Stadelhof,Stadelhof,
-place_swabia_germany,"Swabia, Germany",Swabia,"Swabia, Germany"
-place_staufer_dukes,Staufer dukes,Staufer dukes,
-place_counts_of_lenzburg,counts of Lenzburg,counts of Lenzburg,
-place_dukes_of_zähringen,dukes of Zähringen,dukes of Zähringen,
-place_st_peter_church_zurich_switzerland,"St. Peter Church, Zurich, Switzerland",St. Peter,"St. Peter Church, Zurich, Switzerland"
-place_st_stephan,St. Stephan,St. Stephan,
-place_eastern_bank_of_the_limmat_river_zurich_switzerland,"Eastern bank of the Limmat River, Zurich, Switzerland",eastern Limmat bank,"Eastern bank of the Limmat River, Zurich, Switzerland"
-place_limmat_river_shore_zurich_switzerland,"Limmat River shore, Zurich, Switzerland",Limmat shore,"Limmat River shore, Zurich, Switzerland"
-place_eastern_district_zurich_switzerland,"Eastern district, Zurich, Switzerland",eastern city district,"Eastern district, Zurich, Switzerland"
-place_guild_house_of_the_carpenters_zurich_switzerland,"Guild House of the Carpenters, Zurich, Switzerland",Guild House of the Carpenters,"Guild House of the Carpenters, Zurich, Switzerland"
-place_rapperswil_switzerland,"Rapperswil, Switzerland",Rapperswil,"Rapperswil, Switzerland"
-place_state_archives_zurich_zurich_switzerland,"State Archives Zurich, Zurich, Switzerland",State Archives Zurich,"State Archives Zurich, Zurich, Switzerland"
-place_great_council,Great Council,Great Council,
-place_small_councils,Small Councils,Small Councils,
-place_secret_council,Secret Council,Secret Council,
-place_accounting_council,accounting council,accounting council,
-place_war_council,war council,war council,
-place_more_city,More City,More City,
-place_auf_dorf,Auf Dorf,Auf Dorf,
-place_linden,Linden,Linden,
-place_neumarkt,Neumarkt,Neumarkt,
-place_niederdorf,Niederdorf,Niederdorf,
-place_lesser_city,Lesser City,Lesser City,
-place_münsterhof,Münsterhof,Münsterhof,
-place_hirschengraben,Hirschengraben,Hirschengraben,
-place_stadelhofen,Stadelhofen,Stadelhofen,
-place_talacker,Talacker,Talacker,
-place_lindenhof,Lindenhof,Lindenhof,
-place_oetenbach_monastery_zurich_switzerland,"Oetenbach Monastery, Zurich, Switzerland",Oetenbach monastery,"Oetenbach Monastery, Zurich, Switzerland"
-place_mühlestege,Mühlestege,Mühlestege,
-place_two_limmat_bridges,two Limmat bridges,two Limmat bridges,
-place_kornhaus_weinplatz_zurich_switzerland,"Kornhaus, Weinplatz, Zurich, Switzerland",Kornhaus at Weinplatz,"Kornhaus, Weinplatz, Zurich, Switzerland"
-place_upper_bridge,upper bridge,upper bridge,
-place_right_limmat_bank,right Limmat bank,right Limmat bank,
-place_hottinger_tower_with_kaufhaus,Hottinger tower with Kaufhaus,Hottinger tower with Kaufhaus,
-place_bauhaus_in_the_kratz_quarter,Bauhaus in the Kratz quarter,Bauhaus in the Kratz quarter,
-place_shooting_house_on_the_square_northwest_of_the_medieval_city_walls,shooting house on the square northwest of the medieval city walls,shooting house on the square northwest of the medieval city walls,
-place_froschaugasse_zurich_switzerland,"Froschaugasse, Zurich, Switzerland",Froschaugasse,"Froschaugasse, Zurich, Switzerland"
-place_heiliggeistspital_niederdorf_zurich_switzerland,"Heiliggeistspital, Niederdorf, Zurich, Switzerland",Holy Spirit hospital in Niederdorf,"Heiliggeistspital, Niederdorf, Zurich, Switzerland"
-place_predigerkloster_zurich_switzerland,"Predigerkloster, Zurich, Switzerland",Prediger monastery,"Predigerkloster, Zurich, Switzerland"
-place_guild_houses,guild houses,guild houses,
-place_houses_zur_krone_later_rechberg,houses Zur Krone (later Rechberg),houses Zur Krone (later Rechberg),
-place_zum_florhof,Zum Florhof,Zum Florhof,
-place_zum_kiel,Zum Kiel,Zum Kiel,
-place_freigut,Freigut,Freigut,
-place_muralt_estate_enge_zurich_switzerland,"Muralt estate, Enge, Zurich, Switzerland",Muralt estate in Enge,"Muralt estate, Enge, Zurich, Switzerland"
-place_beckenhof_unterstrass_zurich_switzerland,"Beckenhof, Unterstrass, Zurich, Switzerland",Beckenhof in Unterstrass,"Beckenhof, Unterstrass, Zurich, Switzerland"
-place_house_at_brunnenhof,house at Brunnenhof,house at Brunnenhof,
-place_lamparterturm,Lamparterturm,Lamparterturm,
-place_brunnenhof_zurich_switzerland,"Brunnenhof, Zurich, Switzerland",Brunnenhof,"Brunnenhof, Zurich, Switzerland"
-place_kratz_quarter,Kratz quarter,Kratz quarter,
-place_sechseläuten_festival,Sechseläuten festival,Sechseläuten festival,
-place_oberdorf,Oberdorf,Oberdorf,
-place_kleine_stadt,Kleine Stadt,Kleine Stadt,
-place_altstadt_zurich_switzerland,"Altstadt, Zurich, Switzerland",Altstadt (I),"Altstadt, Zurich, Switzerland"
-place_aussersihl_and_wiedikon_iii,Aussersihl and Wiedikon (III),Aussersihl and Wiedikon (III),
-place_oberstrass_unterstrass_and_wipkingen_iv,"Oberstrass, Unterstrass and Wipkingen (IV)","Oberstrass, Unterstrass and Wipkingen (IV)",
-place_fluntern_hirslanden_hottingen_and_riesbach_v,"Fluntern, Hirslanden, Hottingen and Riesbach (V)","Fluntern, Hirslanden, Hottingen and Riesbach (V)",
-place_industriequartier_zurich_switzerland,"Industriequartier, Zurich, Switzerland",Industriequartier (5),"Industriequartier, Zurich, Switzerland"
-place_oberstrass_and_unterstrass_6,Oberstrass and Unterstrass (6),Oberstrass and Unterstrass (6),
-place_fluntern_hirslanden_hottingen_and_witikon_7,"Fluntern, Hirslanden, Hottingen and Witikon (7)","Fluntern, Hirslanden, Hottingen and Witikon (7)",
-place_albisrieden_and_altstetten_9,Albisrieden and Altstetten (9),Albisrieden and Altstetten (9),
-place_höngg_and_wipkingen_10,Höngg and Wipkingen (10),Höngg and Wipkingen (10),
-place_affoltern_oerlikon_schwamendingen_and_seebach_11,"Affoltern, Oerlikon, Schwamendingen and Seebach (11)","Affoltern, Oerlikon, Schwamendingen and Seebach (11)",
-place_central_library_zurich_zurich_switzerland,"Central Library Zurich, Zurich, Switzerland",Central Library Zurich,"Central Library Zurich, Zurich, Switzerland"
-place_museum_of_design_zurich_zurich_switzerland,"Museum of Design Zurich, Zurich, Switzerland",Museum of Design Zurich,"Museum of Design Zurich, Zurich, Switzerland"
-place_zurich_university_of_the_arts_zurich_switzerland,"Zurich University of the Arts, Zurich, Switzerland",Zurich University of the Arts,"Zurich University of the Arts, Zurich, Switzerland"
-place_executive_city_council,executive city council,executive city council,
-place_schanzengraben,Schanzengraben,Schanzengraben,
-place_botanical_garden_of_the_university,Botanical Garden of the University,Botanical Garden of the University,
-place_letten_power_plant_zurich_switzerland,"Letten Power Plant, Zurich, Switzerland",Letten power plant,"Letten Power Plant, Zurich, Switzerland"
-place_albula_switzerland,"Albula, Switzerland",Albula,"Albula, Switzerland"
-place_heidsee_switzerland,"Heidsee, Switzerland",Heidsee,"Heidsee, Switzerland"
-place_limmat_wettingen_switzerland,"Limmat Wettingen, Switzerland",Limmat Wettingen,"Limmat Wettingen, Switzerland"
-place_julia_tiefencastel_switzerland,"Julia Tiefencastel, Switzerland",Julia Tiefencastel,"Julia Tiefencastel, Switzerland"
-place_julia_marmorera_switzerland,"Julia Marmorera, Switzerland",Julia Marmorera,"Julia Marmorera, Switzerland"
-place_bergell_switzerland,"Bergell, Switzerland",Bergell power plants,"Bergell, Switzerland"
-place_maggia_switzerland,"Maggia, Switzerland",Maggia,"Maggia, Switzerland"
-place_blenio_switzerland,"Blenio, Switzerland",Blenio,"Blenio, Switzerland"
-place_hinterrhein_switzerland,"Hinterrhein, Switzerland",Hinterrhein,"Hinterrhein, Switzerland"
-place_gösgen_nuclear_power_plant_switzerland,"Gösgen Nuclear Power Plant, Switzerland",Gösgen,"Gösgen Nuclear Power Plant, Switzerland"
-place_leibstadt_nuclear_power_plant_switzerland,"Leibstadt Nuclear Power Plant, Switzerland",Leibstadt,"Leibstadt Nuclear Power Plant, Switzerland"
-place_bugey_nuclear_power_plant_france,"Bugey Nuclear Power Plant, France",Bugey,"Bugey Nuclear Power Plant, France"
-place_cattenom_nuclear_power_plant_france,"Cattenom Nuclear Power Plant, France",Cattenom,"Cattenom Nuclear Power Plant, France"
-place_rösslitram,Rösslitram,Rösslitram,
-place_medieval_city_wall,medieval city wall,medieval city wall,
-place_zeughaus_zurich_switzerland,"Zeughaus, Zurich, Switzerland",Zeughaus,"Zeughaus, Zurich, Switzerland"
-place_bahnhof_district_zurich_switzerland,"Bahnhof district, Zurich, Switzerland",Bahnhof district,"Bahnhof district, Zurich, Switzerland"
-place_neumühlequai_zurich_switzerland,"Neumühlequai, Zurich, Switzerland",Neumühlequai,"Neumühlequai, Zurich, Switzerland"
-place_fraumünster_district_zurich_switzerland,"Fraumünster district, Zurich, Switzerland",Fraumünster district,"Fraumünster district, Zurich, Switzerland"
-place_prediger_district_zurich_switzerland,"Prediger district, Zurich, Switzerland",Prediger district,"Prediger district, Zurich, Switzerland"
-place_industriequartier_aussersihl_zurich_switzerland,"Industriequartier, Aussersihl, Zurich, Switzerland",Industriequartier in Aussersihl,"Industriequartier, Aussersihl, Zurich, Switzerland"
-place_upper_bahnhofstrasse_zurich_switzerland,"Upper Bahnhofstrasse, Zurich, Switzerland",upper Bahnhofstrasse,"Upper Bahnhofstrasse, Zurich, Switzerland"
-place_lake_promenade_zurich_switzerland,"Lake promenade, Zurich, Switzerland",lake promenade,"Lake promenade, Zurich, Switzerland"
-place_lakeside_zurich_switzerland,"Lakeside, Zurich, Switzerland",lakeside,"Lakeside, Zurich, Switzerland"
-place_oetenbach_site_zurich_switzerland,"Oetenbach site, Zurich, Switzerland",Oetenbach site,"Oetenbach site, Zurich, Switzerland"
-place_zähringerplatz_zurich_switzerland,"Zähringerplatz, Zurich, Switzerland",Zähringerplatz,"Zähringerplatz, Zurich, Switzerland"
-place_rämistrasse_zurich_switzerland,"Rämistrasse, Zurich, Switzerland",Rämistrasse,"Rämistrasse, Zurich, Switzerland"
-place_bahnhof_and_limmatquai,Bahnhof- and Limmatquai,Bahnhof- and Limmatquai,
-place_central_zurich_switzerland,"Central, Zurich, Switzerland",Central,"Central, Zurich, Switzerland"
-place_zurich_west_zurich_switzerland,"Zurich-West, Zurich, Switzerland",Zurich-West,"Zurich-West, Zurich, Switzerland"
-place_affoltern_zurich_switzerland,"Affoltern, Zurich, Switzerland",Affoltern,"Affoltern, Zurich, Switzerland"
-place_neumühlequai,Neumühlequai,Neumühlequai,
-place_zurichberg_aussersihl_industriequartier,Zurichberg-Aussersihl/Industriequartier,Zurichberg-Aussersihl/Industriequartier,
-place_st_anna_chapel,St. Anna Chapel,St. Anna Chapel,
-place_augustinerkirche_zurich_switzerland,"Augustinerkirche, Zurich, Switzerland",Augustiner church,"Augustinerkirche, Zurich, Switzerland"
-place_st_peter_and_paul_church_aussersihl_zurich_switzerland,"St. Peter and Paul Church, Aussersihl, Zurich, Switzerland",St. Peter and Paul in Aussersihl,"St. Peter and Paul Church, Aussersihl, Zurich, Switzerland"
-place_endingen_aargau_switzerland,"Endingen, Aargau, Switzerland",Endingen,"Endingen, Aargau, Switzerland"
-place_lengnau_aargau_switzerland,"Lengnau, Aargau, Switzerland",Lengnau (AG),"Lengnau, Aargau, Switzerland"
-place_southern_germany,southern Germany,southern Germany,
-place_aktie_theater_zurich_switzerland,"Aktie Theater, Zurich, Switzerland",Aktie Theater,"Aktie Theater, Zurich, Switzerland"
-place_casino_hirschengraben_zurich_switzerland,"Casino, Hirschengraben, Zurich, Switzerland",casino on Hirschengraben,"Casino, Hirschengraben, Zurich, Switzerland"
-place_tonhalle_in_the_kornhaus_bellevue_zurich_switzerland,"Tonhalle in the Kornhaus, Bellevue, Zurich, Switzerland",Tonhalle in the Kornhaus at Bellevue,"Tonhalle in the Kornhaus, Bellevue, Zurich, Switzerland"
-place_zurich_music_school_zurich_switzerland,"Zurich Music School, Zurich, Switzerland",Zurich Music School,"Zurich Music School, Zurich, Switzerland"
-place_city_theater_at_bellevue_zurich_switzerland,"City Theater at Bellevue, Zurich, Switzerland",city theater at Bellevue,"City Theater at Bellevue, Zurich, Switzerland"
-place_volkstheater_at_pfauen_zurich_switzerland,"Volkstheater at Pfauen, Zurich, Switzerland",Volkstheater at Pfauen,"Volkstheater at Pfauen, Zurich, Switzerland"
-place_schauspielhaus_zurich_switzerland,"Schauspielhaus, Zurich, Switzerland",Schauspielhaus,"Schauspielhaus, Zurich, Switzerland"
-place_schiffbauhalle_zurich_west_zurich_switzerland,"Schiffbauhalle, Zurich-West, Zurich, Switzerland",Schiffbauhalle in Zurich-West,"Schiffbauhalle, Zurich-West, Zurich, Switzerland"
-place_catholic,Catholic,Catholic,
+name
+"Geneva, Switzerland"
+Switzerland
+Lake Geneva
+Rhône River
+old town or upper town
+Arve River
+"Les Eaux-Vives, Geneva"
+Geneva
+"Le Petit-Saconnex, Geneva"
+"Plainpalais, Geneva"
+"Lausanne, Switzerland"
+Department of Léman
+the church of Saint-Gervais
+"Right bank of the Rhone River, Geneva, Switzerland"
+a terrace above the Rhone
+"Southern Rhone valley, between Provence and Liguria, France/Italy"
+"between Provence and Liguria, France/Italy"
+France/Italy
+"Lake Geneva, Switzerland/France"
+Switzerland/France
+the Rade
+"Lake Geneva, Switzerland"
+"Les Pâquis, Geneva, Switzerland"
+"Les Eaux-Vives, Geneva, Switzerland"
+"Rade de Genève, Geneva, Switzerland"
+Rade
+Saint-Pierre hill
+Allobroges territories
+Gallia Transalpina
+Gallia Narbonensis
+lake
+"Arve River, Geneva, Switzerland"
+"Carouge, Geneva, Switzerland"
+hilltop above the Rade and Rhone bridge
+harbor
+right bank at the bridgehead
+"Vienne, France"
+France
+"Nyon, Switzerland"
+the hill area
+"Saint-Antoine, Geneva, Switzerland"
+the town core
+the harbor district
+"Saint-Gervais, Geneva, Switzerland"
+the upper town
+the Rhone bridge crossing
+the cathedral complex
+the bishop's palace
+upper town
+church of Saint-Germain
+sanctuary
+former main street (decumanus)
+north-south axis (cardo)
+"Geneva, Saint-Gervais, Switzerland"
+"Saint-Gervais, Switzerland"
+"Geneva, La Madeleine, Switzerland"
+"La Madeleine, Switzerland"
+Sapaudia
+Saint-Victor
+"Lyon, France"
+the episcopal complex
+the northern cathedral
+the third bishop's church
+the baptistery and reception rooms
+the harbor next to the church of La Madeleine
+"Tauredunum, Switzerland"
+the medieval city
+the cathedral
+"Orléans, France"
+Neustria
+"Sion, Switzerland"
+"Tarentaise Valley, France"
+Count of Geneva
+Kingdom of Burgundy
+region
+"Bourg-de-Four, Geneva, Switzerland"
+the Count of Geneva
+the Dauphin
+Château de l'Ile
+"Geneva, Place du Molard"
+Place du Molard
+lake shore
+"Geneva, Rue de la Croix-d'Or"
+Rue de la Croix-d'Or
+"Geneva, Rue du Rhône"
+Rue du Rhône
+"Geneva, Longemalle"
+Longemalle
+"Geneva, Molard"
+Molard
+"Geneva, Fusterie"
+Fusterie
+the city wall
+"Diocese of Geneva, Switzerland"
+"Savoy, France"
+Burgundian Wars
+bishop John Louis of Savoy
+Duke of Burgundy
+Swiss Confederation
+cities of Bern and Fribourg
+"Fribourg, Switzerland"
+Duke of Savoy
+"Bern, Switzerland"
+Saint-Pierre
+"Gex, France"
+"Place du Molard, Geneva, Switzerland"
+"the city’s three gates (Rive and Neuve on the left, Cornavin on the right bank)"
+castle on the island
+"Jussy, Switzerland"
+"Peney, Switzerland"
+"Thiez, Switzerland"
+All Saints Chapel of Saint-Gervais church
+diocese
+"Cour Saint-Pierre, Geneva, Switzerland"
+Sainte-Croix (cathedral parish)
+Notre-Dame-du-Pont-du-Rhône
+Saint-Germain
+La Madeleine
+Notre-Dame-la-Neuve
+Saint-Victor parish
+Saint-Léger parish
+"Arve Bridge, Geneva, Switzerland"
+Saint-Jean
+"Champagne region (Chancy, Avully, Cartigny, Troinex, Laconnex, etc.)"
+Palais near today's Rue de la Corraterie
+Rive
+Bourg-de-Four
+Arve bridge
+Juiverie
+"Place du Grand Mézel, Geneva, Switzerland"
+Dominicans
+Augustinian Hermits
+Saint-Léger
+"Geneva Cathedral, Geneva, Switzerland"
+Saint-Gervais
+"Auditoire de Calvin, Geneva, Switzerland"
+"Temple de la Fusterie, Geneva, Switzerland"
+Lutheran church
+Saint-Jean monastery
+city wall
+"Champel, Geneva, Switzerland"
+Rues Basses
+Four de la Marjolaine passage
+Europe
+city intra muros
+Northern flank of the city hill
+"Avignon, France"
+the city and suburbs
+Savoy
+Port de la Fusterie
+Treille
+"Plainpalais, Geneva, Switzerland"
+the walled city
+"Rhone Island, Geneva, Switzerland"
+riverbanks and bridges
+"Paris, France"
+"Amsterdam, Netherlands"
+Netherlands
+"London, United Kingdom"
+United Kingdom
+French monarchy
+"Rue des Granges, Geneva, Switzerland"
+"Place de la Fusterie, Geneva, Switzerland"
+"Porte Neuve, Geneva, Switzerland"
+"Île Rousseau, Geneva, Switzerland"
+"Rhône River, Geneva, Switzerland"
+"Canton of Geneva, Switzerland"
+French arrondissement of the same name
+old town hall
+former residence of the French resident
+"municipalities of Geneva, Plainpalais, Les Eaux-Vives, and Le Petit-Saconnex"
+suburban communes
+Four districts named after the former municipalities
+city
+"Place Neuve, Geneva, Switzerland"
+city parliament
+Léman Department
+the municipality
+"Porte de Cornavin, Geneva, Switzerland"
+"Ile Rousseau, Geneva, Switzerland"
+"Les Tranchées, Geneva, Switzerland"
+"Grand Théâtre de Genève, Geneva, Switzerland"
+"Musée d'art et d'histoire, Geneva, Switzerland"
+"University of Geneva, Geneva, Switzerland"
+Notre-Dame
+English church
+synagogue
+Russian church
+Freemason’s temple
+Sacré-Cœur church
+Pont de Coulouvrenière
+Pont Mont-Blanc
+Pont de l'Ile
+Pont des Bergues
+Rade harbor
+Musée Rath
+"Le Petit-Saconnex, Geneva, Switzerland"
+neighboring municipalities
+"Geneva agglomeration, Switzerland"
+"Vernier, Geneva, Switzerland"
+"Vaud, Switzerland"
+French departments Ain and Haute-Savoie
+urban fringe
+Charmilles Technologies
+"Geneva, Les Grottes"
+Les Grottes
+Geneva right bank
+"Lignon, Geneva"
+Geneva old town
+"Place de Cornavin, Geneva"
+"Champel, Geneva"
+"La Praille-Acacias, Geneva"
+"Les Grottes, Geneva"
+Italian
+the lake
+city hill
+"Geneva, Porte de Cornavin"
+Porte de Cornavin
+"Les Grottes, Geneva, Switzerland"
