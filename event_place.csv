@@ -1,0 +1,657 @@
+event_id,place
+e1,"Geneva Canton, Switzerland"
+e2,"Geneva, Switzerland"
+e2,Switzerland
+e3,"Geneva, Switzerland"
+e3,Lake Geneva
+e4,"Geneva, Switzerland"
+e4,Switzerland
+e4,"Appenzell, Switzerland"
+e4,"Zug, Switzerland"
+e4,"Basel-Stadt, Switzerland"
+e5,"Geneva, Switzerland"
+e5,Château Les Chavannes
+e5,"Landecy, France"
+e6,"Geneva, Switzerland"
+e6,"Dardagny, Switzerland"
+e6,Moniaz
+e7,"Geneva, Switzerland"
+e7,"Chancy, Switzerland"
+e7,"Hermance, Switzerland"
+e7,Lake Geneva
+e8,"Geneva, Switzerland"
+e8,France
+e8,Switzerland
+e9,"Geneva, Switzerland"
+e9,Lake Geneva
+e9,"Vaud, Switzerland"
+e9,"Céligny, Switzerland"
+e10,"Ain, Auvergne-Rhône-Alpes, France"
+e11,"Geneva, Switzerland"
+e11,Geneva basin
+e12,"Geneva, Switzerland"
+e12,Jura Mountains
+e12,"Mont Vuache, France"
+e12,"Mont de Sion, Switzerland"
+e12,"Mont Salève, France"
+e12,"Les Voirons, France"
+e13,"Geneva, Switzerland"
+e13,Jura Mountains
+e13,"Mont Vuache, France"
+e13,"Mont de Sion, Switzerland"
+e13,"Mont Salève, France"
+e13,"Les Voirons, France"
+e14,Lake Geneva
+e14,Rhône River
+e14,Rive droite (right bank)
+e14,Rive gauche (left bank)
+e15,"Cologny, Geneva, Switzerland"
+e15,"Bernex, Geneva, Switzerland"
+e15,"Pregny-Chambésy, Geneva, Switzerland"
+e15,"Choully, Geneva, Switzerland"
+e15,Rhône River
+e16,"Chancy, Geneva, Switzerland"
+e16,Rhône River
+e17,Moniaz
+e18,Lake Geneva
+e19,Rhône River
+e20,"Versoix, Geneva, Switzerland"
+e20,Vengeron
+e20,Nant des Grebattes
+e20,Nant d'Avanchet
+e20,Avril
+e20,London rivers
+e20,Rhône River
+e21,"Hermance, Geneva, Switzerland"
+e21,Eaumorte
+e21,Laire
+e21,Rhône River
+e22,"Geneva, Switzerland"
+e22,"Rhône River, Switzerland/France"
+e23,"Geneva, Switzerland"
+e23,"Arve River, Switzerland/France"
+e24,"Canton of Geneva, Switzerland"
+e24,"Rhône River, Switzerland/France"
+e25,"Rhône River, Switzerland/France"
+e25,"Canton of Geneva, Switzerland"
+e25,Lake Geneva
+e26,the river course between the Jonction and Chancy
+e27,Lake Geneva
+e27,"Geneva, Switzerland"
+e28,Rhône River
+e28,Arve River
+e28,Mont Blanc
+e29,Rhône River
+e30,"Geneva, Switzerland"
+e31,"Geneva, Switzerland"
+e32,"Geneva, Switzerland"
+e32,France
+e33,Nant de Braille
+e33,"Versoix, Geneva, Switzerland"
+e33,Vengeron
+e33,Lake Geneva
+e34,Nant des Grebattes
+e34,Nant d'Avanchet
+e34,Avril
+e34,"Allondon, Geneva, Switzerland"
+e34,Rhône River
+e35,Hermance
+e35,Seimaz
+e35,Foron
+e35,Aire
+e35,Lake Geneva
+e36,Eaumorte
+e36,Laire
+e36,Rhône River
+e37,Troinex
+e38,"Geneva, Switzerland"
+e39,"Geneva, Switzerland"
+e40,"Geneva, Switzerland"
+e41,Bois de la Bâtie
+e41,"Mategnin, Switzerland"
+e42,"Upper Valais, Switzerland"
+e43,Bois de la Bâtie
+e43,"Rhône River, Switzerland"
+e44,"Lake Geneva, Switzerland"
+e45,"Rhône River, Switzerland"
+e45,"Arve River, Switzerland"
+e45,Avril
+e45,London
+e45,Eaumorte
+e45,Laire
+e46,plain between Seimaz and Foron
+e46,"Vallee de l'Aire, Geneva, Switzerland"
+e46,southwest section of the canton
+e46,"Plainpalais, Geneva, Switzerland"
+e46,London valley
+e46,"Les Pâquis, Geneva, Switzerland"
+e46,"Les Eaux-Vives, Geneva, Switzerland"
+e46,Rhône terrace banks
+e46,Tranchées east of the city
+e47,plain between Seimaz and Foron
+e47,"Vallee de l'Aire, Geneva, Switzerland"
+e47,southwest section of the canton
+e48,"Plainpalais, Geneva, Switzerland"
+e48,London valley
+e48,"Les Pâquis, Geneva, Switzerland"
+e48,"Les Eaux-Vives, Geneva, Switzerland"
+e48,Rhône terrace banks
+e49,Tranchées east of the city
+e50,Tranchées east of the city
+e50,"Arve River, Switzerland"
+e51,"Geneva, Switzerland"
+e52,"Arve River, Switzerland"
+e52,Le Bachet de Pesay
+e52,La Treille
+e52,Bois de la Bâtie
+e52,Pinchat
+e52,"Plainpalais, Geneva, Switzerland"
+e52,"Carouge, Geneva, Switzerland"
+e53,"Arve River, Switzerland"
+e54,"Arve River, Geneva, Switzerland"
+e55,"Rhône River, Geneva, Switzerland"
+e56,"Canton of Geneva, Switzerland"
+e58,"Rhône River, Switzerland"
+e59,"Geneva, Switzerland"
+e60,"Hermance, Geneva, Switzerland"
+e60,"Bellevue, Geneva, Switzerland"
+e61,"Geneva, Switzerland"
+e62,"Geneva, Switzerland"
+e62,Choully
+e62,Granges
+e62,"Dardagny, Geneva, Switzerland"
+e63,Choully
+e63,Granges
+e63,"Dardagny, Geneva, Switzerland"
+e64,Choully
+e64,"Bernex, Geneva, Switzerland"
+e64,Nant d’Avanchet
+e65,"Geneva, Switzerland"
+e65,"La Croix-de-Rozon, Geneva, Switzerland"
+e65,Drize
+e65,"Hermance, Geneva, Switzerland"
+e66,"Geneva, Switzerland"
+e67,"Geneva, Switzerland"
+e68,"Geneva, Switzerland"
+e69,"Geneva, Switzerland"
+e70,"Geneva, Switzerland"
+e71,"Geneva, Switzerland"
+e72,"Geneva, Switzerland"
+e73,"Geneva, Switzerland"
+e73,Lake Geneva shoreline areas
+e73,surrounding mountainous regions
+e74,"Geneva, Switzerland"
+e75,"Geneva, Switzerland"
+e76,"Geneva, Switzerland"
+e77,"Geneva, Switzerland"
+e78,"Geneva, Switzerland"
+e79,"Geneva, Switzerland"
+e80,"Geneva, Switzerland"
+e81,"Geneva, Switzerland"
+e82,"Geneva, Switzerland"
+e83,"Geneva, Switzerland"
+e84,"Geneva, Switzerland"
+e84,"Canton of Geneva, Switzerland"
+e85,"Geneva, Switzerland"
+e86,"Geneva, Switzerland"
+e87,"Jura Mountains, Switzerland/France"
+e88,Môle
+e88,"Arve Valley, Switzerland/France"
+e89,"Geneva, Switzerland"
+e89,Jura Mountains
+e89,Prealps
+e90,"Geneva, Switzerland"
+e90,"Alpes de Savoie, France"
+e90,Jura Mountains
+e90,Lake Geneva
+e90,"Rhône Valley, France"
+e91,"Geneva, Switzerland"
+e93,"Fort l’Écluse, Ain, France"
+e94,the plain
+e95,"Rhône Valley, Switzerland"
+e96,"Valais, Switzerland"
+e97,Switzerland
+e98,Switzerland
+e99,"Geneva, Switzerland"
+e100,"Geneva, Switzerland"
+e101,"Geneva, Switzerland"
+e102,"Geneva, Switzerland"
+e103,natural areas
+e104,"Geneva, Switzerland"
+e105,"Cologny, Geneva, Switzerland"
+e105,"Pregny-Chambésy, Geneva, Switzerland"
+e105,"Le Mandement, Canton of Geneva, Switzerland"
+e105,"Bernex, Geneva, Switzerland"
+e106,"Geneva, Switzerland"
+e107,"Geneva, Switzerland"
+e108,"Geneva, Switzerland"
+e109,"Geneva, Switzerland"
+e110,forest area
+e111,forest area
+e112,"Canton of Geneva, Switzerland"
+e113,"Canton of Geneva, Switzerland"
+e114,"Canton of Geneva, Switzerland"
+e115,"Geneva, Switzerland"
+e116,"Geneva, Switzerland"
+e117,"Geneva Horticultural School Châtelaine, Geneva, Switzerland"
+e118,"Geneva Horticultural School Châtelaine, Geneva, Switzerland"
+e119,"Geneva, Switzerland"
+e120,"Geneva, Switzerland"
+e121,"Geneva, Switzerland"
+e122,"Geneva, Switzerland"
+e125,lake
+e125,mountains
+e125,large swamp areas
+e127,locally
+e129,"Geneva, Switzerland"
+e130,"Geneva, Switzerland"
+e131,"Geneva, Switzerland"
+e132,"Geneva, Switzerland"
+e132,neighboring French départements
+e133,"Geneva, Switzerland"
+e134,"Geneva, Switzerland"
+e135,"Geneva, Switzerland"
+e136,Switzerland
+e137,Switzerland
+e138,Switzerland
+e139,Switzerland
+e140,the lake
+e140,the lakeshore cantons
+e141,"Geneva, Switzerland"
+e141,Rhône River
+e142,Rhône River
+e143,Lake Geneva
+e144,Lake Geneva
+e144,"Geneva, Switzerland"
+e145,Lake Geneva
+e145,Rhône River
+e145,Arve River
+e146,"Geneva, Switzerland"
+e147,"Geneva, Switzerland"
+e148,"Geneva, Switzerland"
+e149,"Geneva, Switzerland"
+e150,Crête
+e150,"Chêne-Bougeries, Geneva, Switzerland"
+e150,"Cointrin, Geneva, Switzerland"
+e150,Bellebouche near Gy
+e151,"Veyrier, Geneva, Switzerland"
+e153,"Geneva, Switzerland"
+e153,Switzerland
+e154,"Geneva, Switzerland"
+e154,Switzerland
+e155,"Geneva, Switzerland"
+e156,"Geneva, Switzerland"
+e157,"Canton of Geneva, Switzerland"
+e158,"Canton of Geneva, Switzerland"
+e159,"Canton of Geneva, Switzerland"
+e160,"Canton of Geneva, Switzerland"
+e161,"Canton of Geneva, Switzerland"
+e162,"Geneva, Switzerland"
+e163,"Geneva, Switzerland"
+e164,"Geneva, Switzerland"
+e165,"Geneva, Switzerland"
+e166,"Geneva, Switzerland"
+e166,"Canton of Geneva, Switzerland"
+e166,other Swiss regions
+e167,"Geneva, Switzerland"
+e167,France
+e168,"Geneva, Switzerland"
+e168,France
+e169,population
+e170,"Geneva, Switzerland"
+e171,"Geneva, Switzerland"
+e172,"Geneva, Switzerland"
+e173,"Geneva, Switzerland"
+e174,"Geneva, Switzerland"
+e175,"Geneva, Switzerland"
+e176,"Geneva, Switzerland"
+e177,"Geneva, Switzerland"
+e178,"Geneva, Switzerland"
+e179,"Geneva, Switzerland"
+e180,"Geneva, Switzerland"
+e182,"Geneva, Switzerland"
+e183,"Geneva, Switzerland"
+e184,"Geneva, Switzerland"
+e185,"Geneva, Switzerland"
+e186,"Geneva, Switzerland"
+e186,"La Coulouvrenière, Geneva, Switzerland"
+e186,"Chèvres, Geneva, Switzerland"
+e187,"Geneva, Switzerland"
+e187,Rhône River
+e188,"Geneva, Switzerland"
+e189,"Geneva, Switzerland"
+e190,"Geneva, Switzerland"
+e191,"Geneva, Switzerland"
+e192,"Geneva, Switzerland"
+e193,"Geneva, Switzerland"
+e194,"Geneva, Switzerland"
+e195,"Geneva, Switzerland"
+e196,"Geneva, Switzerland"
+e197,"Geneva, Switzerland"
+e198,"Geneva, Switzerland"
+e198,Switzerland
+e198,France
+e198,Italy
+e198,United States
+e199,"Geneva, Switzerland"
+e200,"Geneva, Switzerland"
+e201,"Geneva, Switzerland"
+e202,"Canton of Geneva, Switzerland"
+e203,"Geneva, Switzerland"
+e204,"Geneva, Switzerland"
+e205,"Geneva, Switzerland"
+e205,France
+e206,"Pays de Gex, France"
+e206,"Valserine, France"
+e207,"Savoy, France"
+e207,France
+e208,France
+e208,"Rhône River, France"
+e208,"Seyssel, France"
+e208,"Les Usses, France"
+e208,Évire
+e208,"Saint-Jean-de-Sixt, France"
+e208,"La Giétaz, France"
+e208,"Flumet, France"
+e208,Italy
+e209,"Thonon-les-Bains, France"
+e209,"Bonneville, Haute-Savoie, France"
+e209,"Saint-Julien-en-Genevois, France"
+e209,"Annecy, France"
+e210,"Geneva, Switzerland"
+e210,"Pays de Gex, France"
+e210,"Savoy, France"
+e211,"Pays de Gex, France"
+e211,"Savoy, France"
+e212,"Geneva, Switzerland"
+e212,Switzerland
+e212,Southern France
+e212,Algeria
+e212,Spain
+e213,"Geneva, Switzerland"
+e214,Cornavin station
+e215,"Geneva, Switzerland"
+e215,Les Eaux Vives station
+e215,"Haute-Savoie, France"
+e216,"Geneva, Switzerland"
+e217,"Geneva Cornavin railway station, Geneva, Switzerland"
+e217,"Geneva Eaux-Vives railway station, Geneva, Switzerland"
+e218,"Geneva, Switzerland"
+e218,Geneva-Veyrier line
+e219,Fernex-Gex
+e219,Saint Julien
+e219,Étrembières
+e219,Douvaine
+e219,Collonges sous Salève
+e220,"Versoix, Switzerland"
+e220,Fernex
+e220,"Vernier, Switzerland"
+e220,Saint Georges
+e220,"Chancy, Switzerland"
+e220,"Lancy, Switzerland"
+e220,Saint Julien
+e220,Collonges sous Salève
+e220,"Jussy, Switzerland"
+e220,Douvaine
+e220,"Hermance, Switzerland"
+e221,Collonges sous Salève
+e222,"Arve River, Geneva, Switzerland"
+e223,"Rhône River, Switzerland/France"
+e223,"Bellegarde-sur-Valserine, Ain, France"
+e224,"Geneva, Switzerland"
+e224,"Rhône River, Switzerland/France"
+e225,Lake Geneva
+e226,"Meillerie, Haute-Savoie, France"
+e226,"Geneva harbor, Geneva, Switzerland"
+e227,"Geneva harbor, Geneva, Switzerland"
+e228,"Geneva, Switzerland"
+e229,"Geneva, Switzerland"
+e230,"Geneva, Switzerland"
+e231,"Geneva, Switzerland"
+e232,"Geneva, Switzerland"
+e233,"Canton of Geneva, Switzerland"
+e234,"City of Geneva, Switzerland"
+e235,the right bank
+e236,the left bank
+e238,rural areas
+e238,the city
+e242,"Canton of Geneva, Switzerland"
+e243,"Canton of Geneva, Switzerland"
+e244,"Canton of Geneva, Switzerland"
+e245,"Geneva, Switzerland"
+e246,"Geneva, Switzerland"
+e247,"Geneva, Switzerland"
+e248,"Geneva, Switzerland"
+e251,"Geneva, Switzerland"
+e251,"Carouge, Geneva, Switzerland"
+e251,"Chêne-Bourg, Geneva, Switzerland"
+e251,"Petit-Saconnex, Geneva, Switzerland"
+e257,"Canton of Geneva, Switzerland"
+e257,"Geneva, Switzerland"
+e258,"Canton of Geneva, Switzerland"
+e259,"Canton of Geneva, Switzerland"
+e260,"Geneva, Switzerland"
+e261,"Geneva, Switzerland"
+e262,"Geneva, Switzerland"
+e263,"Geneva, Switzerland"
+e264,"Geneva, Switzerland"
+e265,"Geneva, Switzerland"
+e266,"Geneva, Switzerland"
+e267,"Geneva, Switzerland"
+e268,"Geneva, Switzerland"
+e269,"Geneva, Switzerland"
+e270,"Geneva, Switzerland"
+e271,"Geneva, Switzerland"
+e272,"Geneva, Switzerland"
+e273,"Geneva, Switzerland"
+e274,"Geneva, Switzerland"
+e275,canton
+e276,canton
+e277,canton
+e278,canton
+e279,canton
+e280,"Geneva Canton, Switzerland"
+e281,"Geneva Canton, Switzerland"
+e282,"Geneva Canton, Switzerland"
+e283,"Geneva, Switzerland"
+e284,"Geneva, Switzerland"
+e285,"Geneva, Switzerland"
+e286,"Canton of Geneva, Switzerland"
+e287,"Canton of Geneva, Switzerland"
+e288,"Canton of Geneva, Switzerland"
+e289,"Canton of Geneva, Switzerland"
+e290,"Geneva, Switzerland"
+e291,"Geneva, Switzerland"
+e292,"Geneva, Switzerland"
+e293,Collège (cantonal school)
+e293,higher girls’ school (École secondaire et supérieure des jeunes filles)
+e294,Collège (cantonal school)
+e295,higher girls’ school (École secondaire et supérieure des jeunes filles)
+e296,rural communities
+e299,the cantonal horticultural school Châtelaine
+e300,"Geneva, Switzerland"
+e301,"Geneva, Switzerland"
+e302,"Geneva, Switzerland"
+e303,the city
+e303,the country
+e304,"Canton of Geneva, Switzerland"
+e305,the city
+e306,"Geneva, Switzerland"
+e307,"Geneva, Switzerland"
+e308,"Geneva, Switzerland"
+e311,"Geneva, Switzerland"
+e312,"Geneva, Switzerland"
+e313,"Geneva, Switzerland"
+e314,"Geneva, Switzerland"
+e315,"Geneva, Switzerland"
+e316,"Geneva, Switzerland"
+e317,"Geneva, Switzerland"
+e320,"Geneva, Switzerland"
+e322,cantonal hospital
+e323,women’s clinic (Maternité)
+e323,cantonal hospital
+e324,cantonal hospital
+e324,women’s clinic (Maternité)
+e324,asylum for mental diseases
+e325,"Bel Air, Thônex, Switzerland"
+e326,Loex asylum
+e327,"Petit Saconnex, Geneva, Switzerland"
+e328,city
+e328,district
+e328,rural areas
+e329,city
+e329,district
+e329,rural areas
+e330,"Canton of Geneva, Switzerland"
+e331,"Canton of Geneva, Switzerland"
+e332,"Plainpalais, Geneva, Switzerland"
+e333,"Les Pâquis, Geneva, Switzerland"
+e334,"Les Pâquis, Geneva, Switzerland"
+e335,"Plainpalais, Geneva, Switzerland"
+e337,"Petit-Saconnex, Geneva, Switzerland"
+e339,"Grand-Saconnex, Geneva, Switzerland"
+e341,"Geneva, Switzerland"
+e343,the canton
+e344,"Chêne-Bougeries, Geneva, Switzerland"
+e345,"Varembé, Geneva, Switzerland"
+e346,"Anières, Geneva, Switzerland"
+e347,"Carouge, Geneva, Switzerland"
+e352,Hospice général
+e360,"Geneva, Switzerland"
+e360,"Plainpalais, Geneva, Switzerland"
+e360,"Carouge, Geneva, Switzerland"
+e364,state
+e366,"Geneva, Switzerland"
+e367,"Geneva, Switzerland"
+e368,"Geneva, Switzerland"
+e369,"Geneva, Switzerland"
+e370,"Geneva, Switzerland"
+e371,"Geneva, Switzerland"
+e372,the state
+e373,the state
+e374,the state
+e375,"Geneva, Switzerland"
+e375,city of the Allobroges
+e376,"Geneva, Switzerland"
+e376,Romans
+e377,"Geneva, Switzerland"
+e377,Rhône bridge
+e378,land left of the river
+e378,land right of the river
+e379,"Geneva, Switzerland"
+e380,"Geneva, Switzerland"
+e380,"Burgundy, France"
+e381,"Geneva, Switzerland"
+e382,"Geneva, Switzerland"
+e382,"Burgundy, France"
+e383,realm
+e384,"Geneva, Switzerland"
+e385,"Geneva, Switzerland"
+e386,"Geneva, Switzerland"
+e387,"Geneva, Switzerland"
+e388,"Geneva, Switzerland"
+e389,"Geneva, Switzerland"
+e390,"Lake Geneva, Switzerland"
+e390,"Geneva, Switzerland"
+e391,"Geneva, Switzerland"
+e392,"Geneva, Switzerland"
+e393,"Fribourg, Switzerland"
+e394,"Fribourg, Switzerland"
+e394,"Bern, Switzerland"
+e395,"Geneva, Switzerland"
+e396,"Bern, Switzerland"
+e396,"Fribourg, Switzerland"
+e396,"Geneva, Switzerland"
+e398,"Payerne, Switzerland"
+e399,"Geneva, Switzerland"
+e400,"Fribourg, Switzerland"
+e400,"Geneva, Switzerland"
+e401,"Savoy, France"
+e401,"Geneva, Switzerland"
+e401,"Bern, Switzerland"
+e402,"Geneva, Switzerland"
+e403,"Geneva, Switzerland"
+e404,"Geneva, Switzerland"
+e405,"Geneva, Switzerland"
+e406,"Geneva, Switzerland"
+e407,"Geneva, Switzerland"
+e409,"Geneva, Switzerland"
+e410,"Bern, Switzerland"
+e410,"Zurich, Switzerland"
+e410,"Geneva, Switzerland"
+e410,"Savoy, France"
+e411,"Savoy, France"
+e411,"Geneva, Switzerland"
+e412,"Geneva, Switzerland"
+e413,"Geneva, Switzerland"
+e414,"Geneva, Switzerland"
+e415,"Geneva, Switzerland"
+e416,"Geneva, Switzerland"
+e417,France
+e417,"Bern, Switzerland"
+e417,"Zurich, Switzerland"
+e421,France
+e421,"Bern, Switzerland"
+e421,Sardinia
+e423,"Geneva, Switzerland"
+e424,"Geneva, Switzerland"
+e425,"Geneva, Switzerland"
+e426,"Geneva, Switzerland"
+e426,département du Léman
+e427,"Geneva, Switzerland"
+e428,"Geneva, Switzerland"
+e429,"Geneva, Switzerland"
+e430,"Basel, Switzerland"
+e431,"Geneva, Switzerland"
+e432,"Geneva, Switzerland"
+e433,"Geneva, Switzerland"
+e433,Switzerland
+e434,"Fribourg, Switzerland"
+e434,"Geneva, Switzerland"
+e435,"Geneva, Switzerland"
+e435,Switzerland
+e436,"Geneva, Switzerland"
+e436,"Pays de Gex, France"
+e436,"Collex-Bossy, Switzerland"
+e436,"Meyrin, Switzerland"
+e436,"Pregny-Chambésy, Switzerland"
+e436,"Grand-Saconnex, Switzerland"
+e436,"Vernier, Switzerland"
+e436,"Versoix, Switzerland"
+e436,"Savoy, France"
+e436,"Aire-la-Ville, Switzerland"
+e436,Avusy-Laconnex-Soral
+e436,Bernex-Onex-Confignon
+e436,"Carouge, Switzerland"
+e436,Chêne-Thônex
+e436,"Choulex, Switzerland"
+e436,Collonge-Bellerive
+e436,"Compesières, Switzerland"
+e436,"Corsier, Switzerland"
+e436,"Hermance, Switzerland"
+e436,"Lancy, Switzerland"
+e436,"Meinier, Switzerland"
+e436,Perly-Certoux
+e436,"Presinge, Switzerland"
+e436,"Troinex, Switzerland"
+e436,"Veyrier, Switzerland"
+e437,"Geneva, Switzerland"
+e437,left Rhône bank
+e438,"Geneva, Switzerland"
+e438,"Saint-Gervais, France"
+e439,the city
+e439,the 16 Savoy municipalities
+e439,13 Reformed municipalities
+e439,six French ones
+e440,"Geneva, Switzerland"
+e441,"Geneva, Switzerland"
+e442,"Geneva, Switzerland"
+e443,"Geneva, Switzerland"
+e444,"Geneva, Switzerland"
+e445,"Geneva, Switzerland"
+e446,"Geneva, Switzerland"
+e447,"Geneva, Switzerland"
+e448,"Geneva, Switzerland"
+e449,"Geneva, Switzerland"
+e450,"Geneva, Switzerland"
+e451,"Geneva, Switzerland"
