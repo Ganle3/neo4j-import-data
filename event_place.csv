@@ -1,0 +1,1399 @@
+event_id,place
+e1,"Lausanne, Vaud, Switzerland"
+e1,"Vaud, Switzerland"
+e2,"Lausanne, Vaud, Switzerland"
+e2,"Lausanne, Vaud, Switzerland"
+e3,"Lausanne, Vaud, Switzerland"
+e3,"Vaud, Switzerland"
+e3,Lake Geneva
+e4,"Lausanne, Vaud, Switzerland"
+e4,"Échallens District, Vaud, Switzerland"
+e4,"Lavaux District, Vaud, Switzerland"
+e4,Lake Geneva
+e4,"Morges District, Vaud, Switzerland"
+e5,"Lausanne, Vaud, Switzerland"
+e5,"Cossonay District, Vaud, Switzerland"
+e5,"Oron District, Vaud, Switzerland"
+e6,"Lausanne, Vaud, Switzerland"
+e6,"Vaud, Switzerland"
+e7,southern slope
+e7,Rhone River
+e7,Aare River
+e8,Lake Geneva
+e8,Sorge
+e8,Mèbre
+e8,Chamberonne
+e9,"Lausanne, Switzerland"
+e10,"Lausanne, Switzerland"
+e11,"Lavaux, Vaud, Switzerland"
+e12,"Lavaux, Vaud, Switzerland"
+e13,northeastern section of the district
+e13,"Aare River Basin, Switzerland"
+e14,"Chalet à Gobet, Vaud, Switzerland"
+e15,Bressonnaz
+e15,Broye
+e16,Mèbre
+e16,Flon
+e17,Lake Geneva
+e17,mouth of the Chamberonne
+e17,"Paudex, Vaud, Switzerland"
+e18,"Lausanne District, Vaud, Switzerland"
+e18,"Romanel-sur-Lausanne, Vaud, Switzerland"
+e18,"Lausanne, Vaud, Switzerland"
+e18,"Pully, Vaud, Switzerland"
+e19,"Lausanne, Vaud, Switzerland"
+e19,Les Vernands
+e19,"Romanel-sur-Lausanne, Vaud, Switzerland"
+e20,"Romanel-sur-Lausanne, Vaud, Switzerland"
+e20,"Cheseaux-sur-Lausanne, Vaud, Switzerland"
+e20,"Crissier, Vaud, Switzerland"
+e20,"Jouxtens-Mézery, Vaud, Switzerland"
+e20,"Le Mont-sur-Lausanne, Vaud, Switzerland"
+e20,"Prilly, Vaud, Switzerland"
+e20,"Renens, Vaud, Switzerland"
+e20,"Romanel-sur-Lausanne, Vaud, Switzerland"
+e20,"Pully, Vaud, Switzerland"
+e20,"Belmont-sur-Lausanne, Vaud, Switzerland"
+e20,"Epalinges, Vaud, Switzerland"
+e20,"Paudex, Vaud, Switzerland"
+e20,"Pully, Vaud, Switzerland"
+e21,"Lausanne, Switzerland"
+e22,"Lausanne, Switzerland"
+e23,"Lausanne, Switzerland"
+e24,"Lausanne, Switzerland"
+e24,the countryside
+e24,"District of Lausanne, Switzerland"
+e25,"Lausanne, Switzerland"
+e26,the countryside
+e27,"District of Lausanne, Switzerland"
+e28,"District of Lausanne, Switzerland"
+e29,"District of Lausanne, Switzerland"
+e30,"District of Lausanne, Switzerland"
+e31,"District of Lausanne, Switzerland"
+e32,the district
+e33,the district
+e34,the district
+e35,the district
+e36,the district
+e37,the district
+e38,the district
+e39,the district
+e39,the city
+e40,the district
+e41,the district
+e42,the district
+e43,"Lausanne, Switzerland"
+e44,"Lausanne, Switzerland"
+e44,Geneva-Lyon
+e44,"Vallorbe, Switzerland"
+e44,"Vallée de Joux, Switzerland"
+e44,Pontarlier-Paris
+e44,Yverdon-Neuchâtel
+e44,Fribourg-Bern
+e44,"Palézieux, Switzerland"
+e44,Moudon-Payerne-Lyss
+e44,Saint Maurice-Brig-Simplon
+e45,Échallens-Bercher
+e46,Le Chalet à Gobet-Moudon
+e46,"Savigny, Switzerland"
+e47,Lausanne-Ouchy
+e47,Lausanne-Signal
+e48,"Ouchy, Lausanne, Switzerland"
+e49,"Ouchy, Lausanne, Switzerland"
+e50,"Pully, Vaud, Switzerland"
+e51,Lausanne-Le Mont-Poliez Pittet
+e51,Lausanne-Belmont-Forel
+e53,lower-lying southern section
+e54,noticeably higher northern section
+e55,lower-lying southern section
+e55,noticeably higher northern section
+e62,"Lausanne, Switzerland"
+e63,"Lausanne, Switzerland"
+e64,"Ouchy, Lausanne, Switzerland"
+e65,"Paudex, Switzerland"
+e66,"Renens, Switzerland"
+e67,"Épalinges, Switzerland"
+e67,Praz-Léchaud (near Les Croisettes)
+e68,La Rosiaz (above Pully)
+e68,Tivoli (Montbenon)
+e69,Palaz
+e70,"La Sallaz, Lausanne, Switzerland"
+e71,"Belmont-sur-Lausanne, Switzerland"
+e72,"Crissier, Switzerland"
+e73,Le Mont
+e73,"Pully, Switzerland"
+e73,"Renens, Switzerland"
+e74,"Lausanne, Switzerland"
+e74,"Sauvabelin, Lausanne, Switzerland"
+e74,"Chailly, Lausanne, Switzerland"
+e74,"Vennes, Lausanne, Switzerland"
+e74,Vers chez les Blancs
+e74,Le Chalet à Gobet
+e74,La Bérallaz
+e74,Montherond
+e75,"Prilly, Switzerland"
+e76,"Lausanne, Vaud, Switzerland"
+e77,"Lausanne, Vaud, Switzerland"
+e77,"Jorat, Vaud, Switzerland"
+e77,Lake Geneva
+e78,"Lausanne, Vaud, Switzerland"
+e78,Lake Geneva
+e78,"Ouchy, Lausanne, Vaud, Switzerland"
+e79,"Lausanne, Vaud, Switzerland"
+e80,the city
+e80,Flon
+e80,Louve
+e81,the city
+e81,Flon
+e81,Louve
+e82,Flon
+e82,Louve
+e83,Place du Tunnel
+e83,Place de la Riponne
+e83,Place du Pont
+e83,Place Centrale
+e83,Place Pépinet
+e83,Place du Flon
+e84,"Flon, Lausanne, Switzerland"
+e84,"Maladière, Lausanne, Switzerland"
+e85,"Flon, Lausanne, Switzerland"
+e85,"Louve, Lausanne, Switzerland"
+e85,"Lausanne, Switzerland"
+e86,"Signal, Lausanne, Switzerland"
+e86,"Lausanne, Switzerland"
+e86,Cité
+e87,Bourg
+e87,"Flon, Lausanne, Switzerland"
+e87,"Montbenon, Lausanne, Switzerland"
+e88,Saint Laurent
+e88,"Louve, Lausanne, Switzerland"
+e89,"Signal, Lausanne, Switzerland"
+e89,Bourg
+e89,Saint Laurent
+e90,"Cour, Lausanne, Switzerland"
+e90,Mont Riond le Crêt
+e91,"Lausanne, Vaud, Switzerland"
+e91,"District of Lausanne, Vaud, Switzerland"
+e91,"Canton of Vaud, Switzerland"
+e92,"Lausanne, Vaud, Switzerland"
+e92,lakeshore
+e92,"Jorat, Vaud, Switzerland"
+e92,"Chamberonne, Lausanne, Vaud, Switzerland"
+e92,"Montagne du Château, Lausanne, Vaud, Switzerland"
+e93,"Lausanne, Vaud, Switzerland"
+e93,"Romanel-sur-Lausanne, Vaud, Switzerland"
+e93,settlement group Les Vernands
+e94,"Épalinges, Vaud, Switzerland"
+e94,"Lausanne, Vaud, Switzerland"
+e95,"Lausanne, Vaud, Switzerland"
+e95,Diocese of Lausanne
+e96,municipality
+e96,"Aare River Basin, Switzerland"
+e96,Talent
+e96,"Orbe, Vaud, Switzerland"
+e96,Bressonnaz
+e96,"Broye River, Switzerland"
+e97,municipality
+e97,Lake Geneva
+e97,Rhône River
+e98,"Aare River Basin, Switzerland"
+e98,Flon
+e98,Louve
+e98,"Sept Fontaines, Épalinges, Vaud, Switzerland"
+e98,Chamberonne
+e98,Vuachère
+e98,Flon-Morand
+e98,Chandelard
+e98,Paudèze
+e99,"Lausanne, Vaud, Switzerland"
+e99,"Lausanne, Vaud, Switzerland"
+e99,"Cour, Lausanne, Vaud, Switzerland"
+e99,"Ouchy, Lausanne, Vaud, Switzerland"
+e99,"La Pontaise, Lausanne, Vaud, Switzerland"
+e99,"Vidy, Lausanne, Vaud, Switzerland"
+e99,La Chablière
+e99,Les Plaines du Loup
+e99,"Vennes, Lausanne, Vaud, Switzerland"
+e99,"Chailly, Lausanne, Vaud, Switzerland"
+e99,"La Sallaz, Lausanne, Vaud, Switzerland"
+e99,Montblesson
+e99,Vers chez Les Blancs
+e99,Le Chalet à Gobet
+e99,Montherond
+e99,"Romanel-sur-Lausanne, Vaud, Switzerland"
+e99,Le Taulard
+e100,"Lausanne, Switzerland"
+e101,"Lausanne, Switzerland"
+e102,"Lausanne, Switzerland"
+e103,"Lausanne, Switzerland"
+e104,"Lausanne, Switzerland"
+e105,"Lausanne, Switzerland"
+e106,"Rosemont, Lausanne, Switzerland"
+e106,the central station
+e106,the Scottish church
+e106,"Bellevue, Lausanne, Switzerland"
+e107,"Lausanne, Switzerland"
+e108,Plaine du Loup
+e108,"Murten, Switzerland"
+e109,"Ouchy, Lausanne, Switzerland"
+e109,Lake Geneva
+e109,the northern foot of the Montbenon and Bourg heights
+e110,"Lausanne, Switzerland"
+e111,"South of Lausanne, Switzerland"
+e112,"Lausanne, Switzerland"
+e112,"Rhone Glacier, Switzerland"
+e112,"Lake Neuchâtel, Switzerland"
+e113,"Jorat, Vaud, Switzerland"
+e113,"La Pontaise, Lausanne, Switzerland"
+e114,"Flon, Lausanne, Switzerland"
+e114,"Louve, Lausanne, Switzerland"
+e115,Cité hill
+e115,"Jorat, Vaud, Switzerland"
+e116,Signal
+e116,Cité hill
+e116,"Jorat, Vaud, Switzerland"
+e117,"Flon, Lausanne, Switzerland"
+e117,Louve
+e117,"Place de Pépinet, Lausanne, Switzerland"
+e118,Flon
+e118,"Lake Geneva, Switzerland/France"
+e119,"La Pontaise, Lausanne, Switzerland"
+e119,the slopes toward the Flon
+e119,"La Cité, Lausanne, Switzerland"
+e119,the spur of Signal
+e119,"the gently sloping quarters Bugnion, Mont Repos, and the surroundings of the hospital"
+e120,"Lake Geneva basin, Switzerland/France"
+e120,"the elongated hill ridge carrying the Bourg, Saint François, and Montbenon quarters"
+e121,Flon
+e121,"Lake Geneva, Switzerland/France"
+e121,"the elongated hill ridge carrying the Bourg, Saint François, and Montbenon quarters"
+e121,"Malley, Lausanne, Switzerland"
+e123,Rue de Bourg
+e123,Montbenon
+e124,Avenue de la Gare
+e125,Avenue Ruchonnet
+e126,Vuachère
+e126,Flon
+e127,"Pully, Vaud, Switzerland"
+e127,Château Sec
+e127,Mont Choisi
+e128,Mont Riond
+e129,"Mont Riond, Lausanne, Switzerland"
+e130,Lake Geneva
+e130,Beau Regard
+e130,Beau Rivage
+e130,"Ouchy, Lausanne, Switzerland"
+e131,Montoie cemetery
+e132,"Lausanne, Switzerland"
+e133,Champ de l’Air
+e134,"Champ de l'Air, Lausanne, Switzerland"
+e134,"Saint François quarter, Lausanne, Switzerland"
+e134,"Ouchy, Lausanne, Switzerland"
+e135,Lake Geneva
+e144,"Lausanne, Switzerland"
+e144,"Lavaux, Switzerland"
+e145,"Lausanne, Switzerland"
+e146,Flon
+e146,Louve
+e147,"Lausanne, Switzerland"
+e148,"Lausanne, Switzerland"
+e149,"Lausanne, Switzerland"
+e150,"Lausanne, Switzerland"
+e151,"Lausanne, Switzerland"
+e152,"Lausanne, Switzerland"
+e153,"Lausanne, Switzerland"
+e154,"Lausanne, Switzerland"
+e155,"Lausanne, Switzerland"
+e156,"Lausanne, Switzerland"
+e157,"Lausanne, Switzerland"
+e158,"Lausanne, Switzerland"
+e159,"Lausanne, Switzerland"
+e160,"Lausanne, Switzerland"
+e161,"Lausanne, Switzerland"
+e162,"Swiss Plateau, Switzerland"
+e162,"Lausanne, Switzerland"
+e163,"Lausanne, Switzerland"
+e164,"Lausanne, Switzerland"
+e165,"Lausanne, Switzerland"
+e165,"Cully, Switzerland"
+e165,"Lutry, Switzerland"
+e166,"Lausanne, Switzerland"
+e167,"Lausanne, Switzerland"
+e168,"Lavaux, Switzerland"
+e168,the Côte
+e169,"Jorat, Switzerland"
+e170,"Lausanne, Switzerland"
+e170,Lake Geneva
+e170,"Jorat, Switzerland"
+e171,"Lausanne, Switzerland"
+e172,"Lausanne, Vaud, Switzerland"
+e172,"Vaud, Switzerland"
+e173,"Vaud, Switzerland"
+e174,"Vaud, Switzerland"
+e175,"Lausanne, Switzerland"
+e176,municipal area
+e177,the city and surroundings
+e177,Les Râpes and Les Vernands
+e178,the city and surroundings
+e178,Les Râpes and Les Vernands
+e179,lower slopes facing the lake
+e180,gardens around Lausanne and Vevey
+e181,"Vevey, Switzerland"
+e182,"Clarens, Switzerland"
+e183,"Vevey, Switzerland"
+e183,"Clarens, Switzerland"
+e184,"Ouchy, Lausanne, Switzerland"
+e185,"Ouchy, Lausanne, Switzerland"
+e185,"Lausanne, Switzerland"
+e185,the Insubrian lake zone
+e186,"Lausanne, Switzerland"
+e187,"Ouchy, Lausanne, Switzerland"
+e187,"Lausanne, Switzerland"
+e188,Europe's western coast
+e189,"Lausanne, Switzerland"
+e190,"Lausanne, Switzerland"
+e191,north and west of the city
+e192,"Lausanne, Switzerland"
+e193,"Lausanne, Switzerland"
+e196,"Lausanne, Switzerland"
+e197,"Lausanne, Switzerland"
+e198,"Lausanne, Switzerland"
+e199,"Lausanne, Switzerland"
+e200,"Lausanne, Switzerland"
+e201,"Lausanne, Switzerland"
+e202,old town streets
+e203,"Place de la Riponne, Lausanne, Switzerland"
+e204,"Lausanne, Switzerland"
+e204,the Flon
+e205,Grand Pont or Pont Pichard
+e206,Grand Pont or Pont Pichard
+e206,"Lausanne-Ouchy funicular, Lausanne, Switzerland"
+e206,"Flon station, Lausanne, Switzerland"
+e207,Grand Pont or Pont Pichard
+e209,Tunnel de la Barre
+e209,Cité hill
+e209,Signal
+e210,Tunnel de la Barre
+e211,Tunnel de la Barre
+e213,"Place de la Riponne, Lausanne, Switzerland"
+e213,"Place du Pont, Lausanne, Switzerland"
+e213,"Place Centrale, Lausanne, Switzerland"
+e213,"Place du Flon, Lausanne, Switzerland"
+e213,"Place du Tunnel, Lausanne, Switzerland"
+e214,main station
+e214,"Lausanne old town, Lausanne, Switzerland"
+e215,main station
+e215,"Montbenon, Lausanne, Switzerland"
+e215,"Place de Chauderon, Lausanne, Switzerland"
+e216,"Ouchy, Lausanne, Switzerland"
+e217,"Flon valley, Lausanne, Switzerland"
+e217,"Cathedral of Lausanne, Lausanne, Switzerland"
+e217,medical faculty building
+e217,Realschule
+e217,Caroline
+e217,"Lausanne old town, Lausanne, Switzerland"
+e217,"Villamont, Lausanne, Switzerland"
+e217,"Le Bugnon, Lausanne, Switzerland"
+e217,hospital
+e217,"Rue de Bourg, Lausanne, Switzerland"
+e217,Saint Pierre and Martheray quarters
+e218,"Lausanne, Switzerland"
+e219,old town
+e219,outer quarters
+e220,"Lausanne, Switzerland"
+e220,Lake Geneva
+e220,Alps
+e221,"Lausanne, Switzerland"
+e222,"Lausanne, Switzerland"
+e222,Lake Geneva
+e223,"Lausanne, Switzerland"
+e224,"Lausanne, Switzerland"
+e224,five hills
+e224,Lake Geneva
+e225,"Lausanne, Switzerland"
+e226,"Lausanne, Switzerland"
+e227,"Lausanne, Switzerland"
+e227,"Meillerie, France"
+e227,Arvel (Villeneuve)
+e227,"Savonnières, France"
+e228,Tour de l’Ale
+e229,old city maze
+e230,The Cité
+e230,"Lausanne, Switzerland"
+e231,The Cité
+e231,"Lausanne, Switzerland"
+e232,The Cité
+e232,"Lausanne, Switzerland"
+e233,"Lausanne Cathedral, Lausanne, Switzerland"
+e234,"Lausanne Cathedral, Lausanne, Switzerland"
+e235,"Lausanne Cathedral, Lausanne, Switzerland"
+e236,"Lausanne Cathedral, Lausanne, Switzerland"
+e238,"Lausanne, Switzerland"
+e240,Holy Land
+e241,the cathedral
+e242,the cathedral
+e243,the cathedral
+e244,the cathedral
+e245,the cathedral
+e246,the nave
+e246,the transept
+e246,the sanctuary
+e247,the nave
+e247,the sanctuary
+e248,the sanctuary
+e249,choir
+e250,"Vaud, Switzerland"
+e250,"Bern, Switzerland"
+e250,cathedral
+e251,"Bern, Switzerland"
+e253,"Franche-Comté, France"
+e253,"Chillon, Switzerland"
+e254,the cathedral
+e255,"Rolle, Vaud, Switzerland"
+e256,the cathedral
+e256,"Vaud, Switzerland"
+e257,Saint Maurice Chapel
+e257,north aisle
+e258,Saint Maurice Chapel
+e259,Saint Maurice Chapel
+e260,Saint Maurice Chapel
+e261,Saint Maurice Chapel
+e261,south aisle
+e262,"Vaud, Switzerland"
+e263,"Geneva, Switzerland"
+e263,"Lausanne, Switzerland"
+e263,"Sion, Switzerland"
+e263,"Burgundy, France"
+e263,"Faucigny, France"
+e263,"Lavaux, Switzerland"
+e264,one nave pillar
+e265,one nave pillar
+e267,the cathedral
+e267,"Männedorf, Zurich, Switzerland"
+e268,the cathedral
+e269,"Lausanne, Switzerland"
+e269,the cathedral
+e269,Saint François church
+e269,Saint Laurent
+e272,the choir
+e273,the choir
+e274,the choir
+e275,the choir
+e277,the cathedral
+e278,the choir
+e278,the transept
+e279,cathedral
+e280,cathedral
+e281,Switzerland
+e285,"Vaud, Switzerland"
+e287,The castle
+e288,The castle
+e289,The castle
+e290,The castle
+e291,The castle
+e292,"Vufflens, Vaud, Switzerland"
+e292,"Estavayer-le-Lac, Fribourg, Switzerland"
+e293,the monument to patriot Major Davel
+e294,bishop’s room
+e295,Grand Council building
+e296,The Saint François church
+e297,The Saint François church
+e298,The Saint François church
+e299,The Saint François church
+e300,"Saint Laurent Church, Lausanne, Switzerland"
+e301,"Ouchy, Lausanne, Switzerland"
+e302,"Ouchy, Lausanne, Switzerland"
+e303,"Ouchy, Lausanne, Switzerland"
+e304,"Chailly, Lausanne, Switzerland"
+e305,"Notre Dame Church, Rue du Valentin, Lausanne, Switzerland"
+e306,"Notre Dame Church, Rue du Valentin, Lausanne, Switzerland"
+e307,"Lausanne, Les Terreaux, Switzerland"
+e307,"Lausanne, Martheray, Switzerland"
+e307,"Lausanne, La Pontaise, Switzerland"
+e307,"Lausanne, Villard, Switzerland"
+e308,"Lausanne, La Mercerie, Switzerland"
+e309,"Lausanne, Croix d’Ouchy, Switzerland"
+e310,"Lausanne, Martheray, Switzerland"
+e311,"Lausanne, Place du Flon, Switzerland"
+e312,"Lausanne, Valentin, Switzerland"
+e313,"Lausanne, Solitude, Switzerland"
+e314,"Lausanne, Grancy, Switzerland"
+e315,"Lausanne, Avenue de Rumine, Switzerland"
+e316,"Lausanne, Grand Chêne, Switzerland"
+e317,"Lausanne, Rue Saint Martin, Switzerland"
+e318,"Place de la Palud, Lausanne, Switzerland"
+e318,town hall
+e319,"Place de la Palud, Lausanne, Switzerland"
+e319,town hall
+e320,"Place de la Palud, Lausanne, Switzerland"
+e320,town hall
+e321,town hall
+e322,"Rumine Palace, Lausanne, Switzerland"
+e323,"Rumine Palace, Lausanne, Switzerland"
+e324,Grenette or granary
+e324,"Place de la Riponne, Lausanne, Switzerland"
+e325,Grenette or granary
+e325,Louve
+e326,Federal Supreme Court Palace
+e327,"Lausanne, Place Saint François, Switzerland"
+e327,Switzerland
+e328,"Lausanne, Place Saint François, Switzerland"
+e329,"Lausanne, Place Saint François, Switzerland"
+e330,Rue du Théâtre
+e330,Rue de Beau Séjour
+e331,"Bel Air, Lausanne, Switzerland"
+e332,"Champ de l'Air, Lausanne, Switzerland"
+e333,the cantonal hospital
+e334,the old academy
+e335,the old bishop’s palace (Évêché)
+e336,the old bishop’s palace (Évêché)
+e339,La Pontaise quarter
+e340,Saint Roch
+e341,Beaulieu
+e342,Villamont
+e343,"Ouchy, Lausanne, Switzerland"
+e344,La Barre
+e345,La Madeleine
+e348,Realschule
+e349,Musée Arlaud
+e351,the castle
+e352,"Plaine de Vidy, Lausanne, Switzerland"
+e353,"Place du Château, Lausanne, Switzerland"
+e353,"La Sallaz Cemetery, Lausanne, Switzerland"
+e354,"Lausanne, Switzerland"
+e355,"Lausanne, Switzerland"
+e356,"Lausanne, Switzerland"
+e357,"Lausanne, Switzerland"
+e357,Cité and Bourg
+e358,"Lausanne, Switzerland"
+e359,Tour de l’Ale
+e360,"Lausanne, Place de la Palud"
+e361,"Lausanne, Flon valley"
+e361,"Lausanne, Place du Pont"
+e361,"Lausanne, Place Centrale"
+e361,"Lausanne, Place du Flon"
+e362,"Lausanne, Place du Flon"
+e362,"Lausanne, Flon station"
+e362,federal warehouses
+e363,"Ouchy, Lausanne, Switzerland"
+e364,"Sauvabelin, Lausanne, Switzerland"
+e364,"Signal, Lausanne, Switzerland"
+e364,"Montbenon, Lausanne, Switzerland"
+e364,"Derrière Bourg, Lausanne, Switzerland"
+e364,castle and cathedral
+e365,"Beaulieu, Lausanne, Switzerland"
+e366,"Montriond le Crêt, Lausanne, Switzerland"
+e367,"Montriond Dapples, Lausanne, Switzerland"
+e368,"Lausanne, Switzerland"
+e369,"Lausanne, Switzerland"
+e370,"Lausanne, Switzerland"
+e371,"Lausanne, Switzerland"
+e372,"Lausanne, Switzerland"
+e373,"Lausanne, Switzerland"
+e374,"Lausanne, Switzerland"
+e375,"Lausanne, Switzerland"
+e376,"Lausanne, Switzerland"
+e377,"Lausanne, Switzerland"
+e377,"Canton of Vaud, Switzerland"
+e378,"Canton of Vaud, Switzerland"
+e379,"Lausanne, Switzerland"
+e380,"Lausanne, Switzerland"
+e381,"Lausanne, Switzerland"
+e382,"Lausanne, Switzerland"
+e383,"Lausanne, Switzerland"
+e384,"Lausanne, Switzerland"
+e385,"Lausanne, Switzerland"
+e386,"Lausanne, Switzerland"
+e387,"Lausanne, Switzerland"
+e388,"Lausanne, Switzerland"
+e389,"Lausanne, Switzerland"
+e390,"Lausanne, Switzerland"
+e391,"Lausanne, Switzerland"
+e392,"Lausanne, Switzerland"
+e393,"Lausanne, Switzerland"
+e394,The city
+e394,"Savoy, France"
+e395,The city
+e395,"Vaud, Switzerland"
+e396,The city
+e396,the city's and surrounding areas
+e397,The city
+e398,The city
+e399,The city
+e400,"Lausanne, Switzerland"
+e401,"Lausanne, Switzerland"
+e402,"Lausanne, Switzerland"
+e403,"Lausanne, Switzerland"
+e404,"Lausanne, Switzerland"
+e404,the Rhone power plant
+e405,"Lausanne, Switzerland"
+e410,"Lausanne, Switzerland"
+e411,"Lausanne, Switzerland"
+e412,"Lausanne, Switzerland"
+e413,"Lausanne, Switzerland"
+e414,"Lausanne, Vaud, Switzerland"
+e414,"Vaud, Switzerland"
+e415,"Lausanne, Vaud, Switzerland"
+e416,"Lausanne, Vaud, Switzerland"
+e417,"Lausanne, Vaud, Switzerland"
+e417,"Vaud, Switzerland"
+e418,"Vaud, Switzerland"
+e419,Vaud Cantonal Bank
+e419,"Canton of Vaud, Switzerland"
+e420,Vaud Cantonal Bank
+e420,"Canton of Vaud, Switzerland"
+e421,Vaud Cantonal Bank
+e421,"Canton of Vaud, Switzerland"
+e422,Vaud Cantonal Bank
+e422,"Canton of Vaud, Switzerland"
+e423,Vaud Cantonal Bank
+e423,"Canton of Vaud, Switzerland"
+e424,Vaud Cantonal Bank
+e424,"Canton of Vaud, Switzerland"
+e425,"Vaud, Switzerland"
+e426,"Vaud, Switzerland"
+e427,"Vaud, Switzerland"
+e428,"Canton of Vaud, Switzerland"
+e429,"Canton of Vaud, Switzerland"
+e430,"Canton of Vaud, Switzerland"
+e431,"Canton of Vaud, Switzerland"
+e432,"Canton of Vaud, Switzerland"
+e433,"Canton of Vaud, Switzerland"
+e434,"Lausanne, Switzerland"
+e435,Les Figuiers near Cour
+e436,"Lausanne, Switzerland"
+e437,"Place de la Riponne, Lausanne, Switzerland"
+e437,"Lausanne, Switzerland"
+e438,"Lausanne, Switzerland"
+e439,"Lausanne, Switzerland"
+e440,"Lausanne, Switzerland"
+e440,"Lutry, Switzerland"
+e441,La Pontaise
+e441,Chailly
+e441,La Sallaz
+e441,"Prilly, Switzerland"
+e441,"Renens, Switzerland"
+e441,Montoie
+e441,"Ouchy, Lausanne, Switzerland"
+e441,"Cugy, Switzerland"
+e442,"Lausanne, Switzerland"
+e443,"Lausanne, Switzerland"
+e444,"Lausanne, Switzerland"
+e444,"Lac de Bret, Switzerland"
+e444,Pierre de Plan
+e445,"Lausanne, Switzerland"
+e445,"Lausanne-Ouchy, Switzerland"
+e446,Montbenon hill
+e446,Jura-Simplon railway station
+e448,"Place du Flon, Lausanne, Switzerland"
+e450,"Lac de Bret, Vaud, Switzerland"
+e452,"Place du Flon, Lausanne, Switzerland"
+e452,"Flon valley, Lausanne, Switzerland"
+e453,"Gare de Bel Air, Lausanne, Switzerland"
+e453,"Place du Flon, Lausanne, Switzerland"
+e453,"Lausanne-Échallens, Lausanne, Switzerland"
+e454,Lausanne-Signal cable car
+e455,Lausanne-Signal cable car
+e456,Lausanne-Signal cable car
+e456,Vallon
+e456,Signal terrace
+e457,"Lausanne, Switzerland"
+e458,Place de Chauderon
+e458,"Lausanne, Switzerland"
+e458,"Gros-de-Vaud, Vaud, Switzerland"
+e459,"Lausanne, Switzerland"
+e460,"Lausanne, Switzerland"
+e461,"La Sallaz, Lausanne, Switzerland"
+e462,"Jorat, Switzerland"
+e462,"Moudon, Switzerland"
+e463,"Lausanne, Switzerland"
+e464,"Lausanne, Switzerland"
+e464,"Bern, Switzerland"
+e464,Simplon
+e464,Payerne-Lyss
+e464,"Neuchâtel, Switzerland"
+e464,Vallorbe-Pontarlier-Paris
+e464,"Geneva, Switzerland"
+e465,"Lausanne, Switzerland"
+e465,"Renens, Switzerland"
+e465,"Morges, Switzerland"
+e465,"Yverdon-les-Bains, Switzerland"
+e465,"Bussigny-près-Lausanne, Switzerland"
+e466,"Yverdon-les-Bains, Switzerland"
+e466,"Bussigny-près-Lausanne, Switzerland"
+e467,"Lausanne, Switzerland"
+e467,"Villeneuve, Vaud, Switzerland"
+e468,"Lausanne, Switzerland"
+e468,"Oron, Switzerland"
+e468,"Bern, Switzerland"
+e469,"Lausanne, Switzerland"
+e469,"Neuchâtel, Switzerland"
+e470,"Lausanne railway station, Lausanne, Switzerland"
+e471,"Lausanne railway station, Lausanne, Switzerland"
+e472,"Lausanne railway station, Lausanne, Switzerland"
+e473,"Lausanne railway station, Lausanne, Switzerland"
+e474,"Lausanne railway station, Lausanne, Switzerland"
+e475,"Geneva, Switzerland"
+e475,lakeshore towns
+e476,lakeshore towns
+e477,"Lausanne, Switzerland"
+e478,"Lausanne, Switzerland"
+e479,"Lausanne, Switzerland"
+e480,"Lausanne, Switzerland"
+e481,"Lausanne, Switzerland"
+e482,"Lausanne, Switzerland"
+e486,"Lausanne, Switzerland"
+e487,"Lausanne, Vaud, Switzerland"
+e487,"Vaud, Switzerland"
+e487,"Nyon District, Vaud, Switzerland"
+e487,"Fribourg, Switzerland"
+e487,"Valais, Switzerland"
+e488,"Lausanne, Vaud, Switzerland"
+e488,"Geneva, Switzerland"
+e488,"Vaud, Switzerland"
+e488,"Valais, Switzerland"
+e488,"Fribourg, Switzerland"
+e488,Sense and See districts
+e490,"Lausanne, Vaud, Switzerland"
+e491,"Lausanne, Vaud, Switzerland"
+e492,"Lausanne, Vaud, Switzerland"
+e493,"Lausanne, Switzerland"
+e494,"Lausanne, Switzerland"
+e495,"Lausanne, Switzerland"
+e496,"Lausanne, Switzerland"
+e497,"Lausanne, Switzerland"
+e498,"Lausanne, Switzerland"
+e499,"Lausanne, Switzerland"
+e501,suburbs
+e504,Lausanne
+e505,Lausanne
+e506,"Lausanne, Switzerland"
+e507,"Lausanne, Switzerland"
+e508,"Lausanne, Switzerland"
+e509,"Lausanne, Switzerland"
+e510,Lausanne
+e511,Lausanne
+e512,Lausanne
+e513,"Sauvabelin, Lausanne, Switzerland"
+e513,"Lausanne, Switzerland"
+e514,"Lausanne, Switzerland"
+e515,"Lausanne, Switzerland"
+e516,Lausanne
+e517,Lausanne
+e518,Lausanne
+e519,Lausanne
+e520,The city
+e521,The city
+e522,Villamont
+e523,Villamont
+e526,"University of Lausanne, Lausanne, Switzerland"
+e527,École Vinet
+e528,École Vinet
+e529,École Vinet
+e530,École Vinet
+e531,city
+e532,city
+e533,city
+e534,city
+e535,city
+e536,city
+e537,"Lausanne, Switzerland"
+e538,Champ de l’Air
+e539,Champ de l’Air
+e540,Champ de l’Air
+e541,Champ de l’Air
+e542,Champ de l’Air
+e543,Champ de l’Air
+e544,Bugnon
+e544,Champ de l’Air
+e545,"Vaud, Switzerland"
+e557,"Lausanne, Place de Chauderon, Switzerland"
+e559,"Canton of Vaud, Switzerland"
+e560,"Canton of Vaud, Switzerland"
+e561,"Canton of Vaud, Switzerland"
+e562,"Canton of Vaud, Switzerland"
+e563,"Canton of Vaud, Switzerland"
+e563,"University of Lausanne, Lausanne, Switzerland"
+e563,"École Polytechnique Fédérale de Lausanne, Lausanne, Switzerland"
+e564,Bernese
+e565,"University of Lausanne, Lausanne, Switzerland"
+e566,"University of Lausanne, Lausanne, Switzerland"
+e566,canton
+e567,the university
+e568,the university
+e569,the university
+e570,the university
+e571,The university
+e572,The university
+e573,the academy
+e574,the new university
+e575,the new university
+e576,the new university
+e577,"Lausanne, Switzerland"
+e578,"Lausanne, Switzerland"
+e579,"Lausanne, Switzerland"
+e580,university
+e581,Château Menthon
+e582,Château Menthon
+e582,College
+e583,"Rumine Palace, Lausanne, Switzerland"
+e584,"Vaud, Switzerland"
+e585,"Vaud, Switzerland"
+e586,"Vaud, Switzerland"
+e587,university
+e588,university
+e589,"Lausanne, Switzerland"
+e590,"Lausanne, Switzerland"
+e591,"Lausanne, Switzerland"
+e592,"Lausanne, Switzerland"
+e593,"Lausanne, Switzerland"
+e594,"Lausanne, Switzerland"
+e595,"Lausanne, Switzerland"
+e596,"Lausanne, Switzerland"
+e597,"Lausanne, Switzerland"
+e598,"Lausanne, Switzerland"
+e598,"Yverdon-les-Bains, Switzerland"
+e599,"Lausanne, Switzerland"
+e600,"Orbe, Switzerland"
+e600,"Lausanne, Switzerland"
+e603,the city
+e603,"Place de la Riponne, Lausanne, Switzerland"
+e604,"Place de la Riponne, Lausanne, Switzerland"
+e606,Switzerland
+e607,Western Switzerland
+e607,"Vaud, Switzerland"
+e608,Lake Geneva
+e609,"Vaud, Switzerland"
+e610,Musée Arlaud
+e610,Rumine Palace's north wing
+e612,Rumine Palace
+e613,"Lausanne, Switzerland"
+e614,"Lausanne, Switzerland"
+e615,Rue Chaucrau
+e616,Rue Chaucrau
+e617,"Rumine Palace, Lausanne, Switzerland"
+e618,cantonal
+e619,"Vaud, Switzerland"
+e621,"Lausanne, Switzerland"
+e622,"Cour, Lausanne, Switzerland"
+e623,"Lausanne, Switzerland"
+e624,"Lausanne, Switzerland"
+e625,"Vaud, Switzerland"
+e626,Romande Mission
+e627,Romande Mission
+e628,"Lausanne, Switzerland"
+e629,"Lausanne, Switzerland"
+e630,"Lausanne, Switzerland"
+e631,"Lausanne, Switzerland"
+e632,"Lausanne, Switzerland"
+e633,"Lausanne, Switzerland"
+e635,"Lausanne, Switzerland"
+e636,"Lausanne, Switzerland"
+e637,"Lausanne, Switzerland"
+e637,municipal Musée du Vieux Lausanne
+e638,"Lausanne, Switzerland"
+e639,"Lausanne, Switzerland"
+e640,"Lausanne, Vaud, Switzerland"
+e640,"Vaud, Switzerland"
+e641,"Lausanne, Vaud, Switzerland"
+e641,"Vaud, Switzerland"
+e642,the municipality
+e643,municipal council
+e644,municipal council
+e645,municipal council
+e646,municipal council
+e647,municipal council
+e648,municipal council
+e649,municipal council
+e650,the general council
+e650,the five municipal council members (la Municipalité)
+e651,municipal
+e652,"Lausanne, Switzerland"
+e653,"Lausanne, Switzerland"
+e654,"Lausanne, Switzerland"
+e655,"Lausanne, Switzerland"
+e656,"Lausanne, Switzerland"
+e657,"Lausanne, Switzerland"
+e658,"Lausanne, Switzerland"
+e659,"Lausanne, Switzerland"
+e660,"Lausanne, Switzerland"
+e661,"Lausanne, Switzerland"
+e662,"Lausanne, Switzerland"
+e663,Lausanne
+e664,"Lausanne, Switzerland"
+e665,"Lausanne, Switzerland"
+e666,Lausanne
+e667,Lausanne
+e668,Lausanne
+e669,"Lausanne, Switzerland"
+e670,"Lausanne, Switzerland"
+e672,"Lausanne, Switzerland"
+e673,"Lausanne, Switzerland"
+e682,"Lausanne, Switzerland"
+e683,"Lausanne, Switzerland"
+e684,"Lausanne, Switzerland"
+e685,"Lausanne, Switzerland"
+e686,municipal council
+e687,Dézaley de la Ville
+e688,city forests
+e689,"Vaud, Switzerland"
+e690,"Vaud, Switzerland"
+e691,"Vaud, Switzerland"
+e692,Municipal
+e693,"Lausanne, Switzerland"
+e694,"Lausanne, Switzerland"
+e695,"Lausanne, Switzerland"
+e696,"Lausanne, Switzerland"
+e701,"Lausanne, Switzerland"
+e702,"Lausanne, Switzerland"
+e703,"Lausanne, Switzerland"
+e704,"Lausanne, Switzerland"
+e705,"Lausanne, Switzerland"
+e706,"Lausanne, Switzerland"
+e707,"Lausanne, Switzerland"
+e708,"Lausanne, Switzerland"
+e709,"Lausanne, Switzerland"
+e710,municipal
+e711,city
+e712,"Lausanne, Place de la Riponne"
+e715,"Ouchy, Lausanne"
+e715,lake shore
+e716,"Renens, Vaud, Switzerland"
+e717,Lausanne
+e718,Lausanne
+e720,"Lausanne, Switzerland"
+e721,"L'Étivaz, Pays d'Enhaut, Switzerland"
+e722,"Sonzier, Montreux, Switzerland"
+e722,"Montreux, Switzerland"
+e723,Sonzier-Lausanne
+e724,Montalègre reservoir
+e725,Place de l’Ours
+e725,Calvaire
+e726,"Lausanne, Switzerland"
+e726,"Pays d'Enhaut, Switzerland"
+e726,Pont de Pierre
+e727,"Lausanne, Switzerland"
+e728,"Lausanne, Switzerland"
+e728,"Lac de Bret, Switzerland"
+e729,"Lausanne, Switzerland"
+e729,"Lac de Bret, Switzerland"
+e730,Chailly reservoir
+e730,"Lausanne, Switzerland"
+e731,Chailly reservoir
+e731,"Lausanne, Switzerland"
+e732,"Lausanne, Switzerland"
+e733,"Lausanne, Switzerland"
+e733,"Lac de Bret, Switzerland"
+e733,Grenet
+e733,"Broye, Switzerland"
+e734,"Lausanne, Switzerland"
+e735,"Morges, Switzerland"
+e736,"Lausanne, Switzerland"
+e737,"Lausanne, Switzerland"
+e738,"Lausanne, Switzerland"
+e739,"Lausanne, Switzerland"
+e740,"Lausanne, Switzerland"
+e741,"Lausanne, Switzerland"
+e742,"Lac de Bret, Switzerland"
+e743,"Lausanne, Switzerland"
+e744,"Lausanne, Switzerland"
+e745,"Lausanne, Switzerland"
+e745,"Saint-Maurice, Valais, Switzerland"
+e746,"Lausanne, Switzerland"
+e748,"Saint-Maurice, Switzerland"
+e748,"Lausanne, Switzerland"
+e749,"Saint-Maurice, Switzerland"
+e750,"Lausanne, Switzerland"
+e750,Pierre de Plan northeast of the city on a hill
+e751,"Lausanne, Switzerland"
+e752,"Lausanne, Switzerland"
+e754,Public lighting
+e755,Public lighting
+e756,city
+e757,Pierre de Plan station
+e757,"Lutry, Switzerland"
+e757,"Paudex, Switzerland"
+e757,"Pully, Switzerland"
+e757,"Renens, Switzerland"
+e757,"Crissier, Switzerland"
+e757,"Écublens, Switzerland"
+e758,Pierre de Plan station
+e758,cement factory Paudex
+e758,"Monthey, Switzerland"
+e759,"Saint-Maurice, Valais, Switzerland"
+e759,Rhone central plant
+e760,"Lausanne, Switzerland"
+e766,city
+e767,city
+e768,Switzerland
+e769,Switzerland
+e770,Switzerland
+e771,"Lausanne, Vaud, Switzerland"
+e771,"Vaud, Switzerland"
+e772,"Lausanne, Switzerland"
+e773,"Lausanne, Switzerland"
+e774,"Lausanne, Switzerland"
+e775,"Lausanne, Switzerland"
+e776,"Lausanne, Switzerland"
+e777,"Lausanne, Switzerland"
+e778,"Lausanne, Switzerland"
+e779,The municipality
+e780,The municipality
+e781,The municipality
+e782,The municipality
+e783,The municipality
+e788,Rue Saint Martin
+e789,"Lausanne, Switzerland"
+e790,Cité
+e791,Cité
+e792,cantonal hospital
+e793,cantonal hospital
+e794,Madeleine
+e794,Hôpital de Saint Roch
+e795,Saint Jean l’Évangéliste
+e795,"Lausanne, Switzerland"
+e796,Saint Jean l’Évangéliste
+e796,"Great St Bernard Hospice, Switzerland"
+e797,Saint Jean l’Évangéliste
+e797,"Lausanne, Switzerland"
+e798,"Lausanne, Switzerland"
+e799,"Lausanne, Switzerland"
+e800,"Vaud, Switzerland"
+e801,"Vaud, Switzerland"
+e801,the municipality
+e802,the municipality
+e803,"Lausanne, Switzerland"
+e803,Rue de la Mercerie
+e804,"Lausanne, Switzerland"
+e804,Champ de l’Air (now the agricultural institute building)
+e805,"Lausanne, Switzerland"
+e807,"Les Croisettes, Lausanne, Switzerland"
+e808,"Lausanne, Switzerland"
+e810,Calvaire
+e811,Calvaire
+e812,Montmeillan
+e813,Calvaire pavilions
+e815,a polyclinic
+e816,a polyclinic
+e816,the maternity hospital
+e817,"Lausanne, Switzerland"
+e817,Place de la Palud
+e817,Town Hall
+e818,"Lausanne, Switzerland"
+e819,"Lausanne, Switzerland"
+e820,"Bern, Switzerland"
+e821,"Lausanne, Switzerland"
+e822,This clinic
+e823,This clinic
+e824,the institution
+e825,the institution
+e835,here
+e836,here
+e837,"Lausanne, Switzerland"
+e837,Moulin Creux (Flon Valley)
+e838,Bois Cerf
+e839,Bois Cerf
+e842,The children's hospital (Hospice de l’enfance)
+e843,The children's hospital (Hospice de l’enfance)
+e844,The children's hospital (Hospice de l’enfance)
+e845,The children's hospital (Hospice de l’enfance)
+e847,Solitude
+e849,Lausanne
+e850,Lausanne
+e853,Saint Roch
+e854,Lausanne
+e855,Lausanne
+e856,Lausanne
+e857,"Lausanne, Switzerland"
+e857,Montoie
+e857,La Sallaz
+e857,La Pontaise
+e857,Vers chez les Blancs
+e857,Montherond
+e858,the castle
+e859,the old Évêché
+e860,the old Évêché
+e861,the old Évêché
+e861,the cathedral terrace
+e862,the same place
+e863,the same place
+e864,the same place
+e864,Évêché rooms
+e865,Bois Mermet
+e865,La Pontaise
+e866,"Bern, Switzerland"
+e866,"Vaud, Switzerland"
+e867,Villamont
+e868,a new penitentiary
+e869,a new penitentiary
+e870,a new penitentiary
+e871,a new penitentiary
+e873,"Vaud, Switzerland"
+e875,"Les Croisettes, Lausanne, Switzerland"
+e876,"Chailly, Lausanne, Switzerland"
+e877,The central jail
+e878,The central jail
+e879,The central jail
+e880,The central jail
+e881,"Lausanne, Switzerland"
+e882,"Lausanne, Switzerland"
+e883,"Lausanne, Switzerland"
+e884,Central Charity Office (Bureau central de bienfaisance)
+e891,Les Fourmis society
+e893,"Wildegg, Switzerland"
+e894,German
+e895,French
+e898,elementary and Catholic schools
+e900,"Lausanne, Switzerland"
+e905,cantonal hospital
+e905,Moulin Creux
+e906,"Lausanne, Switzerland"
+e907,"Lausanne, Switzerland"
+e908,"Lausanne, Switzerland"
+e909,"Lausanne, Switzerland"
+e910,"Lausanne, Switzerland"
+e911,"Lausanne, Switzerland"
+e912,"Lausanne, Switzerland"
+e913,"Lausanne, Switzerland"
+e914,"Lausanne, Switzerland"
+e915,"Lausanne, Switzerland"
+e916,"Lausanne, Switzerland"
+e917,"Lausanne, Switzerland"
+e918,"Vaud, Switzerland"
+e919,"Vaud, Switzerland"
+e920,"Vaud, Switzerland"
+e921,"Vaud, Switzerland"
+e922,city
+e923,city
+e924,city
+e925,city
+e926,city
+e927,city
+e928,city
+e929,city
+e930,city
+e931,city
+e932,city
+e933,city
+e934,city
+e935,city
+e936,city
+e937,"Vaud, Switzerland"
+e938,"Romandy, Switzerland"
+e938,"Vaud, Switzerland"
+e938,"Neuchâtel, Switzerland"
+e938,"Geneva, Switzerland"
+e939,"Romandy, Switzerland"
+e940,the Cité
+e941,Caroline
+e942,the Cité
+e942,Caroline
+e943,city
+e943,canton
+e944,"Lausanne, Switzerland"
+e945,"Lausanne, Switzerland"
+e946,"Lausanne, Switzerland"
+e947,"Lausanne, Switzerland"
+e948,"Lausanne, Switzerland"
+e949,"Lausanne, Switzerland"
+e950,"Lausanne, Switzerland"
+e951,"Lausanne, Switzerland"
+e952,"La Pontaise, Lausanne, Switzerland"
+e953,"Lausanne, Switzerland"
+e953,"Romanel-sur-Lausanne, Switzerland"
+e953,"Le Mont-sur-Lausanne, Switzerland"
+e954,"Lausanne, Switzerland"
+e954,"Romanel-sur-Lausanne, Switzerland"
+e954,"Le Mont-sur-Lausanne, Switzerland"
+e955,"Lausanne, Switzerland"
+e955,"Romanel-sur-Lausanne, Switzerland"
+e955,"Le Mont-sur-Lausanne, Switzerland"
+e956,"Lausanne, Switzerland"
+e956,Mauverney
+e956,Chalet à Gobet
+e957,"Lausanne, Switzerland"
+e958,"Lausanne, Switzerland"
+e959,"Vidy, Lausanne, Switzerland"
+e959,"Cour, Lausanne, Switzerland"
+e960,Pierra Portay
+e960,"Chamblandes, Lausanne, Switzerland"
+e961,"Villars, Montbenon, Lausanne, Switzerland"
+e962,"Vernand, Lausanne, Switzerland"
+e963,"Lausanne, Switzerland"
+e964,"Vernand, Lausanne, Switzerland"
+e965,"Lausanne, Switzerland"
+e965,"Vidy, Lausanne, Switzerland"
+e965,Maladière
+e965,Bois de Vaud
+e965,"Malley, Lausanne, Switzerland"
+e966,"Bois de Vaud, Lausanne, Switzerland"
+e966,Contigny
+e967,"Bois de Vaud, Lausanne, Switzerland"
+e967,"Vidy, Lausanne, Switzerland"
+e967,"Malley, Lausanne, Switzerland"
+e968,"La Mercerie, Lausanne, Switzerland"
+e968,Champ de l’Air
+e968,"Chavannes-près-Renens, Vaud, Switzerland"
+e968,"Vidy, Lausanne, Switzerland"
+e968,Bel Air near Cheseaux
+e969,"Lausanne, Switzerland"
+e970,"Vidy, Lausanne, Switzerland"
+e970,Lousonna
+e970,Lousena
+e970,Lausanna
+e970,Lausonium
+e970,Losonne
+e970,Losene
+e971,"Flon, Lausanne, Switzerland"
+e972,Helvetia
+e973,Gaul
+e974,lakeside pile dwellings near Vidy
+e975,"Vidy, Lausanne, Switzerland"
+e976,"Lausanne, Switzerland"
+e978,the lake
+e978,"Flon, Lausanne, Switzerland"
+e978,the new Morges road
+e979,the lake
+e980,the lake
+e981,"Lausanne, Switzerland"
+e982,Flon valley
+e982,a hill
+e983,a hill
+e984,"Avenches, Switzerland"
+e984,"Lausanne, Switzerland"
+e985,"Lausanne, Switzerland"
+e985,"Lausanne, Switzerland"
+e986,"Lausanne, Switzerland"
+e988,the Cité
+e989,Cité
+e989,Bourg settlement
+e990,Cité
+e990,Bourg settlement
+e991,The Cité
+e992,the Bourg
+e993,Flon
+e994,Saint Laurent
+e996,The Bourg
+e996,Bourg
+e996,Pont
+e996,Palud
+e996,Saint Laurent
+e997,the Cité
+e998,the Cité
+e998,the Civitas Lausannensis communitas
+e1000,The Cité
+e1001,the Bourg
+e1002,the Bourg
+e1003,the Bourg
+e1003,Germany
+e1003,Italy
+e1003,France
+e1003,"Provence, France"
+e1004,the Bourg
+e1005,"Lausanne, Switzerland"
+e1006,five city quarters
+e1007,the bishop
+e1008,the bishop
+e1009,"Lavaux, Switzerland"
+e1010,the city
+e1011,the city
+e1012,the city
+e1013,city
+e1014,"Lausanne, Switzerland"
+e1015,"Lausanne, Switzerland"
+e1016,Municipal
+e1017,Cité
+e1018,city
+e1019,city
+e1020,city
+e1021,"Lausanne, Switzerland"
+e1022,"Lausanne, Switzerland"
+e1023,city
+e1023,"Vaud, Switzerland"
+e1024,"Lausanne, Switzerland"
+e1025,"Lausanne, Switzerland"
+e1026,"Lausanne, Place du Pont, Switzerland"
+e1027,"Lausanne, Place de la Palud, Switzerland"
+e1028,"Lausanne, Switzerland"
+e1029,"Lausanne, Switzerland"
+e1030,"Lausanne, Switzerland"
+e1031,"Lausanne, Switzerland"
+e1032,"Lausanne, Switzerland"
+e1033,"Lausanne, Switzerland"
+e1034,"Lausanne, Switzerland"
+e1035,"Lausanne, Switzerland"
+e1036,"Lausanne, Switzerland"
+e1036,"Bern, Switzerland"
+e1036,"Fribourg, Switzerland"
+e1037,"Lausanne, Switzerland"
+e1037,"Bern, Switzerland"
+e1037,"Fribourg, Switzerland"
+e1038,"Geneva, Switzerland"
+e1039,"Geneva, Switzerland"
+e1039,"Bern, Switzerland"
+e1040,"Bern, Switzerland"
+e1040,"Vaud, Switzerland"
+e1041,"Lausanne, Switzerland"
+e1041,"Bern, Switzerland"
+e1042,"Lausanne, Switzerland"
+e1042,"Bern, Switzerland"
+e1043,"Bern, Switzerland"
+e1044,"Bern, Switzerland"
+e1045,Lausanne
+e1046,Lausanne
+e1047,"Bern, Switzerland"
+e1048,"Savoy, France"
+e1049,"Bern, Switzerland"
+e1050,"Lausanne, Switzerland"
+e1051,"Lausanne, Switzerland"
+e1051,France
+e1051,"Savoy, France"
+e1051,England
+e1052,"Lausanne, Switzerland"
+e1053,French Revolution
+e1055,"Vaud, Switzerland"
+e1056,the region
+e1056,"Bern, Switzerland"
+e1057,"Lausanne, Switzerland"
+e1059,"Lausanne, Switzerland"
+e1060,"Lausanne, Switzerland"
+e1061,"Vaud, Switzerland"
+e1061,"Lausanne, Switzerland"
+e1062,"Lausanne, Switzerland"
+e1063,Lausanne
+e1064,Lausanne
+e1065,Bern-Lausanne line
+e1066,Old city
+e1067,"Lausanne, Switzerland"
+e1088,Mont Riond-Dapples estate
+e1088,Rue du Grand Chêne 6
+e1089,"Mon Repos, Lausanne, Switzerland"
+e1090,"Place de la Madeleine, Lausanne, Switzerland"
+e1091,Rue de Bourg 16
+e1092,former Steiner house
+e1093,Lausanne
+e1094,"Lausanne, Switzerland"
+e1094,Beau Séjour
+e1095,La Chablière estate
+e1096,La Rosière
+e1096,"Westphalia, Germany"
+e1097,"Lausanne, Switzerland"
+e1098,houses Morin (Place de la Palud 21)
+e1098,Bugnion (Rue du Grand Chêne 1)
+e1098,"Vaud, Switzerland"
+e1099,La Rosière
+e1100,"Ouchy, Lausanne, Switzerland"
+e1101,"Ouchy, Lausanne, Switzerland"
+e1102,Beau Site estate (road to Vevey)
+e1105,"Lübeck, Germany"
+e1106,"Lausanne, Switzerland"
+e1108,"Lausanne, Le Pont, Switzerland"
+e1108,"Lausanne, La Palud, Switzerland"
+e1109,"Lausanne, Le Pont, Switzerland"
+e1109,"Lausanne, La Palud, Switzerland"
+e1110,"Lausanne, Switzerland"
+e1111,"Flon River, Lausanne, Switzerland"
+e1112,"Flon River, Lausanne, Switzerland"
+e1113,"Flon River, Lausanne, Switzerland"
+e1114,"Flon River, Lausanne, Switzerland"
+e1115,"Flon, Lausanne, Switzerland"
